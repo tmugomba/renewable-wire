@@ -1,4 +1,3 @@
-
 """
 fetch_news.py
 =============
@@ -211,6 +210,9 @@ def fetch_feed(feed):
         title = (entry.get("title") or "").strip()
         link = (entry.get("link") or "").strip()
         if not title or not link:
+            continue
+        if not (link.startswith("http://") or link.startswith("https://")):
+            print(f"  ! {feed['source']}: skipping entry with non-absolute link ({link!r})", file=sys.stderr)
             continue
 
         summary = clean_summary(entry.get("summary") or entry.get("description") or "")
