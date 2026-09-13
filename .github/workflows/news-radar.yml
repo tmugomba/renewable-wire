@@ -1,1 +1,42 @@
 
+name: Renewable Wire news pipeline
+
+# Runs daily at 11:00 UTC (about 7-8am Atlantic time depending on DST),
+# and can also be triggered manually from the Actions tab for testing.
+"on":
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch and classify news
+        run: python3 scripts/fetch_news.py
+
+      - name: Commit data/news.json if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/news.json; then
+            echo "No changes to data/news.json -- nothing to commit."
+          else
+            git add data/news.json
+            git commit -m "Update news data ($(date -u +'%Y-%m-%d'))"
+            git push
+          fi
