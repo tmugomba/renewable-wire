@@ -1,5 +1,247 @@
 [
   {
+    "title": "Alpex Solar inaugurates 2.2 GW TOPCon cell factory in India",
+    "summary": "Alpex Solar has inaugurated a G12R TOPCon solar cell factory in Uttar Pradesh, expanding its vertically integrated manufacturing operations. The post Alpex Solar inaugurates 2.2 GW TOPCon cell factory in India appeared...",
+    "link": "https://www.pv-magazine.com/2026/09/17/alpex-solar-inaugurates-2-2-gw-topcon-cell-manufacturing-facility-in-uttar-pradesh/",
+    "source": "pv magazine",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": 356,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Taiwan adds carbon-footprint requirement to high-efficiency PV module standard",
+    "summary": "Taiwan has tied its voluntary high-efficiency solar module certification to a new emissions-based qualification bar, tightening durability testing along the way. The post Taiwan adds carbon-footprint requirement to...",
+    "link": "https://www.pv-magazine.com/2026/09/17/taiwan-adds-carbon-footprint-requirement-to-high-efficiency-pv-module-standard/",
+    "source": "pv magazine",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "First Solar drops TOPCon patent complaint",
+    "summary": "The thin-film manufacturer withdrew its Section 337 filing before the USITC following new Section 232 import restrictions, while federal court patent battles against domestic and foreign manufacturers move forward. The...",
+    "link": "https://www.pv-magazine.com/2026/09/17/first-solar-drops-topcon-patent-complaint/",
+    "source": "pv magazine",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Bangladesh launches $123 million rooftop solar fund",
+    "summary": "Bangladesh has launched a $123 million fund to provide concessional financing for rooftop solar and other renewable energy projects. The government is also seeking international funding to install 4 GW of rooftop solar...",
+    "link": "https://www.pv-magazine.com/2026/09/17/bangladesh-launches-123-million-rooftop-solar-fund/",
+    "source": "pv magazine",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "South Korea’s new agrivoltaics law sets 30-year permit ceiling",
+    "summary": "South Korea has enacted its first dedicated agrivoltaics law, extending the maximum project period to 30 years from a previously reported 23-year framework, but key technical requirements remain undecided pending...",
+    "link": "https://www.pv-magazine.com/2026/09/17/south-koreas-new-agrivoltaics-law-sets-30-year-permit-ceiling/",
+    "source": "pv magazine",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Spain launches capacity market as grid investment rises above €17 billion",
+    "summary": "Spain is introducing a new mechanism to remunerate generation, battery storage and demand for providing firm capacity and flexibility, while increasing planned electricity grid investment through 2030 to more than €17...",
+    "link": "https://www.pv-magazine.com/2026/09/17/spain-launches-capacity-market-as-grid-investment-rises-above-e17-billion/",
+    "source": "pv magazine",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": 724,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Scientists build 17%-efficient semi-transparent perovskite solar cell based on sputter-resistant aluminum oxide layer",
+    "summary": "Researchers replaced the conventional 20 nm SnOₓ buffer layer with just 3 nm of ALD-deposited AlOₓ, which protected inverted perovskite cells from ITO sputtering damage while maintaining efficient charge extraction. The...",
+    "link": "https://www.pv-magazine.com/2026/09/17/scientists-build-17-efficient-semi-transparent-perovskite-solar-cell-based-on-sputter-resistant-aluminum-oxide-layer/",
+    "source": "pv magazine",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "China targets perovskite solar, advanced batteries in five-year plan",
+    "summary": "China has identified perovskite solar and next-generation batteries as strategic priorities in its 2026-30 industrial roadmap. The plan also calls for tighter oversight of manufacturing capacity and price competition...",
+    "link": "https://www.pv-magazine.com/2026/09/17/china-targets-perovskite-solar-advanced-batteries-in-five-year-plan/",
+    "source": "pv magazine",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": 156,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "PV inverters provide reactive power to Milan’s grid at night",
+    "summary": "Researchers in Milan used PV inverters to supply 500 kVAr of reactive power to the distribution grid for four hours overnight. The trial showed that existing solar equipment can support voltage regulation even when it...",
+    "link": "https://www.pv-magazine.com/2026/09/17/pv-inverters-provide-reactive-power-to-milans-grid-at-night/",
+    "source": "pv magazine",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Global residential storage market to hit 46.1 GWh in 2026",
+    "summary": "InfoLink Consulting expects global residential energy storage capacity additions to reach 46.1 GWh in 2026, led by Europe, Oceania, and Asia. Fox ESS, Sigenergy, and Deye ranked as the top three suppliers by shipment...",
+    "link": "https://www.pv-magazine.com/2026/09/17/global-residential-storage-market-to-hit-46-1-gwh-in-2026/",
+    "source": "pv magazine",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Farm Electrification Should Start With The Work, Not The Tractor",
+    "summary": "Ask whether agriculture can electrify and the conversation usually arrives at the same machine within minutes: the tractor. More specifically, the large diesel tractor working hard through planting, harvest or another...",
+    "link": "https://cleantechnica.com/2026/09/17/farm-electrification-starts-with-the-work/",
+    "source": "CleanTechnica",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Solar Energy Industries Association to Combine with Coalition for Community Solar Access, Strengthening Advocacy for Entire Solar & Storage Industry Across the Country",
+    "summary": "WASHINGTON D.C. — The Solar Energy Industries Association (SEIA) and Coalition for Community Solar Access (CCSA) today announced that the two organizations will combine following approval from each organization’s Boards...",
+    "link": "https://cleantechnica.com/2026/09/16/solar-energy-industries-association-to-combine-with-coalition-for-community-solar-access-strengthening-advocacy-for-entire-solar-storage-industry-across-the-country/",
+    "source": "CleanTechnica",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Hithium unveils 20,000-cycle sodium-ion cell and 4MWh BESS",
+    "summary": "Hithium hosted a launch yesterday for its new sodium-ion (Na-ion) battery cell and energy storage system product line, promising a 30-year expected operational lifetime.",
+    "link": "https://www.energy-storage.news/hithium-unveils-20000-cycle-sodium-ion-cell-and-4mwh-bess/",
+    "source": "Energy Storage News",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Contracted revenue key to California BESS financing as merchant market weakens, esVolta CEO explains",
+    "summary": "Energy-Storage.news Premium speaks with Randolph Mann, CEO at developer esVolta at the 2026 US Battery Asset Management Summit in Garden Grove, California.",
+    "link": "https://www.energy-storage.news/contracted-revenue-key-to-california-bess-financing-as-merchant-market-weakens-esvolta-ceo-explains/",
+    "source": "Energy Storage News",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Commissioning delays and technical gaps plague battery storage handovers, industry experts warn",
+    "summary": "The transition of battery energy storage systems (BESS) from development to operations remains fraught with technical gaps and communication breakdowns.",
+    "link": "https://www.energy-storage.news/commissioning-delays-and-technical-gaps-plague-battery-storage-handovers-industry-experts-warn/",
+    "source": "Energy Storage News",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Fluence cuts 2026 revenue & EBITDA guidance as US production delays bite",
+    "summary": "Fluence has revised downward its fiscal year 2026 (FY2026) guidance, attributing the financial hit largely to US supply chain delays.",
+    "link": "https://www.energy-storage.news/fluence-cuts-2026-revenue-ebitda-guidance-as-us-production-delays-bite/",
+    "source": "Energy Storage News",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "IHA’s Delhi Declaration calls for policy overhaul to unlock India’s 288GW pumped hydro energy storage potential",
+    "summary": "IHA has urged India to accelerate pumped storage through faster clearances, stronger revenues and improved coordination.",
+    "link": "https://www.energy-storage.news/ihas-delhi-declaration-calls-for-policy-overhaul-to-unlock-indias-288gw-pumped-hydro-energy-storage-potential/",
+    "source": "Energy Storage News",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": 356,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Iberian BESS market needs more flexibility, clearer frameworks and faster permitting",
+    "summary": "At last week’s Battery Energy Tech Expo in Barcelona, Spain, panellists highlighted some of the challenges that companies are facing for a faster deployment of BESS.",
+    "link": "https://www.energy-storage.news/iberian-bess-market-needs-more-flexibility-clearer-frameworks-and-faster-permitting/",
+    "source": "Energy Storage News",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": 724,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Alinta Energy receives first battery units for 250MW Reeves Plains project in South Australia",
+    "summary": "Alinta Energy has received the first shipment of battery units for its 250MW Reeves Plains Battery project in South Australia.",
+    "link": "https://www.energy-storage.news/alinta-energy-receives-first-battery-units-for-250mw-reeves-plains-project-in-south-australia/",
+    "source": "Energy Storage News",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": 36,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Victoria’s SEC takes stake in 1.86GWh battery storage system in Australia alongside Aware Super and Birdwood",
+    "summary": "Victoria's SEC invests up to AU$43 million for a stake in 400MW Baranduda battery system near Wodonga alongside Aware Super.",
+    "link": "https://www.energy-storage.news/victorias-sec-takes-stake-in-1-86gwh-battery-storage-system-in-australia-alongside-aware-super-and-birdwood/",
+    "source": "Energy Storage News",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": 36,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Andy Burnham: UK must fully commit to reaching net zero by 2050",
+    "summary": "Exclusive: PM, who is facing pressure over whether to approve North Sea oil and gasfields, makes strongest comments yet on issue British people understand the climate crisis threat. Today I’m empowering them to tackle...",
+    "link": "https://www.theguardian.com/environment/2026/sep/17/andy-burnham-uk-must-fully-commit-to-reaching-net-zero-by-2050",
+    "source": "The Guardian",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "British people understand the climate crisis threat. Today I’m empowering them to tackle it | Andy Burnham",
+    "summary": "With nearly £30m of funding, I’m giving communities power over local energy. They know the gravity of global heating, and they want to be part of the solution Andy Burnham: UK must fully commit to reaching net zero by...",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/17/andy-burnham-climate-crisis-funding-peoples-power-projects",
+    "source": "The Guardian",
+    "date": "2026-09-17",
+    "edition": "global",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "Poland’s solar pipeline hits 40.6 GW",
     "summary": "An independent Polish research institute says its latest database of solar projects with grid-connection conditions has grown to 40.6 GW, even as the number of tracked projects fell under a revised methodology that...",
     "link": "https://www.pv-magazine.com/2026/09/16/polands-solar-pipeline-hits-40-6-gw/",
@@ -228,6 +470,39 @@
     "edition": "global",
     "region": 826,
     "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "AI Is Climate Tech’s Newest Hype Layer — The Commercial Problems Are Older",
+    "summary": "Panthalassa raised $140 million this year to build autonomous ocean platforms that would generate electricity from waves and use it directly for AI inference computing at sea. The proposition removes one genuine problem...",
+    "link": "https://cleantechnica.com/2026/09/16/ai-is-climate-techs-newest-hype-layer/",
+    "source": "CleanTechnica",
+    "date": "2026-09-16",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Canada celebrates the inauguration of Atlantic Canada’s largest energy storage facilities",
+    "summary": "Today, Jaimie Battiste, Parliamentary Secretary to the Minister of Crown-Indigenous Relations, on behalf of the Honourable Tim Hodgson, Minister of Energy and Natural Resources, joined Nova Scotia Power, the Canada...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/09/canada-celebrates-the-inauguration-of-atlantic-canadas-largest-energy-storage-facilities.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-09-16",
+    "edition": "canada",
+    "region": "NS",
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Canada strengthens global energy partnerships at the G20 Energy Abundance Ministerial Meeting",
+    "summary": "From September 14 to 16, Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, attended the G20 Energy Abundance Ministerial Meeting in Houston, Texas, where he joined energy ministers to...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/09/canada-strengthens-global-energy-partnerships-at-the-g20-energy-abundance-ministerial-meeting.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-09-16",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
     "major": false
   },
   {
@@ -1382,7 +1657,7 @@
     "date": "2026-09-01",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
