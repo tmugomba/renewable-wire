@@ -1,5 +1,71 @@
 [
   {
+    "title": "UK regulator plans BESS fees to cut grid connection queue",
+    "summary": "Financial commitment for battery energy storage systems (BESS) nears approval in a bid to further cut overcapacity in Great Britain’s connection queue. Despite recent grid connection reform efforts, the connection queue...",
+    "link": "https://www.pv-magazine.com/2026/09/19/uk-regulator-plans-bess-fees-to-cut-grid-connection-queue/",
+    "source": "pv magazine",
+    "date": "2026-09-19",
+    "edition": "global",
+    "region": 826,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Tesla’s $10.1 billion Texas solar gigafactory clears key tax hurdle",
+    "summary": "A 7-0 vote by Lamar Consolidated Independent School District approves property tax incentives for Project Crystal Sun, advancing plans for a vertically integrated solar cell and module facility in Fort Bend County. The...",
+    "link": "https://www.pv-magazine.com/2026/09/19/teslas-10-1-billion-texas-solar-gigafactory-clears-key-tax-hurdle/",
+    "source": "pv magazine",
+    "date": "2026-09-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Solar module imports drop 48% in Brazil in H1",
+    "summary": "Brazil’s PV module imports fell 48% year on year to 5.48 GW in the first half of 2026, driven by an 82% decline in demand from utility-scale projects amid widespread curtailment. Distributed generation imports fell 39%...",
+    "link": "https://www.pv-magazine.com/2026/09/19/solar-module-imports-drop-48-in-brazil-in-h1/",
+    "source": "pv magazine",
+    "date": "2026-09-19",
+    "edition": "global",
+    "region": 76,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "German grid operator dispute limits battery use at new solar-storage hybrid plant",
+    "summary": "Grid operator Eon Edis has withdrawn previously agreed import capacity for a newly opened 69 MW solar-plus-storage plant in northeastern Germany, limiting its 76.5 MWh battery to storing only power generated on-site...",
+    "link": "https://www.pv-magazine.com/2026/09/19/german-grid-operator-dispute-limits-battery-use-at-new-solar-storage-hybrid-plant/",
+    "source": "pv magazine",
+    "date": "2026-09-19",
+    "edition": "global",
+    "region": 276,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Green hydrogen’s growing share in chemical production",
+    "summary": "The chemical industry requires enormous amounts of hydrogen for a wide range of products and processes. In the final part of pv magazine 's Renewables 24/7 series, we head to the world’s largest chemical plant in...",
+    "link": "https://www.pv-magazine.com/2026/09/19/green-hydrogens-growing-share-in-chemical-production/",
+    "source": "pv magazine",
+    "date": "2026-09-19",
+    "edition": "global",
+    "region": null,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Brazil’s wind farms have been a huge success. So why isn’t everybody reaping the benefits?",
+    "summary": "While the country’s ambition is to be the ‘Saudi Arabia of green energy’, communities in the north-east are bearing the cost in diminished health and livelihoods Beneath the power lines cutting across Antonio de Souza’s...",
+    "link": "https://www.theguardian.com/global-development/2026/sep/19/brazils-wind-farms-have-been-a-huge-success-so-why-isnt-everybody-reaping-the-benefits",
+    "source": "The Guardian",
+    "date": "2026-09-19",
+    "edition": "global",
+    "region": 76,
+    "category": "Wind",
+    "major": false
+  },
+  {
     "title": "Regulatory uncertainty threatens to slow German PV deployment in 2027",
     "summary": "Germany’s PV sector remains buoyant in 2026, but regulatory uncertainty and tighter financing conditions are raising fears of a downturn. Without transitional measures, proposed limits on grid feed-in could trigger...",
     "link": "https://www.pv-magazine.com/2026/09/18/regulatory-uncertainty-threatens-to-slow-german-pv-deployment-in-2027/",
@@ -184,6 +250,39 @@
     "edition": "global",
     "region": 826,
     "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Sierra Club Applauds Governor Abigail Spanberger’s Data Center Executive Order and Policy Framework Release",
+    "summary": "Sierra Club Applauds Governor Abigail Spanberger s Data Center Executive Order and Policy Framework Release Richmond, VA — Today, Governor Abigail Spanberger announced protections regarding data center development in...",
+    "link": "https://cleantechnica.com/2026/09/18/sierra-club-applauds-governor-abigail-spanbergers-data-center-executive-order-and-policy-framework-release/",
+    "source": "CleanTechnica",
+    "date": "2026-09-18",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Jackery SolarVault 3 Shows Potential To Scale From Balcony To Whole Home",
+    "summary": "Last week, I wrote about the new Jackery EnergyGuard Max 100 kWh battery at IFA Berlin. This large capacity offers customers home energy storage to easily cover their needs as electrification evolves. Those with large...",
+    "link": "https://cleantechnica.com/2026/09/18/jackery-solarvault-3-shows-potential-to-scale-from-balcony-to-whole-home/",
+    "source": "CleanTechnica",
+    "date": "2026-09-18",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Australia’s renewables transition is well under way – but meeting its 2030 target will be ‘extremely challenging’",
+    "summary": "A gap looms between the Albanese government’s goal of 82% renewable energy and planned solar and wind projects Get our breaking news email , free app or daily news podcast The challenges of Australia’s energy transition...",
+    "link": "https://www.theguardian.com/environment/2026/sep/19/australia-renewables-transition-target-albanese-energy-solar-wind",
+    "source": "The Guardian",
+    "date": "2026-09-18",
+    "edition": "global",
+    "region": 36,
+    "category": "Wind",
     "major": false
   },
   {
@@ -1767,7 +1866,7 @@
     "date": "2026-09-03",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
