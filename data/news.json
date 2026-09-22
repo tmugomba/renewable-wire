@@ -1,5 +1,225 @@
 [
   {
+    "title": "EU prepares minimum energy-efficiency standards for data centers",
+    "summary": "The European Commission has proposed a classification and labeling system for data centers and launched a consultation on minimum energy-efficiency standards. EU data center electricity consumption could rise from 68...",
+    "link": "https://www.pv-magazine.com/2026/09/22/eu-prepares-minimum-energy-efficiency-standards-for-data-centers/",
+    "source": "pv magazine",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "IRA-stimulated U.S. solar manufacturing capex to reach $12.2 billion by end 2026",
+    "summary": "A new report by Terawatt PV Research provides the first detailed bottom-up analysis of U.S. PV manufacturing sites, including capital expenditure, productivity and technology. The findings reveal that PV manufacturing...",
+    "link": "https://www.pv-magazine.com/2026/09/22/ira-stimulated-u-s-solar-manufacturing-capex-to-reach-12-2-billion-by-end-2026/",
+    "source": "pv magazine",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "POWEROAD FLEX 261 Series passes large-scale fire test conducted to C800 and UL 9540A",
+    "summary": "The FLEX 261 Series – including FLEX 261, FLEX 261 AIO, and FLEX 261 AIO-3S – completed a Large-Scale Fire Test (LSFT) under CSA C800 and UL 9540A standards, with results showing no flame propagation to target BESS...",
+    "link": "https://www.pv-magazine.com/2026/09/22/poweroad-flex-261-series-passes-large-scale-fire-test-conducted-to-c800-and-ul-9540a/",
+    "source": "pv magazine",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Cost-effective pathways for hybrid heat pump retrofits",
+    "summary": "German researchers have developed a framework for optimizing the sequencing and bundling of building retrofits involving hybrid heat pump systems. A case study shows that the timing of efficiency measures can...",
+    "link": "https://www.pv-magazine.com/2026/09/22/cost-effective-pathways-for-hybrid-heat-pump-retrofits/",
+    "source": "pv magazine",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Tests show cement-bonded particle board can reduce flame spread in rooftop PV systems",
+    "summary": "Researchers in Denmark found that a 12 mm cement-bonded particle board can reduce self-sustained flame spread beneath rooftop PV arrays by limiting heat transfer to the underlying insulation. The findings highlight the...",
+    "link": "https://www.pv-magazine.com/2026/09/22/tests-show-cement-bonded-particle-board-can-reduce-fire-risk-in-rooftop-pv-systems/",
+    "source": "pv magazine",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Cameroon plans two large-scale PV plants",
+    "summary": "Cameroon’s Electricity Sector Regulatory Authority has met with developers to discuss implementing a 200 MW and 44 MW solar project. The post Cameroon plans two large-scale PV plants appeared first on pv magazine Global...",
+    "link": "https://www.pv-magazine.com/2026/09/22/cameroon-plans-two-large-scale-pv-plants/",
+    "source": "pv magazine",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Carrier launches rooftop heat pump for commercial buildings",
+    "summary": "Carrier has launched the WeatherFlex 50FC, a reversible air-to-air rooftop heat pump for commercial and industrial buildings, offering heating capacities of 22 kW to 50 kW and using R-454C refrigerant. The system...",
+    "link": "https://www.pv-magazine.com/2026/09/22/carrier-launches-rooftop-heat-pump-for-commercial-buildings/",
+    "source": "pv magazine",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Chile tests grid-forming tech at 48 MW/275 MWh BESS",
+    "summary": "Chile’s national grid operator has conducted its first field tests of grid-forming technology at Engie’s Los Loros battery energy storage system (BESS) in the Atacama region. The post Chile tests grid-forming tech at 48...",
+    "link": "https://www.pv-magazine.com/2026/09/22/chile-tests-grid-forming-tech-at-48-mw-275-mwh-bess/",
+    "source": "pv magazine",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Segen, Zopa Bank launch UK residential solar financing",
+    "summary": "UK solar distributor Segen has launched residential solar and battery financing with Zopa Bank, offering loans of two to 10 years at a representative annual percentage rate of 9.9%. Integrated into Segen’s digital...",
+    "link": "https://www.pv-magazine.com/2026/09/22/segen-zopa-bank-launch-uk-residential-solar-financing/",
+    "source": "pv magazine",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "AI-assisted method maps PV module losses from a single luminescence image",
+    "summary": "An international research team has developed an AI-assisted method that quantifies PV module power losses from a single luminescence image. The approach achieved an overall error of around 0.5% in tests on 300...",
+    "link": "https://www.pv-magazine.com/2026/09/22/ai-assisted-method-maps-pv-module-losses-from-a-single-luminescence-image/",
+    "source": "pv magazine",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Donald Trump Loses in Court, Solar Energy Funds to be Reinstated",
+    "summary": "Providence, RI — A Trump-appointed judge on the U.S. District Court for the District of Rhode Island ruled against the Trump administration’s attempt to slash $7 billion of funding for solar energy projects. The Solar...",
+    "link": "https://cleantechnica.com/2026/09/21/donald-trump-loses-in-court-solar-energy-funds-to-be-reinstated/",
+    "source": "CleanTechnica",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "21GWh BESS deployed globally in August: One-fifth in Saudi Arabia, European activity soars",
+    "summary": "Nearly 21GWh of grid-scale BESS came online globally last month, of which around a fifth was in Saudi Arabia while the majority was in China.",
+    "link": "https://www.energy-storage.news/21gwh-bess-deployed-globally-august-one-fifth-saudi-arabia-european-activity-soars/",
+    "source": "Energy Storage News",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Sunrun and Tesla deliver record 580MW to California grid amid heatwave",
+    "summary": "Residential battery energy storage systems (BESS) across California discharged more than 580MW of peak power to the state's grid on the evening of 9 September 2026 via a Tesla-Sunrun VPP.",
+    "link": "https://www.energy-storage.news/sunrun-and-tesla-deliver-record-580mw-to-california-grid-amid-heatwave/",
+    "source": "Energy Storage News",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "PG&E selects six new California microgrids for US$30 million investment, Massachusetts awards US$40 million across 36 BESS projects",
+    "summary": "Utility PG E has selected six new California microgrid projects for a US$30 million investment, while Massachusetts’ Department of Energy Resources is awarding US$40 million across 36 BESS projects.",
+    "link": "https://www.energy-storage.news/pge-selects-six-new-california-microgrids-for-us30-million-investment-massachusetts-awards-us40-million-across-36-bess-projects/",
+    "source": "Energy Storage News",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "RWE and Giga Storage move to construction on gigawatt-hour Netherlands and Belgium batteries",
+    "summary": "RWE has taken a final investment decision (FID) on 400MW/1.1GWh BESS in the Netherlands with construction to start in due course, while Giga Storage has started building its 2.8GWh Green Turtle project in Belgium.",
+    "link": "https://www.energy-storage.news/rwe-and-giga-storage-move-to-construction-on-gigawatt-hour-netherlands-and-belgium-batteries/",
+    "source": "Energy Storage News",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": 528,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Nova Scotia Power switches on Atlantic Canada’s biggest battery storage projects",
+    "summary": "Nova Scotia Power has inaugurated three 50MW/200MWh battery energy storage systems (BESS) in Bridgewater, Waverley and White Rock, now Atlantic Canada's largest battery storage facilities.",
+    "link": "https://www.energy-storage.news/nova-scotia-power-switches-on-atlantic-canadas-biggest-battery-storage-projects/",
+    "source": "Energy Storage News",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "UK: NESO looks to tackle BESS repetitive re-trading",
+    "summary": "What is repetitive re-trading (RTT) by BESS in the UK, and what is NESO looking to do about it?",
+    "link": "https://www.energy-storage.news/uk-neso-looks-to-tackle-bess-repetitive-re-trading/",
+    "source": "Energy Storage News",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Covenergo and Delta Capacity begin construction on 300MWh AKKU One BESS in Finland",
+    "summary": "Covenergo and Delta Capacity have begun construction on AKKU One, a standalone 125MW/300MWh battery energy storage system (BESS) in Lapinlahti, Finland, with commissioning targeted for the fourth quarter of 2027.",
+    "link": "https://www.energy-storage.news/covenergo-and-delta-capacity-begin-construction-on-300mwh-akku-one-bess-in-finland/",
+    "source": "Energy Storage News",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Lightsource bp refers 800MWh hybrid BESS project to Australia’s EPBC Act",
+    "summary": "Lightsource bp has referred a hybrid wind, solar and BESS facility to the federal government for assessment under the EPBC Act.",
+    "link": "https://www.energy-storage.news/lightsource-bp-refers-800mwh-hybrid-bess-project-to-australias-epbc-act/",
+    "source": "Energy Storage News",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": 36,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Solar and wind generation meet record 80% of power demand on Australia’s national grid",
+    "summary": "Rooftop solar alone generates more than half of all power used, as clear sunny days and low demand drive record-breaking surge Follow our Australia news live blog for latest updates Get our breaking news email , free...",
+    "link": "https://www.theguardian.com/environment/2026/sep/22/solar-and-wind-generation-record-80-percent-australia-national-grid",
+    "source": "The Guardian",
+    "date": "2026-09-22",
+    "edition": "global",
+    "region": 36,
+    "category": "Wind",
+    "major": false
+  },
+  {
     "title": "Corsica Sole switches on 150 kW electrolyzer at 12 MW solar plant",
     "summary": "Corsica Sole has commissioned a 150 kW green hydrogen facility at its 12 MW Folelli solar plant in Corsica to convert otherwise-curtailed solar power into hydrogen. The facility can produce around 20 kg of hydrogen per...",
     "link": "https://www.pv-magazine.com/2026/09/21/corsica-sole-switches-on-150-kw-electrolyzer-at-12-mw-solar-plant/",
@@ -195,6 +415,39 @@
     "edition": "global",
     "region": 36,
     "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Federal Court Rules Cancellation Of Solar For All Program Was Unlawful",
+    "summary": "A federal judge in Rhode Island has ruled that the US EPA acted illegally when it decided to cancel the $7 billion Solar For All program. The ruling is no surprise. Everything the toadies to the Ogre of the Offal Office...",
+    "link": "https://cleantechnica.com/2026/09/21/federal-court-rules-cancellation-of-solar-for-all-program-was-unlawful/",
+    "source": "CleanTechnica",
+    "date": "2026-09-21",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Red State Revolution Brewing As US Solar Industry Ramps Up",
+    "summary": "Despite last year's sharp U-turn in federal energy policy, the US solar industry is still attracting investors on the manufacturing side as demand for electricity soars. The post Red State Revolution Brewing As US Solar...",
+    "link": "https://cleantechnica.com/2026/09/21/us-solar-industry-investors-finance-manufacturing/",
+    "source": "CleanTechnica",
+    "date": "2026-09-21",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Labor claims Victoria’s new datacentre rules are strongest in Australia but critics point to ‘huge loophole’",
+    "summary": "New rules include a ban near schools and require datacentres to source their own renewable energy, but won’t apply to projects already in pipeline Follow our Australia news live blog for latest updates Get our breaking...",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/22/datacentres-in-victoria-to-be-banned-in-residential-areas",
+    "source": "The Guardian",
+    "date": "2026-09-21",
+    "edition": "global",
+    "region": 36,
+    "category": "Research",
     "major": false
   },
   {
@@ -2020,7 +2273,7 @@
     "date": "2026-09-04",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -2064,7 +2317,7 @@
     "date": "2026-09-03",
     "edition": "global",
     "region": 840,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
