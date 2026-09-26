@@ -1,5 +1,82 @@
 [
   {
+    "title": "Chinese province moves grid-side batteries into spot market",
+    "summary": "China’s Zhejiang province has set market rules for 40 grid-side storage projects totaling 2.54 GW/5.1 GWh, with full price-and-quantity bidding planned for 2027. The post Chinese province moves grid-side batteries into...",
+    "link": "https://www.pv-magazine.com/2026/09/26/chinese-province-moves-grid-side-batteries-into-spot-market/",
+    "source": "pv magazine",
+    "date": "2026-09-26",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "PV system costs increase by 7% in Brazil in H1",
+    "summary": "Average PV system prices in Brazil rose 7% in the first half of 2026, driven by higher equipment costs, while larger systems continued to offer lower per-watt prices. The increase came as distributed generation slowed...",
+    "link": "https://www.pv-magazine.com/2026/09/26/pv-system-costs-increase-7-percent-brazil-h1/",
+    "source": "pv magazine",
+    "date": "2026-09-26",
+    "edition": "global",
+    "region": 76,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Anza expects at least a 40% spike in U.S. solar module prices after Section 232",
+    "summary": "The challenge for developers is to move quickly to secure lower costs before the minimum pricing takes effect, with the options being to secure modules already in the U.S., accelerate imports or shift procurement...",
+    "link": "https://www.pv-magazine.com/2026/09/26/anza-expects-at-least-a-40-spike-in-solar-module-prices-after-section-232/",
+    "source": "pv magazine",
+    "date": "2026-09-26",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Free software calculates how many solar modules fit on a rooftop from a photo",
+    "summary": "Tegrona has launched free software that uses photographs to calculate how many PV modules can fit on a rooftop. Tegrona Lite corrects image perspective, determines roof dimensions and automatically generates module...",
+    "link": "https://www.pv-magazine.com/2026/09/26/free-software-calculates-how-many-solar-modules-fit-on-a-rooftop-from-a-photo/",
+    "source": "pv magazine",
+    "date": "2026-09-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Coordination can bring value to Brazil",
+    "summary": "More curtailment and steeper ramp rates are proving costly in Brazil, but a lack of regulation for virtual power plants (VPPs) is limiting the potential for distributed assets to smooth out the demand curve. Henrique...",
+    "link": "https://www.pv-magazine.com/2026/09/26/coordination-can-bring-value-to-brazil/",
+    "source": "pv magazine",
+    "date": "2026-09-26",
+    "edition": "global",
+    "region": 76,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Publish Your Book Through CleanTechnica Press",
+    "summary": "Authors writing a book about clean energy technologies, if you re interested in working with CleanTechnica Press, we are officially going to start taking submissions for books to produce. We ve launched CleanTechnica...",
+    "link": "https://cleantechnica.com/2026/09/26/publish-your-book-through-cleantechnica-press/",
+    "source": "CleanTechnica",
+    "date": "2026-09-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Op-Ed: How America Is Ceding the Clean Tech Century to China",
+    "summary": "THE HIGH-STAKES state visit between Chinese President Xi Jinping and U.S. President Donald Trump at the White House highlights a stark industrial contrast between the two global powers. Beneath the diplomatic pageantry...",
+    "link": "https://cleantechnica.com/2026/09/26/op-ed-how-america-is-ceding-the-clean-tech-century-to-china/",
+    "source": "CleanTechnica",
+    "date": "2026-09-26",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Chinese PV Industry Brief: Growatt raises inverter, battery prices by up to 10%",
     "summary": "Growatt is following Sungrow in raising inverter and storage system prices, with increases of 5% to 10% being planned from Oct. 8. The post Chinese PV Industry Brief: Growatt raises inverter, battery prices by up to 10%...",
     "link": "https://www.pv-magazine.com/2026/09/25/chinese-pv-industry-brief-growatt-raises-inverter-battery-prices-by-up-to-10/",
@@ -517,8 +594,8 @@
     "major": false
   },
   {
-    "title": "Webinar: Optimizing routes, charging plans are key takeaways from MHDV electric fleet leaders",
-    "summary": "Panelists from Loblaw, R.R. Plett Trucking and Volvo Canada share what's working and what needs to change for electrifying fleets The post Webinar: Optimizing routes, charging plans are key takeaways from MHDV electric...",
+    "title": "Watch: Optimizing routes, charging plans are key takeaways from MHDV electric fleet leaders",
+    "summary": "Panelists from Loblaw, R.R. Plett Trucking and Volvo Canada share what's working and what needs to change for electrifying fleets The post Watch: Optimizing routes, charging plans are key takeaways from MHDV electric...",
     "link": "https://electricautonomy.ca/events/webinars/2026-09-23/electric-mhdv-operations-webinar/",
     "source": "Electric Autonomy Canada",
     "date": "2026-09-23",
@@ -2504,7 +2581,7 @@
     "date": "2026-09-10",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
