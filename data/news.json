@@ -1,5 +1,126 @@
 [
   {
+    "title": "Dubai refinances 950 MW Noor Energy 1 CSP-PV plant at $2.7 billion",
+    "summary": "The Dubai Electricity and Water Authority (DEWA) has refinanced the 950 MW Noor Energy 1 concentrated solar power (CSP) and PV plant with $2.7 billion in new debt, without disclosing lenders or terms. The post Dubai...",
+    "link": "https://www.pv-magazine.com/2026/09/28/dubai-refinances-950-mw-noor-energy-1-csp-pv-plant-at-2-7-billion/",
+    "source": "pv magazine",
+    "date": "2026-09-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "U.S. government restricts pre-tariff solar stockpiling ahead of December 4 deadline",
+    "summary": "Commerce capped import volumes and threatened to revoke broker licenses to prevent surge shipments aiming to evade Section 232 tariffs. The post U.S. government restricts pre-tariff solar stockpiling ahead of December 4...",
+    "link": "https://www.pv-magazine.com/2026/09/28/commerce-restricts-pre-tariff-solar-stockpiling-ahead-of-december-4-deadline/",
+    "source": "pv magazine",
+    "date": "2026-09-28",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "EU opens infringement cases against 18 states over energy-sharing rules",
+    "summary": "Two-thirds of EU member states face infringement action for failing to enact a new right to share renewable electricity over the grid. The post EU opens infringement cases against 18 states over energy-sharing rules...",
+    "link": "https://www.pv-magazine.com/2026/09/28/eu-opens-infringement-cases-against-18-states-over-energy-sharing-rules/",
+    "source": "pv magazine",
+    "date": "2026-09-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Rising air injection rates boost compressed air energy storage efficiency",
+    "summary": "Chinese researchers have analyzed how different air injection strategies affect energy storage rates and heat losses in compressed air energy storage caverns. They found that a linearly increasing air flow rate can...",
+    "link": "https://www.pv-magazine.com/2026/09/28/rising-air-injection-rates-boost-compressed-air-energy-storage-efficiency/",
+    "source": "pv magazine",
+    "date": "2026-09-28",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Italy raises Macse energy storage auction premium cap from €22,000 to €27,000/MWh",
+    "summary": "Italy’s energy regulator, Arera, has raised the MACSE auction premium cap to €27,000/MWh per year, up from €22,000/MWh proposed in July, mainly due to higher benchmark investment costs. The new cap affects project...",
+    "link": "https://www.pv-magazine.com/2026/09/28/italy-raises-macse-energy-storage-auction-premium-cap-from-e22000-to-e27000-mwh/",
+    "source": "pv magazine",
+    "date": "2026-09-28",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "European residential heat pump sales up 11% in H1",
+    "summary": "European Heat Pump Association says Strait of Hormuz crisis and the European Commission’s plan to encourage EU governments to lower electricity tax have helped drive up residential heat pump sales this year. The post...",
+    "link": "https://www.pv-magazine.com/2026/09/28/european-residential-heat-pump-sales-up-11-in-h1/",
+    "source": "pv magazine",
+    "date": "2026-09-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Key takeaways from Solar & Storage Live UK, Birmingham",
+    "summary": "At Solar Storage Live UK, industry leaders highlighted financing, skills shortages and community engagement as key challenges for the country’s growing pipeline of large-scale solar projects. The event also showcased...",
+    "link": "https://www.pv-magazine.com/2026/09/28/key-takeaways-from-solar-storage-live-uk-birmingham/",
+    "source": "pv magazine",
+    "date": "2026-09-28",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Global solar additions hit 690 GW in 2025",
+    "summary": "Latest report from IEA-PVPS says the world's cumulative solar capacity reached 2.96 TWh by the end of last year, a total theoretically capable of generating around 12% of global electricity consumption. The post Global...",
+    "link": "https://www.pv-magazine.com/2026/09/28/global-solar-additions-hit-690-gw-in-2025/",
+    "source": "pv magazine",
+    "date": "2026-09-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Tongwei launches TNC 2.0 FULLX G12R-48 rooftop solar module with 24.5% efficiency",
+    "summary": "Unveiled at Solar Storage Live UK, the new module combines high power output, strong energy yield, and broad adaptability in a compact format, delivering up to 490 W with an efficiency of 24.5%. The post Tongwei...",
+    "link": "https://www.pv-magazine.com/2026/09/28/tongwei-launches-tnc-2-0-fullx-g12r-48-rooftop-solar-module-with-24-5-efficiency/",
+    "source": "pv magazine",
+    "date": "2026-09-28",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Austria to enable peer-to-peer electricity sharing from October",
+    "summary": "Austria will introduce peer-to-peer electricity sharing from Oct. 5, initially allowing participation between metering points served by the same grid operator. Reduced grid charges for peer-to-peer arrangements are...",
+    "link": "https://www.pv-magazine.com/2026/09/28/austria-to-enable-peer-to-peer-electricity-sharing-from-october/",
+    "source": "pv magazine",
+    "date": "2026-09-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Space Squeeze Forces Solar Developers To Get Creative",
+    "summary": "A high density racking system enables a new 11-megawatt solar power plant to fit inside a constrained, irregular parcel of land in the city of Elgin, Illinois. The post Space Squeeze Forces Solar Developers To Get...",
+    "link": "https://cleantechnica.com/2026/09/27/community-solar-power-plants-tight-spaces-high-density/",
+    "source": "CleanTechnica",
+    "date": "2026-09-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Chinese province moves grid-side batteries into spot market",
     "summary": "China’s Zhejiang province has set market rules for 40 grid-side storage projects totaling 2.54 GW/5.1 GWh, with full price-and-quantity bidding planned for 2027. The post Chinese province moves grid-side batteries into...",
     "link": "https://www.pv-magazine.com/2026/09/26/chinese-province-moves-grid-side-batteries-into-spot-market/",
