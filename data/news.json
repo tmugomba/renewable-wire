@@ -1,5 +1,115 @@
 [
   {
+    "title": "The rationale behind the UK’s largest compressed air energy storage plan",
+    "summary": "EnergyPathways CEO Ben Clube tells pv magazine that the company's compressed air energy storage (CAES) project in the Irish Sea will enter the second round of the UK's long-duration energy storage (LDES) support scheme...",
+    "link": "https://www.pv-magazine.com/2026/09/30/the-rationale-behind-the-uks-largest-compressed-air-energy-storage-plan/",
+    "source": "pv magazine",
+    "date": "2026-09-30",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Over Easy Solar launches 256 W vertical rooftop PV unit",
+    "summary": "Over Easy Solar’s xM-3 Quattro-256S is a 256 W vertical bifacial rooftop PV unit featuring HJT cells, 95% bifaciality and a 1,000 V maximum system voltage. Each unit covers 2.31 m², weighs 28.4 kg and has a 15-year...",
+    "link": "https://www.pv-magazine.com/2026/09/30/over-easy-solar-launches-256-w-vertical-rooftop-pv-unit/",
+    "source": "pv magazine",
+    "date": "2026-09-30",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Chinese scientists develop hydrogen-powered CO₂ heat pump with PCM storage",
+    "summary": "Chinese researchers have modeled a heating system combining PEM fuel cells, a CO₂ heat pump and phase-change thermal storage, assessing the impact of different thermal boundary conditions. The results show that cathode...",
+    "link": "https://www.pv-magazine.com/2026/09/30/chinese-scientists-develop-hydrogen-powered-co%e2%82%82-heat-pump-with-pcm-storage/",
+    "source": "pv magazine",
+    "date": "2026-09-30",
+    "edition": "global",
+    "region": 156,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Fox ESS launches modular C&I battery system scalable to 96 MWh",
+    "summary": "Fox ESS’s Power Beast pairs a 125 kW hybrid inverter with stackable lithium iron phosphate (LFP) battery modules for commercial and industrial (C I) users, as the Chinese company awaits approval for a Shenzhen stock...",
+    "link": "https://www.pv-magazine.com/2026/09/30/fox-ess-launches-modular-ci-battery-system-scalable-to-96-mwh/",
+    "source": "pv magazine",
+    "date": "2026-09-30",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "EU’s largest solar project reaches financial close",
+    "summary": "The €561 million ($637.3 million) financing package allows Rezolv Energy’s 1.3 GW solar project, to be built in western Romania, to move into construction. The post EU’s largest solar project reaches financial close...",
+    "link": "https://www.pv-magazine.com/2026/09/30/eus-largest-solar-project-reaches-financial-close/",
+    "source": "pv magazine",
+    "date": "2026-09-30",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Belgium reveals results of PV cable assessment",
+    "summary": "Belgian authorities found that nine of 10 PV cables tested achieved a lower fire-reaction class than their manufacturers had declared. However, the manufacturers provided additional accredited laboratory tests...",
+    "link": "https://www.pv-magazine.com/2026/09/30/belgium-reveals-results-of-pv-cable-assessment/",
+    "source": "pv magazine",
+    "date": "2026-09-30",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Ireland introduces €600 residential battery grant, expands PV support",
+    "summary": "Irish householders will be able to avail of a €600 battery grant as part of a package of renewable energy supports effective from October 6. Grants of up to €9,000 for lower-income householders to install solar and...",
+    "link": "https://www.pv-magazine.com/2026/09/30/ireland-introduces-e600-residential-battery-grant-expands-pv-support/",
+    "source": "pv magazine",
+    "date": "2026-09-30",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Researchers test laminated bamboo structures for floating PV platforms",
+    "summary": "Chinese researchers tested thin-plate glued laminated bamboo (glubam) assemblies for use in floating PV platforms, assessing their flexural behavior under different plate and bolt configurations. The results show that...",
+    "link": "https://www.pv-magazine.com/2026/09/30/researchers-test-laminated-bamboo-structures-for-floating-pv-platforms/",
+    "source": "pv magazine",
+    "date": "2026-09-30",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Panasonic deploys fuel cell, heat pump at PV-powered hydrogen house",
+    "summary": "Panasonic has deployed a 10 kW pure hydrogen fuel cell and a 9 kW air-to-water heat pump at Finland’s Hydrogen House, which features rooftop PV and up to 90 kg of hydrogen storage. The integrated system uses...",
+    "link": "https://www.pv-magazine.com/2026/09/30/panasonic-deploys-fuel-cell-heat-pump-at-pv-powered-hydrogen-house/",
+    "source": "pv magazine",
+    "date": "2026-09-30",
+    "edition": "global",
+    "region": null,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Cuba’s PV capacity tops 1.4 GW",
+    "summary": "Cuba has installed 1.42 GW of solar capacity across 144 photovoltaic plants and expects to exceed 1.5 GW by the end of 2026. Renewables now account for 21.4% of electricity generation, while the country is also...",
+    "link": "https://www.pv-magazine.com/2026/09/30/cubas-pv-capacity-tops-1-4-gw/",
+    "source": "pv magazine",
+    "date": "2026-09-30",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Publicly owned company GB Grid announced in UK connections policy overhaul",
     "summary": "New state-owned company will compete with private sector network operators. Self-build reforms allowing developers to build their own connections in some cases also planned, following success of similar policy in...",
     "link": "https://www.pv-magazine.com/2026/09/29/publicly-owned-company-gb-grid-announced-in-uk-connections-policy-overhaul/",
@@ -1430,14 +1540,14 @@
     "major": false
   },
   {
-    "title": "Brazil’s wind farms have been a huge success. So why isn’t everybody reaping the benefits?",
+    "title": "Brazil’s windfarms have been a huge success. So why isn’t everybody reaping the benefits?",
     "summary": "While the country’s ambition is to be the ‘Saudi Arabia of green energy’, communities in the north-east are bearing the cost in diminished health and livelihoods Beneath the power lines cutting across Antonio de Souza’s...",
     "link": "https://www.theguardian.com/global-development/2026/sep/19/brazils-wind-farms-have-been-a-huge-success-so-why-isnt-everybody-reaping-the-benefits",
     "source": "The Guardian",
     "date": "2026-09-19",
     "edition": "global",
     "region": 76,
-    "category": "Wind",
+    "category": "Research",
     "major": false
   },
   {
