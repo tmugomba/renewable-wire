@@ -1,5 +1,137 @@
 [
   {
+    "title": "Module cooling: too hot to handle",
+    "summary": "Even after the record-breaking heat waves of this summer and associated performance losses at PV plants across the northern hemisphere, active cooling for solar arrays remains a difficult market prospect. Developers...",
+    "link": "https://www.pv-magazine.com/2026/10/01/module-cooling-too-hot-to-handle/",
+    "source": "pv magazine",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Shared grid connections concentrate battery insurance risk",
+    "summary": "Tokio Marine GX (TMGX) sees exposures of up to billions of dollars building up at co-located battery energy storage system (BESS) sites, and says lenders are only beginning to require cyber cover. The post Shared grid...",
+    "link": "https://www.pv-magazine.com/2026/10/01/shared-grid-connections-concentrate-battery-insurance-risk/",
+    "source": "pv magazine",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "U.S. small-scale solar adds 1.6 GW in Q2",
+    "summary": "Distributed solar maintained a steady deployment pace alongside 2.5 GWh of new behind the meter storage, even as a wave of thermal generation additions pulled solar's total share of new US power capacity down to 55%...",
+    "link": "https://www.pv-magazine.com/2026/10/01/u-s-small-scale-solar-adds-1-6-gw-in-q2-2026-as-fossil-fuel-capacity-surges/",
+    "source": "pv magazine",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": 840,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "South Korea grid overhaul to connect more than 100 GW of renewables",
+    "summary": "South Korea plans to replace hard limits on grid connections with curtailable access, battery storage, and competitive allocation of connection rights, as it aims to accommodate more than 100 GW of renewable energy...",
+    "link": "https://www.pv-magazine.com/2026/10/01/south-korea-grid-overhaul-to-connect-more-than-100-gw-of-renewables/",
+    "source": "pv magazine",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Two-stage pyrolysis process turns waste solar panels into silicon carbide",
+    "summary": "Russian scientists have developed a process that combines pyrolysis at 500 C with electric arc treatment above 1,800 C. The resulting solid product contained up to 61% silicon carbide, a material used in power...",
+    "link": "https://www.pv-magazine.com/2026/10/01/two-stage-pyrolysis-process-turns-waste-solar-panels-into-silicon-carbide/",
+    "source": "pv magazine",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Spanish researchers validate 10,000 cycles for iron-lead flow battery",
+    "summary": "A Spanish-developed iron-lead flow battery uses a single electrolyte loop and a fluorine-free membrane to cut costs and reliance on critical raw materials, with kilowatt-scale modules the next development step. The post...",
+    "link": "https://www.pv-magazine.com/2026/10/01/spanish-researchers-validate-10000-cycles-for-iron-lead-flow-battery/",
+    "source": "pv magazine",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": 724,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Ireland energizes first SRESS solar farm, opening new revenue opportunities for farmers and landowners",
+    "summary": "\"This is the beginning of a wave of small-scale energy projects being developed by farmers and communities,\" Ken O'Byrne, of Flogas Energy told pv magazine . Flogas has a 15-year PPA with the 650 kW Meadhill Solar...",
+    "link": "https://www.pv-magazine.com/2026/10/01/ireland-energizes-first-sress-solar-farm-opening-new-revenue-opportunities-for-farmers-and-landowners/",
+    "source": "pv magazine",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Indian PV manufacturer Vishakha Renewables files for IPO",
+    "summary": "Vishakha Renewables, jointly promoted by the Vishakha Group and the Adani Group, produces four of the six key components used in solar modules and is the largest solar component manufacturer (non-cell) in India in terms...",
+    "link": "https://www.pv-magazine.com/2026/10/01/adani-group-backed-vishakha-renewables-files-for-ipo/",
+    "source": "pv magazine",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": 356,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "A closer look at Marstek’s 5 kWh plug-in battery",
+    "summary": "Marstek is targeting European markets with its Venus plug-in solution that is scalable to 9kW/15kWh. The Chinese manufacturer confirmed it is working with UK energy management providers on deeper integration to support...",
+    "link": "https://www.pv-magazine.com/2026/10/01/a-closer-look-at-marsteks-5-kwh-plug-in-battery/",
+    "source": "pv magazine",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Germany could generate over 600,000 tonnes of PV module waste by 2030",
+    "summary": "A Fraunhofer CSP study estimates that Germany’s installed PV modules contain 5.35 million tonnes of materials worth billions of euros, highlighting significant recycling potential. More than 600,000 tonnes of PV waste...",
+    "link": "https://www.pv-magazine.com/2026/10/01/germany-could-generate-over-600000-tonnes-of-pv-module-waste-by-2030/",
+    "source": "pv magazine",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "The zero-bills home: how one family is beating the energy price hikes",
+    "summary": "The Naylors’ four-bedroom home in Milton Keynes acts like a mini-power station after retrofitting solar panels, a battery and a heat pump Clare Naylor paid close attention to how much energy she and her family were...",
+    "link": "https://www.theguardian.com/environment/2026/oct/01/the-zero-bills-home-how-one-family-is-beating-the-energy-price-hikes",
+    "source": "The Guardian",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Trump the environmentalist? How his Iran war exposed the fragility of dirty energy",
+    "summary": "Gavin Newsom says Trump is a ‘gift’ to the climate cause for dispelling notions of fossil fuel energy security Of all the epithets hurled at Donald Trump since he became US president, perhaps the most unusual was...",
+    "link": "https://www.theguardian.com/us-news/2026/oct/01/trump-iran-war-oil-gas-energy",
+    "source": "The Guardian",
+    "date": "2026-10-01",
+    "edition": "global",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "The rationale behind the UK’s largest compressed air energy storage plan",
     "summary": "EnergyPathways CEO Ben Clube tells pv magazine that the company's compressed air energy storage (CAES) project in the Irish Sea will enter the second round of the UK's long-duration energy storage (LDES) support scheme...",
     "link": "https://www.pv-magazine.com/2026/09/30/the-rationale-behind-the-uks-largest-compressed-air-energy-storage-plan/",
@@ -107,6 +239,17 @@
     "edition": "global",
     "region": null,
     "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "CAA test shows why efficiency matters when it comes to EV charging and range",
+    "summary": "Just like fuel economy, electric vehicles have a vast difference in energy usage, though all are still better than combustion vehicles The post CAA test shows why efficiency matters when it comes to EV charging and...",
+    "link": "https://electricautonomy.ca/automakers/passenger-electric-vehicles/2026-09-30/caa-ev-efficiency/",
+    "source": "Electric Autonomy Canada",
+    "date": "2026-09-30",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
     "major": false
   },
   {
