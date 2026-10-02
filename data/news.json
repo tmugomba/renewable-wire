@@ -1,5 +1,148 @@
 [
   {
+    "title": "German startup wins grant for grid-charging sodium-ion home battery",
+    "summary": "Revolta AG has secured European Regional Development Fund (ERDF) support to develop a plug-and-play sodium-ion battery that households without solar panels can charge from the grid when power prices are low. The post...",
+    "link": "https://www.pv-magazine.com/2026/10/02/german-startup-wins-grant-for-grid-charging-sodium-ion-home-battery/",
+    "source": "pv magazine",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": 276,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Spain’s first pre-commercial marine solar demonstrator enters testing",
+    "summary": "BlueNewables has installed a 1 MW offshore floating solar demonstrator at the Port of Valencia, Spain, and has begun testing the system. The project comprises two 500 kW PV-bos platforms designed to assess the...",
+    "link": "https://www.pv-magazine.com/2026/10/02/spains-first-pre-commercial-marine-solar-demonstrator-enters-testing/",
+    "source": "pv magazine",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": 724,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "The Hydrogen Stream: PV-driven H2 plant commissioned in southern Italy",
+    "summary": "In other news, Oregon State University researchers demonstrated photocatalytic hydrogen production without a cocatalyst, while Spain and Germany advanced hydrogen infrastructure and funding programs. Plug Power signed a...",
+    "link": "https://www.pv-magazine.com/2026/10/02/the-hydrogen-stream-pv-driven-h2-plant-commissioned-in-southern-italy/",
+    "source": "pv magazine",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": 276,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Denmark approves new grid connection prioritization model",
+    "summary": "Denmark is replacing its first-come, first-served principle for grid connections with a new model that gives grid companies opportunity to prioritise who gets access. The post Denmark approves new grid connection...",
+    "link": "https://www.pv-magazine.com/2026/10/02/denmark-agrees-new-grid-connection-procedure/",
+    "source": "pv magazine",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Italian startup unveils double-layer PV system prototype for space-constrained applications",
+    "summary": "Italian startup AMPS has developed a double-layer PV system that dynamically manages two overlapping module surfaces to increase solar-energy capture without expanding the installation footprint. The company says...",
+    "link": "https://www.pv-magazine.com/2026/10/02/italian-startup-unveils-double-layer-pv-system-prototype-for-space-constrained-applications/",
+    "source": "pv magazine",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Agrivoltaics improve grapevine growth, biodiversity in hot Mediterranean climates",
+    "summary": "Researchers studying an agrivoltaic vineyard in southern Italy have found that shading from PV modules can promote grapevine growth, increase bunch weight and support spontaneous plant biodiversity, while also...",
+    "link": "https://www.pv-magazine.com/2026/10/02/agrivoltaics-improve-grapevine-growth-biodiversity-in-hot-mediterranean-climates/",
+    "source": "pv magazine",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Fraunhofer ISE releases electricity price simulator",
+    "summary": "The freely-accessible electricity price simulator allows users to analyse how additional battery storage would impact prices on Germany's day-ahead market. The post Fraunhofer ISE releases electricity price simulator...",
+    "link": "https://www.pv-magazine.com/2026/10/02/fraunhofer-ise-releases-electricity-price-simulator/",
+    "source": "pv magazine",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": 276,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Germany approves rules for storage, bidirectional charging",
+    "summary": "Germany’s Federal Network Agency (Bundesnetzagentur) has approved rules for the market integration of electricity storage systems and charging points (MiSpeL), allowing batteries to combine renewable and grid...",
+    "link": "https://www.pv-magazine.com/2026/10/02/germany-approves-rules-for-storage-bidirectional-charging/",
+    "source": "pv magazine",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": 276,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Japan tightens grid access as battery queue reaches 172 GW",
+    "summary": "Japan now requires generators, including battery developers, to prove rights to their sites to keep a grid connection, as regulators move to curb capacity hoarding in a battery queue that far outruns the less than 1 GW...",
+    "link": "https://www.pv-magazine.com/2026/10/02/japan-tightens-grid-access-as-battery-queue-reaches-172-gw/",
+    "source": "pv magazine",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": 392,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Hybrid PV cooling system boosts electrical efficiency by 26%, provides building ventilation",
+    "summary": "Researchers have developed a hybrid PV cooling system that combines rear-side evaporative cooling with intermittent front-side water spraying, increasing electrical efficiency by up to 26%. The system also produces...",
+    "link": "https://www.pv-magazine.com/2026/10/02/hybrid-pv-cooling-system-boosts-electrical-efficiency-by-26-provides-precooled-ventilation-air/",
+    "source": "pv magazine",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Texas PUC Greenlights Coal Plant Closure & Renewables Construction, Saving Millions of Gallons of Water Every Year",
+    "summary": "AUSTIN, Texas — The Texas Public Utility Commission (PUC) ruled today that Southwestern Public Service Company (SPS) can proceed with closing its Tolk coal plant near Lubbock and constructing renewable energy and...",
+    "link": "https://cleantechnica.com/2026/10/01/texas-puc-greenlights-coal-plant-closure-renewables-construction-saving-millions-of-gallons-of-water-every-year/",
+    "source": "CleanTechnica",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Santee Cooper’s New Energy Plan is Bad News for South Carolina Customers",
+    "summary": "COLUMBIA, S.C. — Santee Cooper’s long-range energy plan admits that increased demand from large load customers, like data centers, is creating an upward pressure on costs, according to the utility’s filing with state...",
+    "link": "https://cleantechnica.com/2026/10/01/santee-coopers-new-energy-plan-is-bad-news-for-south-carolina-customers/",
+    "source": "CleanTechnica",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Africa’s Unseen Solar Energy Revolution",
+    "summary": "The larger-than-life continent of Africa has emerged as a hotspot for solar energy developers, especially in the distributed resources sector. The post Africa s Unseen Solar Energy Revolution appeared first on...",
+    "link": "https://cleantechnica.com/2026/10/02/solar-energy-africa-wildlife-national-geographic-documentary/",
+    "source": "CleanTechnica",
+    "date": "2026-10-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Module cooling: too hot to handle",
     "summary": "Even after the record-breaking heat waves of this summer and associated performance losses at PV plants across the northern hemisphere, active cooling for solar arrays remains a difficult market prospect. Developers...",
     "link": "https://www.pv-magazine.com/2026/10/01/module-cooling-too-hot-to-handle/",
@@ -122,7 +265,7 @@
   },
   {
     "title": "Trump the environmentalist? How his Iran war exposed the fragility of dirty energy",
-    "summary": "Gavin Newsom says Trump is a ‘gift’ to the climate cause for dispelling notions of fossil fuel energy security Of all the epithets hurled at Donald Trump since he became US president, perhaps the most unusual was...",
+    "summary": "Gavin Newsom says Trump is a ‘gift’ to the climate cause for dispelling notions of fossil fuel energy security Send us your questions about how the Iran war will affect US voters in the midterms Of all the epithets...",
     "link": "https://www.theguardian.com/us-news/2026/oct/01/trump-iran-war-oil-gas-energy",
     "source": "The Guardian",
     "date": "2026-10-01",
