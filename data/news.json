@@ -1,5 +1,60 @@
 [
   {
+    "title": "Battery storage paired with 37% of new U.S. residential solar systems in 2025",
+    "summary": "Battery storage was paired with 37% of new U.S. residential solar installations in 2025, up from 25% a year earlier, with adoption accelerating both in California and across other states. The post Battery storage paired...",
+    "link": "https://www.pv-magazine.com/2026/10/03/battery-storage-paired-with-37-of-new-u-s-residential-solar-systems-in-2025/",
+    "source": "pv magazine",
+    "date": "2026-10-03",
+    "edition": "global",
+    "region": 840,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Brazil hits 56 GW of connection headroom for battery auctions",
+    "summary": "Brazil’s available grid capacity for battery storage projects exceeds the association’s estimate of 2028-30 power needs by up to 12.5 times, according to an analysis of transmission data. The post Brazil hits 56 GW of...",
+    "link": "https://www.pv-magazine.com/2026/10/03/brazil-hits-56-gw-of-connection-headroom-for-battery-auctions/",
+    "source": "pv magazine",
+    "date": "2026-10-03",
+    "edition": "global",
+    "region": 76,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "The case for railway-integrated solar in South Korea",
+    "summary": "South Korea’s extensive railway network could provide new space for solar generation in densely populated areas where land availability is limited. Researchers have investigated the potential of installing PV systems...",
+    "link": "https://www.pv-magazine.com/2026/10/03/the-case-for-railway-integrated-solar-in-south-korea/",
+    "source": "pv magazine",
+    "date": "2026-10-03",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Middle market momentum",
+    "summary": "The rollback of policies favoring renewable energy deployment in the United States is contributing to an energy affordability crisis in many communities, according to Jon Powers, president of Clean Capital, a US...",
+    "link": "https://www.pv-magazine.com/2026/10/03/middle-market-momentum/",
+    "source": "pv magazine",
+    "date": "2026-10-03",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "SEIA Statement on Governor Newsom’s Actions on Clean Energy Bills",
+    "summary": "Following statement on California legislative updates is attributable to Stephanie Doyle, California state affairs director for the Solar Energy Industries Association: “The solar and storage industry is pleased to see...",
+    "link": "https://cleantechnica.com/2026/10/02/seia-statement-on-governor-newsoms-actions-on-clean-energy-bills/",
+    "source": "CleanTechnica",
+    "date": "2026-10-03",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
     "title": "German startup wins grant for grid-charging sodium-ion home battery",
     "summary": "Revolta AG has secured European Regional Development Fund (ERDF) support to develop a plug-and-play sodium-ion battery that households without solar panels can charge from the grid when power prices are low. The post...",
     "link": "https://www.pv-magazine.com/2026/10/02/german-startup-wins-grant-for-grid-charging-sodium-ion-home-battery/",
@@ -140,6 +195,28 @@
     "edition": "global",
     "region": null,
     "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Minister McKnight tours Westridge Marine Terminal, showcasing Canada’s ability to build major energy infrastructure responsibly",
+    "summary": "Today, the Honourable Jill McKnight, Minister of Veterans Affairs and Associate Minister of National Defence, on behalf of the Honourable Tim Hodgson, Minister of Energy and Natural Resources, toured the Westridge...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-mcknight-tours-westridge-marine-terminal-showcasing-canadas-ability-to-build-major-energy-infrastructure-responsibly0.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-10-02",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Quebec parties split on EV strategy ahead of Monday’s election: reports",
+    "summary": "Industry association Electric Mobility Canada and Quebec EV group AVEQ find five major parties offer different approaches to EV sales targets, home charging and zero-emission trucks The post Quebec parties split on EV...",
+    "link": "https://electricautonomy.ca/policy-regulations/2026-10-02/quebec-election-parties-ev-strategy/",
+    "source": "Electric Autonomy Canada",
+    "date": "2026-10-02",
+    "edition": "canada",
+    "region": "QC",
+    "category": "Research",
     "major": false
   },
   {
