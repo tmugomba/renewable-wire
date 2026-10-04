@@ -55,6 +55,28 @@
     "major": false
   },
   {
+    "title": "Bringing the Sustainability Expo to Your Town",
+    "summary": "This April, CleanTechnica ran our first major event, the Hawaii Sustainability Expo Electric Home Show. It drew about 1300 attendees, ~80 eco-friendly vendors, and a dozen elected representatives. The event featured 7...",
+    "link": "https://cleantechnica.com/2026/10/03/bringing-the-sustainability-expo-to-your-town/",
+    "source": "CleanTechnica",
+    "date": "2026-10-03",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Australian Government Accelerates Renewable Energy Transition",
+    "summary": "The Australian Renewable Energy Agency (ARENA) has announced the milestone of 100 community batteries being installed. It has also delivered funding for home conversion from gas to electric. The Cheaper Home Battery...",
+    "link": "https://cleantechnica.com/2026/10/03/australian-government-accelerates-renewable-energy-transition/",
+    "source": "CleanTechnica",
+    "date": "2026-10-03",
+    "edition": "global",
+    "region": 36,
+    "category": "Storage",
+    "major": true
+  },
+  {
     "title": "German startup wins grant for grid-charging sodium-ion home battery",
     "summary": "Revolta AG has secured European Regional Development Fund (ERDF) support to develop a plug-and-play sodium-ion battery that households without solar panels can charge from the grid when power prices are low. The post...",
     "link": "https://www.pv-magazine.com/2026/10/02/german-startup-wins-grant-for-grid-charging-sodium-ion-home-battery/",
