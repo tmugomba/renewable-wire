@@ -1,5 +1,115 @@
 [
   {
+    "title": "Wireless bipolar electrodes raise zinc-air battery power by 80%",
+    "summary": "Researchers in Spain and Argentina have developed a zinc-air battery architecture that increases power output by up to 80% by reducing internal resistance without changing the device’s core chemistry. The post Wireless...",
+    "link": "https://www.pv-magazine.com/2026/10/06/wireless-bipolar-electrodes-raise-zinc-air-battery-power-by-80/",
+    "source": "pv magazine",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": 724,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Japan proposes four categories for priority commercial solar support",
+    "summary": "Japan wants to prioritize future subsidies for new commercial solar projects it considers compatible with local communities, as ground-mounted plants lose feed-in tariff (FIT) and feed-in premium (FIP) support from...",
+    "link": "https://www.pv-magazine.com/2026/10/06/japan-proposes-four-categories-for-priority-commercial-solar-support/",
+    "source": "pv magazine",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": 392,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "German startup offers AI platform to accelerate battery storage engineering",
+    "summary": "German startup Morreon has developed an AI-based platform to streamline engineering, design optimization, tendering, and project scheduling for battery storage and other energy infrastructure projects. The system...",
+    "link": "https://www.pv-magazine.com/2026/10/06/german-startup-offers-ai-platform-to-accelerate-battery-storage-engineering/",
+    "source": "pv magazine",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": 276,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Poland unveils new home storage subsidy",
+    "summary": "Poland's latest subsidy scheme will offer existing prosumers support to purchase and install home storage units. The PLN 1 billion ($258 million) funding call opens for applications on October 20. The post Poland...",
+    "link": "https://www.pv-magazine.com/2026/10/06/poland-unveils-new-home-storage-subsidy/",
+    "source": "pv magazine",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Heliene launches all-black solar module for residential rooftops",
+    "summary": "The North American module manufacturer has introduced its 108HC M10 SL All-Black residential solar panel, offering power outputs up to 410 W and 21.0% efficiency built on a 108 half-cut cell architecture. The post...",
+    "link": "https://www.pv-magazine.com/2026/10/06/heliene-launches-108hc-m10-sl-all-black-solar-module-for-residential-rooftops/",
+    "source": "pv magazine",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Spacebound silicon",
+    "summary": "Solar has a long history in powering satellites and space exploration, and high-powered devices based on multijunction PV cells made from “III-V” materials such as gallium arsenide or indium gallium phosphide have...",
+    "link": "https://www.pv-magazine.com/2026/10/06/spacebound-silicon/",
+    "source": "pv magazine",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Indian startup claims over 1,500 cycles for sodium-ion cell with Prussian white cathode",
+    "summary": "Indian startup Macsen Energy claims its Prussian white-based sodium-ion battery cell has exceeded 1,500 charge-discharge cycles in laboratory testing, retaining 90% of its initial capacity after 1,000 cycles. The...",
+    "link": "https://www.pv-magazine.com/2026/10/06/indian-startup-claims-over-1500-cycles-for-sodium-ion-cell-with-prussian-white-cathode/",
+    "source": "pv magazine",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": 356,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Thailand tightens solar panel safety standards",
+    "summary": "Thailand will now require crystalline silicon solar panels to meet national safety standards in its latest effort to improve the quality and safety of solar installations. The post Thailand tightens solar panel safety...",
+    "link": "https://www.pv-magazine.com/2026/10/06/thailand-tightens-solar-panel-safety-standards/",
+    "source": "pv magazine",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "What’s driving Europe’s battery boom? Insights from EUPD Research’s Business Climate Survey and Storage Report",
+    "summary": "Europe’s battery storage market is projected to nearly double from 34 GWh in 2025 to 65 GWh in 2026, driven primarily by utility-scale projects and growing renewable energy integration. Meanwhile, intensifying...",
+    "link": "https://www.pv-magazine.com/2026/10/06/whats-driving-europes-battery-boom-insights-from-eupd-researchs-business-climate-survey-and-storage-report/",
+    "source": "pv magazine",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Spain and Portugal record Europe’s highest number of hours with negative electricity prices in Q2",
+    "summary": "Spain and Portugal recorded the highest number of hours with negative electricity prices in Europe in the second quarter of 2026, according to Montel’s European Power Market Outlook Q3 2026 report. The period was marked...",
+    "link": "https://www.pv-magazine.com/2026/10/06/spain-and-portugal-record-europes-highest-number-of-hours-with-negative-electricity-prices-in-q2/",
+    "source": "pv magazine",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": 724,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Flooded solar plant in Japan catches fire after typhoon",
     "summary": "A solar plant east of Tokyo caught fire in late September after typhoon floodwater submerged its electrical equipment – a post-flood risk the Japanese government has warned about since 2018. The post Flooded solar plant...",
     "link": "https://www.pv-magazine.com/2026/10/05/flooded-solar-plant-in-japan-catches-fire-after-typhoon/",
