@@ -1,5 +1,115 @@
 [
   {
+    "title": "Toyo cuts the ribbon on its newly-expanded solar factory in Texas",
+    "summary": "Company officers and government officials celebrated the 2 GW expansion of Toyo’s Humble, Texas solar module facility and looked forward to planned heterojunction cell production at the site in 2028. The post Toyo cuts...",
+    "link": "https://www.pv-magazine.com/2026/10/07/toyo-cuts-the-ribbon-on-its-newly-expanded-solar-factory-in-texas/",
+    "source": "pv magazine",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Solar and storage accounted for nearly 1 million EU jobs in 2025",
+    "summary": "Solar and battery storage supported 982,000 jobs in the EU in 2025, with PV accounting for 874,000 positions. Solar employment is expected to decline by 2030 as deployment slows, despite growth in operations...",
+    "link": "https://www.pv-magazine.com/2026/10/07/solar-and-storage-accounted-for-nearly-1-million-eu-jobs-in-2025/",
+    "source": "pv magazine",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "AuroraCell launches 9.7 kWh sodium-ion chromium oxide residential battery",
+    "summary": "The 48 V residential energy storage system uses sodium-ion NCO chemistry and offers 9.7 kWh of rated energy. AuroraCell claims a cycle life of 20,000 cycles at 100% depth of discharge and backs the battery with a...",
+    "link": "https://www.pv-magazine.com/2026/10/07/auroracell-launches-9-7-kwh-sodium-ion-chromium-oxide-residential-battery/",
+    "source": "pv magazine",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Thousands of European solar park systems exposed online, say researchers",
+    "summary": "Dutch firm Modat and the Netherlands' cybersecurity agency have identified 8,547 exposed systems at solar and wind sites in 35 European countries, with Spain accounting for more than one-third of the solar total. The...",
+    "link": "https://www.pv-magazine.com/2026/10/07/thousands-of-european-solar-park-systems-exposed-online-say-researchers/",
+    "source": "pv magazine",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": 840,
+    "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "Plant diversity under PV modules rivals grassland at Japanese solar park",
+    "summary": "Researchers surveying a 55 MW solar plant on a former golf course in central Japan found that plant diversity under the panels was statistically indistinguishable from open grassland, with communities resembling forest...",
+    "link": "https://www.pv-magazine.com/2026/10/07/plant-diversity-under-pv-modules-rivals-grassland-at-japanese-solar-park/",
+    "source": "pv magazine",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": 392,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Eskom extends solar registration fee waiver indefinitely",
+    "summary": "The South African utility is removing registration-related costs for grid-connected solar installations up to 50 kVA in size until further notice. The post Eskom extends solar registration fee waiver indefinitely...",
+    "link": "https://www.pv-magazine.com/2026/10/07/eskom-extends-solar-registration-fee-waiver-indefinitely/",
+    "source": "pv magazine",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "France’s largest battery goes online",
+    "summary": "TagEnergy has inaugurated a 240 MW/480 MWh battery storage facility in northeastern France, the country’s largest operational BESS. The Tesla Megapack-based project provides grid-balancing services and is jointly owned...",
+    "link": "https://www.pv-magazine.com/2026/10/07/frances-largest-battery-goes-online/",
+    "source": "pv magazine",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Hithium’s sodium-ion storage push, where it could win, where it won’t, and path to bankability",
+    "summary": "After Chinese manufacturer Hithium launched its new 4 MWh sodium-ion BESS alongside its new 785Ah cell for energy storage, in response to questions, Leb Lan, senior product manager, Hithium, spoke with ESS News to...",
+    "link": "https://www.pv-magazine.com/2026/10/07/hithiums-sodium-ion-storage-push-where-it-could-win-where-it-wont-and-path-to-bankability/",
+    "source": "pv magazine",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Heterojunction solar cell built with biomass lignin-based silver paste achieves 25.96% efficiency",
+    "summary": "Chinese researchers have developed a biomass lignin-based silver paste for HJT solar cells that reduces reliance on petroleum-based resins and improves electrical performance. The optimized paste increased solar cell...",
+    "link": "https://www.pv-magazine.com/2026/10/07/heterojunction-solar-cell-built-with-biomass-lignin-based-silver-paste-achieves-25-96-efficiency/",
+    "source": "pv magazine",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "The U.S. market is writing its own sodium-ion spec",
+    "summary": "Sodium-ion batteries are rapidly transitioning from promising alternative to commercial reality in the U.S. energy storage market, but navigating federal domestic content policies, complex FEOC sourcing rules, and...",
+    "link": "https://www.pv-magazine.com/2026/10/07/the-u-s-market-is-writing-its-own-sodium-ion-spec/",
+    "source": "pv magazine",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": 840,
+    "category": "Storage",
+    "major": false
+  },
+  {
     "title": "Wireless bipolar electrodes raise zinc-air battery power by 80%",
     "summary": "Researchers in Spain and Argentina have developed a zinc-air battery architecture that increases power output by up to 80% by reducing internal resistance without changing the device’s core chemistry. The post Wireless...",
     "link": "https://www.pv-magazine.com/2026/10/06/wireless-bipolar-electrodes-raise-zinc-air-battery-power-by-80/",
