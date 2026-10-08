@@ -1,5 +1,126 @@
 [
   {
+    "title": "Everything’s bigger in Texas",
+    "summary": "By almost any measure, the story of solar power in Texas has been one of astounding success. The state is by far the country’s fastest-growing solar market. The Solar Energy Industries Association (SEIA) records nearly...",
+    "link": "https://www.pv-magazine.com/2026/10/08/everythings-bigger-in-texas/",
+    "source": "pv magazine",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "EU expert group urges curbs on high-risk solar suppliers",
+    "summary": "Cybersecurity experts advising the European Commission say PV components and software from high-risk third-country suppliers should be restricted in all market segments, including plug-in systems, and that inverters...",
+    "link": "https://www.pv-magazine.com/2026/10/08/eu-expert-group-urges-curbs-on-high-risk-solar-suppliers/",
+    "source": "pv magazine",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "South Africa to procure 4.6 GW of battery storage",
+    "summary": "South Africa is preparing large-scale procurement of battery storage facilities and gas-fired power plants in a bid to address curtailment and strengthen reliable electricity supply. The post South Africa to procure 4.6...",
+    "link": "https://www.pv-magazine.com/2026/10/08/south-africa-to-procure-4-6-gw-of-battery-storage/",
+    "source": "pv magazine",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Sungrow patches iSolarCloud vulnerability after security researchers gain access",
+    "summary": "A German cybersecurity firm has discovered an authentication flaw in Sungrow’s iSolarCloud platform that exposed connected devices, prompting an emergency patch. The post Sungrow patches iSolarCloud vulnerability after...",
+    "link": "https://www.pv-magazine.com/2026/10/08/sungrow-patches-isolarcloud-vulnerability-after-security-researchers-gain-access/",
+    "source": "pv magazine",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe",
+    "summary": "A detailed look at Maxxen’s advanced BESS factory from an on-the-ground tour. The post Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe appeared first on pv magazine Global .",
+    "link": "https://www.pv-magazine.com/2026/10/08/inside-bess-manufacturing-maxxens-utility-scale-storage-factory-in-europe/",
+    "source": "pv magazine",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Italian startup offers 535 W PVT solar module with 1.4 kW thermal output",
+    "summary": "Syntropia has developed a 535 W hybrid photovoltaic-thermal module that combines electricity generation with heat recovery, achieving a combined energy conversion efficiency of 66.8% in recent tests. The company is also...",
+    "link": "https://www.pv-magazine.com/2026/10/08/italian-startup-offers-535-w-pvt-solar-module-with-1-4-kw-thermal-output/",
+    "source": "pv magazine",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Tata Power to pilot membrane-based floating solar with Norway’s Ocean Sun",
+    "summary": "Tata Power has partnered with Norway-based renewable energy technology company Ocean Sun to undertake a 300 kWp floating solar pilot in India based on Ocean Sun’s membrane-based floating solar technology. The post Tata...",
+    "link": "https://www.pv-magazine.com/2026/10/08/tata-power-to-pilot-membrane-based-floating-solar-with-norways-ocean-sun/",
+    "source": "pv magazine",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": 356,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Global PV oversupply accelerates consolidation, regional price divergence",
+    "summary": "pv magazine spoke with Edurne Zoco, Head of Technologies and Supply Chains at S P Global Energy, about global PV supply chain trends, persistent overcapacity and the impact of China's new efficiency standards on solar...",
+    "link": "https://www.pv-magazine.com/2026/10/08/global-pv-oversupply-accelerates-consolidation-regional-price-divergence/",
+    "source": "pv magazine",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Hungary extends deadline for troubled EU-funded residential solar scheme",
+    "summary": "The Hungarian government has given households in its 2021 EU-funded rooftop solar program until Oct. 31 to finish their projects, and will let complex installations close once two of their components are complete. The...",
+    "link": "https://www.pv-magazine.com/2026/10/08/hungary-extends-deadline-for-troubled-eu-funded-residential-solar-scheme/",
+    "source": "pv magazine",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "An energy-first cybersecurity platform for solar, storage and the grid",
+    "summary": "Romanian EPC contractor Enevo says the SentryOT platform stands apart from IT-led competitors by translating network threats into terms energy engineers understand. The post An energy-first cybersecurity platform for...",
+    "link": "https://www.pv-magazine.com/2026/10/08/an-energy-first-cybersecurity-platform-for-solar-storage-and-the-grid/",
+    "source": "pv magazine",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "MoD has objected to four windfarms in past year over radar interference fears",
+    "summary": "Complaints risks putting defence ministry on collision course with Department for Energy Security and Net Zero The Ministry of Defence has objected to at least four planned windfarms in the past year over fears the...",
+    "link": "https://www.theguardian.com/environment/2026/oct/08/mod-objection-four-windfarms-radar-interference-fears",
+    "source": "The Guardian",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "Toyo cuts the ribbon on its newly-expanded solar factory in Texas",
     "summary": "Company officers and government officials celebrated the 2 GW expansion of Toyo’s Humble, Texas solar module facility and looked forward to planned heterojunction cell production at the site in 2028. The post Toyo cuts...",
     "link": "https://www.pv-magazine.com/2026/10/07/toyo-cuts-the-ribbon-on-its-newly-expanded-solar-factory-in-texas/",
@@ -107,6 +228,17 @@
     "edition": "global",
     "region": 840,
     "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Quebec test program demonstrates cost savings and effectiveness of electric heavy equipment",
+    "summary": "Plug-In Fleet Heavy Equipment initiative will monitor and document performance data over a three-year period for future fleet electrification The post Quebec test program demonstrates cost savings and effectiveness of...",
+    "link": "https://electricautonomy.ca/fleets/construction-equipment/2026-10-07/quebec-ivi-electric-heavy-equipment/",
+    "source": "Electric Autonomy Canada",
+    "date": "2026-10-07",
+    "edition": "canada",
+    "region": "QC",
+    "category": "Research",
     "major": false
   },
   {
