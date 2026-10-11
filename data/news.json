@@ -1,5 +1,16 @@
 [
   {
+    "title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
+    "summary": "Tories plan to scrap low-carbon housebuilding, Greens back new nuclear reactors, and Labour put oil-drilling decisions on hold New homes could be built without solar panels, heat pumps and high-grade insulation, leading...",
+    "link": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
+    "source": "The Guardian",
+    "date": "2026-10-11",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds",
     "summary": "A study based on 88,000 consumer units participating in subscription-based solar generation schemes in Brazil has identified a 17% average monthly payment delinquency rate and 4% monthly customer churn. The findings...",
     "link": "https://www.pv-magazine.com/2026/10/10/brazils-retail-electricity-market-opening-raises-credit-and-liquidity-concerns-study-finds/",
@@ -97,6 +108,17 @@
     "region": 156,
     "category": "Solar",
     "major": false
+  },
+  {
+    "title": "Our place in the sun: Australia’s uptake of solar panels is already through the roof. How much higher could it get?",
+    "summary": "Sunshine, government subsidies and high power prices are driving record solar installations Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Zoom in on satellite pictures of the...",
+    "link": "https://www.theguardian.com/environment/2026/oct/11/australia-solar-panels-uptake-record-through-roof",
+    "source": "The Guardian",
+    "date": "2026-10-10",
+    "edition": "global",
+    "region": 36,
+    "category": "Hydro",
+    "major": true
   },
   {
     "title": "Poly pricing and potential expansion",
