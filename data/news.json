@@ -1,9 +1,130 @@
 [
   {
+    "title": "France defines terms for long-term capacity auction",
+    "summary": "France's energy regulator has proposed the parameters for the country's first long-term capacity auction, covering the winter of 2030-31. The auction will target 82 GW of capacity, including 3 GW eligible for multi-year...",
+    "link": "https://www.pv-magazine.com/2026/10/12/france-defines-terms-for-long-term-capacity-auction/",
+    "source": "pv magazine",
+    "date": "2026-10-12",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Eskom kicks off tender for 6 GW of renewables-plus-storage",
+    "summary": "South African utility Eskom has launched a qualification process to select strategic partners for up to 6 GW of renewable energy and storage projects. The portfolio will include at least 2 GW of solar and 1 GW/4 GWh of...",
+    "link": "https://www.pv-magazine.com/2026/10/12/eskom-kicks-off-tender-for-6-gw-of-renewables-plus-storage/",
+    "source": "pv magazine",
+    "date": "2026-10-12",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Multiple grounding points cut lightning-induced overvoltage in solar panels by up to 55%",
+    "summary": "Researchers in Indonesia found that higher soil resistivity significantly increases lightning-induced overvoltage in PV systems. Their simulations also showed that multiple grounding points and connections closer to the...",
+    "link": "https://www.pv-magazine.com/2026/10/12/multiple-grounding-points-cut-lightning-induced-overvoltage-in-solar-panels-by-up-to-55/",
+    "source": "pv magazine",
+    "date": "2026-10-12",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Energy Dome opens CO2 battery manufacturing plant in Italy",
+    "summary": "Energy Dome’s new manufacturing plant will supply components for long-duration energy storage (LDES) projects in India, the United States and Ireland. The post Energy Dome opens CO2 battery manufacturing plant in Italy...",
+    "link": "https://www.pv-magazine.com/2026/10/12/energy-dome-opens-co2-battery-manufacturing-plant-in-italy/",
+    "source": "pv magazine",
+    "date": "2026-10-12",
+    "edition": "global",
+    "region": 840,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Study identifies new PID degradation mechanism in medium-voltage PV modules",
+    "summary": "French researchers have found that increasing PV system voltage significantly worsens potential-induced degradation (PID), with encapsulant conductivity playing a key role in module performance. They also identified a...",
+    "link": "https://www.pv-magazine.com/2026/10/12/study-identifies-new-pid-degradation-mechanism-in-medium-voltage-pv-modules/",
+    "source": "pv magazine",
+    "date": "2026-10-12",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "South Korea details auction market to replace renewable quota system",
+    "summary": "Draft rules for South Korea’s new renewables auction market provide for monthly difference payments from Korea Electric Power Corp. (Kepco), a separate track for projects up to 500 kW, and an exit route for renewable...",
+    "link": "https://www.pv-magazine.com/2026/10/12/south-korea-details-auction-market-to-replace-renewable-quota-system/",
+    "source": "pv magazine",
+    "date": "2026-10-12",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Risen releases 23.5%-efficient anti-glare heterojunction solar module",
+    "summary": "Risen Energy has unveiled a new anti-glare heterojunction solar module featuring a dual-layer optical design and a power output of up to 730 W. The bifacial panel achieves a maximum efficiency of 23.5% and has received...",
+    "link": "https://www.pv-magazine.com/2026/10/12/risen-releases-23-5-efficient-anti-glare-heterojunction-solar-module/",
+    "source": "pv magazine",
+    "date": "2026-10-12",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "C&I storage the ‘sleeping giant waking up’, says WoodMac",
+    "summary": "Global energy storage outlook will see a seven-fold growth by 2035 passing 7 TWh, with falling costs and policy support accelerating battery storage momentum in emerging and advancing markets The post C I storage the...",
+    "link": "https://www.pv-magazine.com/2026/10/12/ci-storage-the-sleeping-giant-waking-up-says-woodmac/",
+    "source": "pv magazine",
+    "date": "2026-10-12",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Anker Solix announces wheeled power station with 4.5 kW output",
+    "summary": "The wheeled unit weighs 44 kg, with dual-voltage output and claimed idle consumption below 9 W in 120 V mode. The post Anker Solix announces wheeled power station with 4.5 kW output appeared first on pv magazine Global .",
+    "link": "https://www.pv-magazine.com/2026/10/12/anker-solix-announces-wheeled-power-station-with-4-5-kw-output/",
+    "source": "pv magazine",
+    "date": "2026-10-12",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Batteries beat gas peakers on cost globally, but U.S. faces trade headwinds",
+    "summary": "Four-hour storage is now cheaper than open-cycle gas in 43 modeled markets, though tariffs threaten near-term U.S. gains, said a report from Wood Mackenzie. The post Batteries beat gas peakers on cost globally, but U.S...",
+    "link": "https://www.pv-magazine.com/2026/10/12/batteries-beat-gas-peakers-on-cost-globally-but-u-s-faces-trade-headwinds/",
+    "source": "pv magazine",
+    "date": "2026-10-12",
+    "edition": "global",
+    "region": 840,
+    "category": "Storage",
+    "major": false
+  },
+  {
     "title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
     "summary": "Tories plan to scrap low-carbon housebuilding, Greens back new nuclear reactors, and Labour put oil-drilling decisions on hold New homes could be built without solar panels, heat pumps and high-grade insulation, leading...",
     "link": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
     "source": "The Guardian",
+    "date": "2026-10-11",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Trump Must Absolutely Love Solar Panels, Because They Help Farmers",
+    "summary": "The agrivoltaic movement combines solar panels with agriculture, providing farmers with new opportunities to improve their financial situation at a time of skyrocketing fuel costs. The post Trump Must Absolutely Love...",
+    "link": "https://cleantechnica.com/2026/10/11/mammoth-solar-panels-agrivoltaic-us-energy-policy-farmers-diesel/",
+    "source": "CleanTechnica",
     "date": "2026-10-11",
     "edition": "global",
     "region": null,
@@ -385,6 +506,28 @@
     "major": false
   },
   {
+    "title": "Hawaiʻi’s LNG Bridge Has An Expensive Exit",
+    "summary": "The argument for bringing liquefied natural gas to Oʻahu is straightforward enough. LNG could replace oil for a period, potentially lower generation costs and give Hawaiʻi more time to build out renewable electricity...",
+    "link": "https://cleantechnica.com/2026/10/08/hawaii-lng-green-ammonia-cost/",
+    "source": "CleanTechnica",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Hard Questions About the Permitting Bill",
+    "summary": "Before celebrating the benefits of the Bipartisan American Affordability and Jobs Act of 2026, we need an honest accounting of its tradeoffs, especially how much additional fossil fuel development the bill could...",
+    "link": "https://cleantechnica.com/2026/10/07/hard-questions-about-the-permitting-bill/",
+    "source": "CleanTechnica",
+    "date": "2026-10-08",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Toyo cuts the ribbon on its newly-expanded solar factory in Texas",
     "summary": "Company officers and government officials celebrated the 2 GW expansion of Toyo’s Humble, Texas solar module facility and looked forward to planned heterojunction cell production at the site in 2028. The post Toyo cuts...",
     "link": "https://www.pv-magazine.com/2026/10/07/toyo-cuts-the-ribbon-on-its-newly-expanded-solar-factory-in-texas/",
@@ -506,6 +649,28 @@
     "major": false
   },
   {
+    "title": "Trump Officially Throws In The Solar Power Towel (Shocker!)",
+    "summary": "US President Donald Trump stamped his seal of approval on a new solar factory in Texas this week, having dispatched an official from his administration to represent himself on a celebratory tour of the newly completed...",
+    "link": "https://cleantechnica.com/2026/10/07/solar-power-factories-jobs-texas-us-energy-policy-polysilicon/",
+    "source": "CleanTechnica",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "The Solar Century: Landmark Moments in the History of Solar Energy",
+    "summary": "Solar energy is an American success story. Since the creation of the first silicon solar cell 70 years ago, solar leaders have been innovating, improving efficiency, lowering costs, and growing this American-born...",
+    "link": "https://cleantechnica.com/2026/10/07/the-solar-century-landmark-moments-in-the-history-of-solar-energy/",
+    "source": "CleanTechnica",
+    "date": "2026-10-07",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Wireless bipolar electrodes raise zinc-air battery power by 80%",
     "summary": "Researchers in Spain and Argentina have developed a zinc-air battery architecture that increases power output by up to 80% by reducing internal resistance without changing the device’s core chemistry. The post Wireless...",
     "link": "https://www.pv-magazine.com/2026/10/06/wireless-bipolar-electrodes-raise-zinc-air-battery-power-by-80/",
@@ -612,6 +777,39 @@
     "date": "2026-10-06",
     "edition": "global",
     "region": 724,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Renewable Energy on Federal Lands Brings New State & County Revenues",
+    "summary": "A little-noticed provision of the One Big Beautiful Bill Act means new stable revenues for western states, but the Trump administration’s actions have limited its impact. The enactment of the One Big Beautiful Bill Act...",
+    "link": "https://cleantechnica.com/2026/10/06/renewable-energy-on-federal-lands-brings-new-state-county-revenues/",
+    "source": "CleanTechnica",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Lexington Mayor Vetoes Council’s Solar Zoning Amendment Despite Protections for Farmland, Benefits to Customer Bills",
+    "summary": "The ZOTA Would Open No Greater Than 1% of Fayette County Land to Agrivoltaic Solar Projects LEXINGTON, Kentucky — On Friday (9/18), Lexington Mayor Linda Gorton announced her decision to veto a zoning ordinance text...",
+    "link": "https://cleantechnica.com/2026/10/06/lexington-mayor-vetoes-councils-solar-zoning-amendment-despite-protections-for-farmland-benefits-to-customer-bills/",
+    "source": "CleanTechnica",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Uncovering the Secret Documents Behind the Trump Administration’s Clean Manufacturing Cancellations",
+    "summary": "NRDC FOIA’ed the DOE to learn why it canceled billions in clean manufacturing awards. Here’s what we found. By Ian Wells, Federal Industrial Lead, Climate Energy, NRDC Last year, the U.S. Department of Energy (DOE) went...",
+    "link": "https://cleantechnica.com/2026/10/05/uncovering-the-secret-documents-behind-the-trump-administrations-clean-manufacturing-cancellations/",
+    "source": "CleanTechnica",
+    "date": "2026-10-06",
+    "edition": "global",
+    "region": 840,
     "category": "Solar",
     "major": false
   },
@@ -1800,7 +1998,7 @@
     "date": "2026-09-24",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -1811,7 +2009,7 @@
     "date": "2026-09-24",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -2812,7 +3010,7 @@
     "date": "2026-09-18",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -2878,7 +3076,7 @@
     "date": "2026-09-18",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
