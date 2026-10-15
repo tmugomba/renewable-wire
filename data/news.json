@@ -1,5 +1,126 @@
 [
   {
+    "title": "China’s first 100 MW/1,000 MWh compressed CO2 storage plant connects to grid",
+    "summary": "China Huadian has achieved the first grid connection of its 100 MW/1,000 MWh compressed CO₂ energy storage plant in Xinjiang, marking a major milestone in long-duration energy storage. The facility offers 10 hours of...",
+    "link": "https://www.pv-magazine.com/2026/10/15/chinas-first-100-mw-1000-mwh-compressed-co2-storage-plant-connects-to-grid/",
+    "source": "pv magazine",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "BloombergNEF forecasts 584 GW of solar installations in 2026",
+    "summary": "BloombergNEF has cut its 2026 global solar installation forecast to 584 GW, down 10.8% from 2025, driven by a sharper-than-expected slowdown in China. Solar installations outside China are projected to grow to 313 GW...",
+    "link": "https://www.pv-magazine.com/2026/10/15/china-solar-down-29-everywhere-else-up-15/",
+    "source": "pv magazine",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "New image dataset aims to improve AI-based navigation of PV cleaning robots",
+    "summary": "Researchers have created a dataset of 6,200 solar panel images designed to support AI-based navigation of cleaning robots. The dataset features annotated panel reference lines under clean, synthetically soiled, and...",
+    "link": "https://www.pv-magazine.com/2026/10/15/new-image-dataset-aims-to-improve-ai-based-navigation-of-pv-cleaning-robots/",
+    "source": "pv magazine",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Octopus Energy unveils heat pump add-on for home cooling",
+    "summary": "K-based Octopus Energy has introduced Cosy Cooler, a hydronic cooling unit designed to work with its existing Cosy heat pumps. The company says the device can be installed using existing radiator pipework and will cost...",
+    "link": "https://www.pv-magazine.com/2026/10/15/octopus-energy-unveils-heat-pump-add-on-for-home-cooling/",
+    "source": "pv magazine",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": null,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Dutch startup offers PV mounting solution for fragile roofs",
+    "summary": "Dutch startup Rable has developed a self-supporting PV mounting system for fragile roofs with slopes of up to 10 degrees, reducing anchor points by 95% compared with conventional systems. The galvanized-steel structure...",
+    "link": "https://www.pv-magazine.com/2026/10/15/dutch-startup-offers-pv-mounting-solution-for-fragile-roofs/",
+    "source": "pv magazine",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": 528,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Solaria plans 500 MW data center project powered by 350 MW of solar in Uruguay",
+    "summary": "Solaria plans to invest $5.7 billion in a data center technology park in Uruguay, including 500 MW of data center capacity and 350 MW of solar PV. The government says it is the largest foreign investment ever announced...",
+    "link": "https://www.pv-magazine.com/2026/10/15/solaria-plans-500-mw-data-center-project-powered-by-350-mw-of-solar-in-uruguay/",
+    "source": "pv magazine",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": true
+  },
+  {
+    "title": "Saudi Arabia uses 250 MW solar park to breed threatened gazelles",
+    "summary": "Saudi Arabia’s Prince Mohammed bin Salman Royal Reserve has introduced 38 Sand gazelles into an operational solar facility following a seven-month trial. The project aims to use existing PV infrastructure as a breeding...",
+    "link": "https://www.pv-magazine.com/2026/10/15/saudi-arabia-uses-250-mw-solar-park-to-breed-threatened-gazelles/",
+    "source": "pv magazine",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Germany deploys 12.76 GW of solar in first nine months of 2026",
+    "summary": "Germany installed 1.23 GW of solar capacity in September, down from 1.64 GW in August, as utility-scale additions hit their lowest level of 2026 and rooftop demand remained weak. Despite the slowdown, installations in...",
+    "link": "https://www.pv-magazine.com/2026/10/15/germany-deploys-12-76-gw-of-solar-in-first-nine-months-of-2026/",
+    "source": "pv magazine",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "India’s solar industry faces workforce readiness gap",
+    "summary": "A Mercom India study has found that solar industry employers across project development, manufacturing, rooftop solar, and engineering, procurement, and construction (EPC) often need to spend months training fresh...",
+    "link": "https://www.pv-magazine.com/2026/10/15/indias-solar-industry-faces-workforce-readiness-gap-mercom/",
+    "source": "pv magazine",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": 356,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Finland demands grid-forming support for new wind, solar in weak grids",
+    "summary": "Fingrid will require new wind and solar plants in Finland’s weakest grid areas to provide grid-forming capability, which developers can meet with co-located batteries sized at up to 30% of plant output. The post Finland...",
+    "link": "https://www.pv-magazine.com/2026/10/15/finland-demands-grid-forming-support-for-new-wind-solar-in-weak-grids/",
+    "source": "pv magazine",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Canada advances Wind West to bring major new clean power to Atlantic Canada",
+    "summary": "Today’s announcement builds on the Atlantic Economic Panel’s call to develop the region’s energy resources and strengthen electricity connections between provinces. Alongside the historic new Churchill Falls agreement...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/canada-advances-wind-west-to-bring-major-new-clean-power-to-atlantic-canada.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-10-15",
+    "edition": "canada",
+    "region": null,
+    "category": "Wind",
+    "major": false
+  },
+  {
     "title": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS",
     "summary": "The deadline to submit project proposals is December 10. The post Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS appeared first on pv magazine Global .",
     "link": "https://www.pv-magazine.com/2026/10/14/tunisia-launches-tender-for-50-mw-solar-pv-plant-with-10-mw-20-mwh-bess/",
@@ -149,6 +270,28 @@
     "source": "Natural Resources Canada",
     "date": "2026-10-14",
     "edition": "canada",
+    "region": null,
+    "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "Sierra Club Urges Strong Public Protections, Good Jobs and Clean Energy in Mesabi Metallics Incentive Deal",
+    "summary": "Letter Calls for Credible, Enforceable Provisions in any Taxpayer-Funded Package DES MOINES, Iowa – In a letter to Iowa Economic Development Authority, the Sierra Club Iowa Chapter is urging state officials to ensure...",
+    "link": "https://cleantechnica.com/2026/10/14/sierra-club-urges-strong-public-protections-good-jobs-and-clean-energy-in-mesabi-metallics-incentive-deal/",
+    "source": "CleanTechnica",
+    "date": "2026-10-14",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Trump Administration Wants to Stop an Almost-Complete Offshore Wind Project",
+    "summary": "Washington, D.C. — Donald Trump’s Department of the Interior has asked a federal court to re-evaluate the permit for Revolution Wind, an offshore wind project that has already begun delivering electricity to families in...",
+    "link": "https://cleantechnica.com/2026/10/14/trump-administration-wants-to-stop-an-almost-complete-offshore-wind-project/",
+    "source": "CleanTechnica",
+    "date": "2026-10-14",
+    "edition": "global",
     "region": null,
     "category": "Wind",
     "major": false
