@@ -1,5 +1,126 @@
 [
   {
+    "title": "U.S. trade commission finds solar imports from India, Indonesia and Laos are harming domestic industry",
+    "summary": "Following affirmative dumping and subsidy findings by Commerce, the International Trade Commission's final vote secures the issuance of federal antidumping and countervailing duty orders. The post U.S. trade commission...",
+    "link": "https://www.pv-magazine.com/2026/10/16/usitc-finds-material-injury-from-solar-imports-from-india-indonesia-and-laos/",
+    "source": "pv magazine",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "China proposes ban on exports of perovskite, tandem solar manufacturing technology",
+    "summary": "China has proposed banning exports of selected high-efficiency perovskite and tandem solar manufacturing technologies, alongside new restrictions on advanced polysilicon, wafer and crystalline-silicon cell production...",
+    "link": "https://www.pv-magazine.com/2026/10/16/china-proposes-ban-on-exports-of-perovskite-tandem-solar-manufacturing-technology/",
+    "source": "pv magazine",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": 156,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "The Hydrogen Stream: P2X starts selling renewable methane to European markets",
+    "summary": "Europe’s renewable hydrogen and e-fuels sector continues to gain momentum, with new developments spanning e-methane certification and offtake, electrolyser technology, large-scale green hydrogen projects and strategic...",
+    "link": "https://www.pv-magazine.com/2026/10/16/the-hydrogen-stream-p2x-starts-selling-renewable-methane-to-european-markets/",
+    "source": "pv magazine",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": null,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Scientists develop air-source heat pump system for broiler houses",
+    "summary": "Researchers in Turkey have tested an air-source heat pump for heating commercial poultry houses, combining experimental measurements with numerical simulations. The system reduced annual heating costs by approximately...",
+    "link": "https://www.pv-magazine.com/2026/10/16/scientists-develop-air-source-heat-pump-system-for-broiler-houses/",
+    "source": "pv magazine",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Chinese PV Industry Brief: Trina Solar expands upstream ties with stake in encapsulation film maker",
+    "summary": "Trina Solar plans to acquire a 1.6% stake in Chinese PV encapsulation film manufacturer Betterial for CNY 40 million ($5.88 million). The investment aims to strengthen upstream supplier ties and improve supply chain...",
+    "link": "https://www.pv-magazine.com/2026/10/16/chinese-pv-industry-brief-trina-solar-expands-upstream-ties-with-stake-in-encapsulation-film-maker/",
+    "source": "pv magazine",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Big highs and lows across Asia in September",
+    "summary": "In a new weekly update for pv magazine , Solcast, a DNV company, reports that September 2026 saw extreme solar irradiance variations across Asia, with Japan and Borneo experiencing up to 30% below-normal levels, while...",
+    "link": "https://www.pv-magazine.com/2026/10/16/big-highs-and-lows-across-asia-in-september/",
+    "source": "pv magazine",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": 392,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Electrifying everything",
+    "summary": "COP31 aims to increase electricity’s share of global final energy demand from 20% to 35% by 2035, accelerating the transition to clean, affordable energy through electrification. Australia is leading with rapid growth...",
+    "link": "https://www.pv-magazine.com/2026/10/16/electrifying-everything/",
+    "source": "pv magazine",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": 36,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "China could produce the cheapest green hydrogen",
+    "summary": "China could produce green hydrogen at an average cost of $120/MWh, significantly less than Germany, the United States and Japan, according to researchers at the University of Cologne. The analysis highlights China's...",
+    "link": "https://www.pv-magazine.com/2026/10/16/china-can-produce-the-cheapest-green-hydrogen/",
+    "source": "pv magazine",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": 840,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Germany recommends eliminating direct internet access to PV plant control systems",
+    "summary": "Germany’s Federal Office for Information Security (BSI) recommends eliminating direct internet access to PV plant control systems to reduce cybersecurity risks. It also calls for secure remote connections, multifactor...",
+    "link": "https://www.pv-magazine.com/2026/10/16/germany-recommends-eliminating-direct-internet-access-to-pv-plant-control-systems/",
+    "source": "pv magazine",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Nitric-acid-free process recovers more than 98% of silver from PV waste",
+    "summary": "French researchers have recovered silver, the most valuable material in end-of-life silicon PV modules, in two steps using a reusable leaching solution. The post Nitric-acid-free process recovers more than 98% of silver...",
+    "link": "https://www.pv-magazine.com/2026/10/16/nitric-acid-free-process-recovers-more-than-98-of-silver-from-pv-waste/",
+    "source": "pv magazine",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Monthly Wind Generation In ISO-NE Is About 68% Higher Than Last Year",
+    "summary": "Monthly wind generation in the first nine months of 2026 was an average of 68% higher compared with the same period in 2025 in ISO New England (ISO-NE): Monthly generation from wind was highest in September of this year...",
+    "link": "https://cleantechnica.com/2026/10/15/monthly-wind-generation-in-iso-ne-is-about-68-higher-than-last-year/",
+    "source": "CleanTechnica",
+    "date": "2026-10-16",
+    "edition": "global",
+    "region": 826,
+    "category": "Wind",
+    "major": false
+  },
+  {
     "title": "China’s first 100 MW/1,000 MWh compressed CO2 storage plant connects to grid",
     "summary": "China Huadian has achieved the first grid connection of its 100 MW/1,000 MWh compressed CO₂ energy storage plant in Xinjiang, marking a major milestone in long-duration energy storage. The facility offers 10 hours of...",
     "link": "https://www.pv-magazine.com/2026/10/15/chinas-first-100-mw-1000-mwh-compressed-co2-storage-plant-connects-to-grid/",
@@ -118,6 +239,28 @@
     "edition": "canada",
     "region": null,
     "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "Cost of balancing Great Britain’s power grid reaches nearly £50m a day",
+    "summary": "Grid operator paying large sums to switch off windfarms in areas of excess electricity generation while turning on gas plants elsewhere The cost of balancing Great Britain’s power grid has soared to near-record highs of...",
+    "link": "https://www.theguardian.com/business/2026/oct/15/cost-of-balancing-great-britain-power-grid-50m-daily",
+    "source": "The Guardian",
+    "date": "2026-10-15",
+    "edition": "global",
+    "region": 826,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Minister Hodgson to travel to the United Kingdom",
+    "summary": "The Honourable Tim Hodgson, Minister of Energy and Natural Resources, will travel to London, U.K., on October 19 and 20, 2026, to participate in official meetings and events.",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-hodgson-to-travel-to-the-united-kingdom.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-10-15",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
     "major": false
   },
   {
