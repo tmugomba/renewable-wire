@@ -1,5 +1,104 @@
 [
   {
+    "title": "Qcells to introduce U.S. domestic frames for residential solar panel lineup",
+    "summary": "The manufacturer partnered with Aluko Group to supply U.S.-made aluminum frames from Tennessee, aimed at streamlining domestic content bonus qualification under increasing IRA thresholds. The post Qcells to introduce...",
+    "link": "https://www.pv-magazine.com/2026/10/17/qcells-to-introduce-u-s-domestic-frames-for-residential-solar-panel-lineup/",
+    "source": "pv magazine",
+    "date": "2026-10-17",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Brazil’s new curtailment rules unlikely to revive utility-scale solar investment",
+    "summary": "Brazil’s new curtailment rules offer greater regulatory certainty for solar developers, but uncertainty over future generation cuts and financial risks continues to weigh on investment. Industry experts expect new...",
+    "link": "https://www.pv-magazine.com/2026/10/17/brazils-new-curtailment-rules-unlikely-to-revive-utility-scale-solar-investment/",
+    "source": "pv magazine",
+    "date": "2026-10-17",
+    "edition": "global",
+    "region": 76,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Beyond recruitment: What really keeps women in solar",
+    "summary": "This week, Women in Solar+ Europe (WiSEu) shares insights from its contribution to SolarPower Europe’s EU Solar Jobs Report 2026, exploring what attracts women to Solar+ and what makes them stay, progress or leave...",
+    "link": "https://www.pv-magazine.com/2026/10/17/beyond-recruitment-what-really-keeps-women-in-solar/",
+    "source": "pv magazine",
+    "date": "2026-10-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "France to ease grid connection rules for solar-plus-storage projects up to 25 MW",
+    "summary": "France plans to ease grid connection rules for solar-plus-storage projects with installed capacity of up to 25 MW, provided grid injection does not exceed 17 MW. The measure is part of a broader government initiative to...",
+    "link": "https://www.pv-magazine.com/2026/10/17/france-to-ease-grid-connection-rules-for-solar-plus-storage-projects-up-to-25-mw/",
+    "source": "pv magazine",
+    "date": "2026-10-17",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Six-year testing highlights impact of reduced maintenance on PV plant operation during COVID-19 pandemic",
+    "summary": "A six-year study of a 12 MW solar plant in Algeria found an average performance ratio of 82.6%, with annual electricity generation ranging from 19.83 to 21.41 GWh. Performance declined significantly in 2020 due to...",
+    "link": "https://www.pv-magazine.com/2026/10/17/six-year-testing-highlights-impact-of-reduced-maintenance-on-pv-plants-during-covid-19-pandemic/",
+    "source": "pv magazine",
+    "date": "2026-10-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Spanish researchers test low-height agrivoltaics in vineyards",
+    "summary": "Spanish researchers have tested low-height agrivoltaic systems at three vineyards, demonstrating electricity generation with negligible impacts on grape production. The systems achieved land equivalent ratios of 1.16 to...",
+    "link": "https://www.pv-magazine.com/2026/10/17/spanish-researchers-test-low-height-agrivoltaics-in-vineyards/",
+    "source": "pv magazine",
+    "date": "2026-10-17",
+    "edition": "global",
+    "region": 724,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Dutch regulator flags EU cyber gap for cloud-controlled home batteries",
+    "summary": "A Dutch regulator says EU cybersecurity rules should target companies by how much power they can control remotely, not by their size, and wants home energy devices certified independently under the Cyber Resilience Act...",
+    "link": "https://www.pv-magazine.com/2026/10/17/dutch-regulator-flags-eu-cyber-gap-for-cloud-controlled-home-batteries/",
+    "source": "pv magazine",
+    "date": "2026-10-17",
+    "edition": "global",
+    "region": 528,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Large-scale solar projects in Australia reach record 3.5 GW of annual investment decisions",
+    "summary": "The latest Clean Energy Regulator data shows investment in solar is setting a new annual record with solar final investment decisions for the September 2026 quarter at 1 GW, adding to 3.5 GW already achieved in 2026...",
+    "link": "https://www.pv-magazine.com/2026/10/17/large-scale-solar-sets-annual-financial-investment-decision-record-at-3-5-gw/",
+    "source": "pv magazine",
+    "date": "2026-10-17",
+    "edition": "global",
+    "region": 36,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "U.S. Small-Scale Solar Generation Has Quadrupled in the Last Decade",
+    "summary": "We estimate that U.S. generation from small-scale or rooftop solar photovoltaic systems (smaller than 1 megawatt of capacity) has increased from 18,812 gigawatthours (GWh) to 92,979 GWh over the last decade. The four...",
+    "link": "https://cleantechnica.com/2026/10/16/u-s-small-scale-solar-generation-has-quadrupled-in-the-last-decade/",
+    "source": "CleanTechnica",
+    "date": "2026-10-17",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "U.S. trade commission finds solar imports from India, Indonesia and Laos are harming domestic industry",
     "summary": "Following affirmative dumping and subsidy findings by Commerce, the International Trade Commission's final vote secures the issuance of federal antidumping and countervailing duty orders. The post U.S. trade commission...",
     "link": "https://www.pv-magazine.com/2026/10/16/usitc-finds-material-injury-from-solar-imports-from-india-indonesia-and-laos/",
