@@ -1,5 +1,115 @@
 [
   {
+    "title": "India’s ACME Solar signs 300 MW/1,200 MWh PPA at $0.063/kWh",
+    "summary": "Under the terms of the agreement, ACME Solar will deliver 300 MW/1,200 MWh of assured peak power supply through a firm and dispatchable renewable energy (FDRE) project combining solar and storage technologies. The post...",
+    "link": "https://www.pv-magazine.com/2026/10/19/acme-solar-signs-ppa-with-seci-for-300-mw-1200-mwh-fdre-project-at-inr-6-kwh/",
+    "source": "pv magazine",
+    "date": "2026-10-19",
+    "edition": "global",
+    "region": 356,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Taiwanese firm to make floating PV components in Philippines",
+    "summary": "Taiwanese floating solar supplier Suntoward will begin producing floats, walkways and mooring components in the Philippines in early 2027. The post Taiwanese firm to make floating PV components in Philippines appeared...",
+    "link": "https://www.pv-magazine.com/2026/10/19/taiwanese-firm-to-make-floating-pv-components-in-philippines/",
+    "source": "pv magazine",
+    "date": "2026-10-19",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Politicians propose plug-in solar, batteries in Norway",
+    "summary": "A group of Green Party politicians in Norway are calling on the Norwegian government to make it possible to connect plug-in solar and batteries that meet established safety requirements by the end of 2027. The post...",
+    "link": "https://www.pv-magazine.com/2026/10/19/politicians-propose-plug-in-solar-batteries-in-norway/",
+    "source": "pv magazine",
+    "date": "2026-10-19",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Bangladesh plans 70 MW solar plant at coal power station",
+    "summary": "The European Investment Bank (EIB) is expected to help finance a planned 70 MW solar power plant at Bangladesh’s Matarbari coal-fired power station, with commissioning targeted for December 2028. The post Bangladesh...",
+    "link": "https://www.pv-magazine.com/2026/10/19/bangladesh-plans-70-mw-solar-plant-at-coal-power-station/",
+    "source": "pv magazine",
+    "date": "2026-10-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Indonesian president instructs transformation of power utility",
+    "summary": "A reform of Indonesia's power utility PT PLN is set to focus on improving efficiency and productivity, as well as accelerating the delivery of the country's 100 GW solar program. The post Indonesian president instructs...",
+    "link": "https://www.pv-magazine.com/2026/10/19/indonesian-president-instructs-transformation-of-power-utility/",
+    "source": "pv magazine",
+    "date": "2026-10-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Longi researchers reveal how edge masking reduces recombination losses in solar cells",
+    "summary": "Longi researchers found that edge masking improves the measured efficiency of heterojunction back-contact solar cells by suppressing edge recombination, with an optimal masking width of 5 mm. Their simulations suggest...",
+    "link": "https://www.pv-magazine.com/2026/10/19/longi-researchers-reveals-how-edge-masking-reduces-recombination-losses-in-solar-cells/",
+    "source": "pv magazine",
+    "date": "2026-10-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "JinkoSolar unveils 28%-efficient back-contact TOPCon solar cell with amorphous silicon heterojunction passivation",
+    "summary": "JinkoSolar has unveiled its first back-contact solar cell technology, combining TOPCon and heterojunction passivation in a new architecture called TAC. The Chinese manufacturer reported a peak cell conversion efficiency...",
+    "link": "https://www.pv-magazine.com/2026/10/19/jinkosolar-unveils-28-efficient-back-contact-topcon-solar-cell-with-amorphous-silicon-heterojunction-passivation/",
+    "source": "pv magazine",
+    "date": "2026-10-19",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Sri Lanka asks PV system owners to disconnect after nationwide blackout",
+    "summary": "Sri Lanka has ordered PV system owners to disconnect from the grid following a nationwide blackout on Oct. 17. The outage follows a similar incident in February 2025, when high solar penetration was identified as a...",
+    "link": "https://www.pv-magazine.com/2026/10/19/sri-lanka-asks-pv-system-owners-to-disconnect-after-nationwide-blackout/",
+    "source": "pv magazine",
+    "date": "2026-10-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "100% renewables is doable, even in oil countries",
+    "summary": "Oil- and gas-producing countries could strengthen their economies by accelerating domestic renewable energy deployment while maintaining fossil fuel exports, according to LUT University professor Christian Breyer. In an...",
+    "link": "https://www.pv-magazine.com/2026/10/19/100-renewables-is-doable-even-in-oil-countries/",
+    "source": "pv magazine",
+    "date": "2026-10-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Swift Current alleges widespread module defects in lawsuit against First Solar",
+    "summary": "The Massachusetts-based developer filed a complaint in the New York supreme court that alleges the module manufacturer knew about defects that have caused underperformance in more than 2.4 million modules it delivered...",
+    "link": "https://www.pv-magazine.com/2026/10/19/swift-current-alleges-widespread-module-defects-in-lawsuit-against-first-solar/",
+    "source": "pv magazine",
+    "date": "2026-10-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Qcells to introduce U.S. domestic frames for residential solar panel lineup",
     "summary": "The manufacturer partnered with Aluko Group to supply U.S.-made aluminum frames from Tennessee, aimed at streamlining domestic content bonus qualification under increasing IRA thresholds. The post Qcells to introduce...",
     "link": "https://www.pv-magazine.com/2026/10/17/qcells-to-introduce-u-s-domestic-frames-for-residential-solar-panel-lineup/",
