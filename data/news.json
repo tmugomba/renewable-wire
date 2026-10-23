@@ -1,5 +1,148 @@
 [
   {
+    "title": "Austria allocates 173 MW at average price of €0.0642/kWh in PV tender",
+    "summary": "Austria's third solar market premium auction of 2026 attracted 195 successful bids, with a volume-weighted average price of €0.0642/kWh, slightly higher than in the previous round. The post Austria allocates 173 MW at...",
+    "link": "https://www.pv-magazine.com/2026/10/23/austria-allocates-173-mw-at-average-price-of-e0-0642-kwh-in-ground-mounted-pv-tender/",
+    "source": "pv magazine",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Italy awards full 30 MW quota in second floating PV tender",
+    "summary": "Italy’s second FER2 auction for floating solar projects on inland waters has allocated its entire 30 MW quota, following weak participation in the first round. Eight projects secured capacity, while two were excluded...",
+    "link": "https://www.pv-magazine.com/2026/10/23/italy-awards-full-30-mw-quota-in-second-floating-pv-tender/",
+    "source": "pv magazine",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use",
+    "summary": "Another 100 companies wrote the European executive body to preserve EU green hydrogen targets. Meanwhile, the European Commission selected 77 net-zero projects, including several hydrogen projects. The post The Hydrogen...",
+    "link": "https://www.pv-magazine.com/2026/10/23/the-hydrogen-stream-italian-company-unveils-seven-layer-pem-electrolyzer-assembly-to-reduce-iridium-use/",
+    "source": "pv magazine",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": null,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Chinese PV Industry Brief: Polysilicon inventories remain high",
+    "summary": "TrendForce said China’s polysilicon inventories remained above 560,000 metric tons despite expected production cuts in October. Persistent oversupply and weak downstream demand continued to weigh on prices. The post...",
+    "link": "https://www.pv-magazine.com/2026/10/23/chinese-pv-industry-brief-polysilicon-inventories-remain-high/",
+    "source": "pv magazine",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "South Korea’s renewable energy capacity overtakes coal for first time",
+    "summary": "Renewable energy capacity in South Korea reached 41 GW on Oct. 21, edging past coal-fired capacity for the first time, according to the country’s power market operator. The post South Korea’s renewable energy capacity...",
+    "link": "https://www.pv-magazine.com/2026/10/23/south-koreas-renewable-energy-capacity-overtakes-coal-for-first-time/",
+    "source": "pv magazine",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Sodium-ion storage maker Peak Energy raises $108 million in GM-led round",
+    "summary": "A US sodium-ion battery storage company has closed a $108 million Series B round led by General Motors’ venture arm, as it prepares to start production at a 4 GWh factory in California and launch its systems in the data...",
+    "link": "https://www.pv-magazine.com/2026/10/23/sodium-ion-storage-maker-peak-energy-raises-108-million-in-gm-led-round/",
+    "source": "pv magazine",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Transaera tests its heat pump with metal-organic framework dehumidification in apartment building",
+    "summary": "U.S. startup Transaera will test its all-electric rooftop heat pump system in a multifamily residential building in Washington, D.C., with support from a $125,000 grant. The technology uses metal–organic frameworks for...",
+    "link": "https://www.pv-magazine.com/2026/10/23/transaera-tests-its-heat-pump-with-metal-organic-framework-dehumidification-in-apartment-building/",
+    "source": "pv magazine",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "European solar, BESS marketplace expands to Romania",
+    "summary": "Solmeria, an online marketplace for selling solar and battery energy storage systems directly to buyers, is now listing projects in Romania alongside offers in France and Italy. The post European solar, BESS marketplace...",
+    "link": "https://www.pv-magazine.com/2026/10/23/european-solar-bess-marketplace-expands-to-romania/",
+    "source": "pv magazine",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Hemispherical perovskite solar cell design reduces sensitivity to sunlight angle",
+    "summary": "Chinese researchers have designed a hemispherical perovskite solar cell with a textured surface to improve light absorption and reduce sensitivity to sunlight incidence angles. Simulations showed absorption exceeding...",
+    "link": "https://www.pv-magazine.com/2026/10/23/hemispherical-perovskite-solar-cell-design-reduces-sensitivity-to-sunlight-angle/",
+    "source": "pv magazine",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": 156,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Panasonic begins sales of glass-based perovskite solar panels",
+    "summary": "Panasonic began commercial sales of its glass-based perovskite solar panels in September 2026, ahead of the planned launch of full-scale mass production in April 2029. The initial products are manufactured at the...",
+    "link": "https://www.pv-magazine.com/2026/10/23/panasonic-begins-sales-of-glass-based-perovskite-solar-panels/",
+    "source": "pv magazine",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Optivolt Raises $32M to Build the Brain for Solar Panels of the Future",
+    "summary": "Series A led by VXI Capital, with backing from the people who built modern solar, including founding Enphase CEO Paul Nahi, former SunPower CEO Tom Werner and former New York energy czar Richard Kauffman Nine years in...",
+    "link": "https://cleantechnica.com/2026/10/22/optivolt-raises-32m-to-build-the-brain-for-solar-panels-of-the-future/",
+    "source": "CleanTechnica",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "ANALYSIS: Solar & Storage Growth Drives Down Summer Wholesale Electricity Prices by 42% in Texas & 51% in California",
+    "summary": "New analysis shows how solar and storage are lowering electricity costs in red and blue states as affordability takes center stage heading into the midterm elections. WASHINGTON D.C. — As energy affordability emerges as...",
+    "link": "https://cleantechnica.com/2026/10/22/analysis-solar-storage-growth-drives-down-summer-wholesale-electricity-prices-by-42-in-texas-51-in-california/",
+    "source": "CleanTechnica",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Sierra Club Applauds Approval for Ameren Missouri’s New Solar & Storage Projects",
+    "summary": "ST. LOUIS, Mo. — Yesterday, the Missouri Public Service Commission (PSC) approved Ameren Missouri’s proposal to build solar and storage projects. The Sierra Club and its members supported the projects at public hearings...",
+    "link": "https://cleantechnica.com/2026/10/22/sierra-club-applauds-approval-for-ameren-missouris-new-solar-storage-projects/",
+    "source": "CleanTechnica",
+    "date": "2026-10-23",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
     "title": "PVH expands Houston footprint to scale pre-assembled solar trackers",
     "summary": "PV Hardware USA (PVH USA) is expanding its original manufacturing facility in Houston, Texas, adding 34,200 square feet of production space to scale its pre-assembly manufacturing strategy and address labor and supply...",
     "link": "https://www.pv-magazine.com/2026/10/22/pvh-expands-houston-footprint-to-scale-pre-assembled-solar-trackers/",
@@ -122,7 +265,7 @@
   },
   {
     "title": "Snowy Hydro 2.0 has blown out to 12 times its original cost – but the CEO says it ‘could have been worse’",
-    "summary": "New projections by the Snowy Hydro company show tunnelling work is now 65% finished, but the completion date has been pushed back to 2029 Get our breaking news email , free app or daily news podcast The cost of Snowy...",
+    "summary": "New projections by the Snowy Hydro company show tunnelling work is now 65% finished but the completion date has been pushed back to 2029 Get our breaking news email , free app or daily news podcast The cost of Snowy...",
     "link": "https://www.theguardian.com/australia-news/2026/oct/22/snowy-hydro-2-0-blows-out-to-12-times-original-cost",
     "source": "The Guardian",
     "date": "2026-10-22",
@@ -139,6 +282,28 @@
     "date": "2026-10-22",
     "edition": "canada",
     "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Joint Statement between the Minister of Energy and Natural Resources of Canada and the Minister of Energy and Natural Resources of Türkiye on Cooperation in the Field of Energy",
+    "summary": "Joint Statement between the Minister of Energy and Natural Resources of Canada and the Minister of Energy and Natural Resources of Türkiye on Cooperation in the Field of Energy",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/joint-statement-between-the-minister-of-energy-and-natural-resources-of-canada-and-the-minister-of-energy-and-natural-resources-of-turkiye-on-coope.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-10-22",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Canada freezes vehicle emissions standards until 2029, announces $2.5 billion for auto industry",
+    "summary": "Prime Minister Mark Carney and Ontario premier Doug Ford announced the measures in Ottawa, drawing mixed reactions from the auto industry and clean-energy advocates The post Canada freezes vehicle emissions standards...",
+    "link": "https://electricautonomy.ca/policy-regulations/2026-10-22/canada-freezes-vehicle-emissions-standards-until-2029-announces-2-5-billion-for-auto-industry/",
+    "source": "Electric Autonomy Canada",
+    "date": "2026-10-22",
+    "edition": "canada",
+    "region": "ON",
     "category": "Research",
     "major": false
   },
