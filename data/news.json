@@ -1,5 +1,16 @@
 [
   {
+    "title": "Invest in Solar and Earn $3,000 a Day?",
+    "summary": "Driven by the rapid growth of artificial intelligence, data centers, electric vehicles, and industrial electrification, global electricity demand continues to rise, making solar power a focal point for investment in...",
+    "link": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
+    "source": "CleanTechnica",
+    "date": "2026-10-25",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Renewable Energy India Expo 2026: Three key takeaways",
     "summary": "India’s largest renewable energy trade show returned to Greater Noida, outside of Delhi, this week. At the three day event, pv magazine took in a national solar industry that has reached enormous proportions, and...",
     "link": "https://www.pv-magazine.com/2026/10/24/renewable-energy-india-expo-2026-three-key-takeaways/",
@@ -117,6 +128,17 @@
     "date": "2026-10-24",
     "edition": "global",
     "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Zayed Sustainability Prize Picks Finalists from 10,233 Submissions",
+    "summary": "The Zayed Sustainability Prize recently made its final cuts to determine the finalists for the 2027 edition. I used to cover the prize very closely and thoroughly, back when it was called the Zayed Future Energy Prize...",
+    "link": "https://cleantechnica.com/2026/10/24/zayed-sustainability-prize-picks-finalists-from-10233-submissions/",
+    "source": "CleanTechnica",
+    "date": "2026-10-24",
+    "edition": "global",
+    "region": null,
     "category": "Solar",
     "major": false
   },
@@ -2350,7 +2372,7 @@
     "date": "2026-10-06",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
