@@ -1,5 +1,126 @@
 [
   {
+    "title": "India’s grid capacity puzzle",
+    "summary": "India is adding renewable energy capacity faster than transmission infrastructure can keep pace, and the consequences are now showing up in project economics, writes Vijay CS of Aurora Energy Research. The situation can...",
+    "link": "https://www.pv-magazine.com/2026/10/26/indias-grid-capacity-puzzle/",
+    "source": "pv magazine",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": 356,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Xpanner launches automated pile driver to speed up utility-scale solar, energy storage installation",
+    "summary": "The fully automated system combines GNSS positioning and remote control operation to reduce pile driving cycle times by 45% on utility-scale solar and battery storage job sites. The post Xpanner launches automated pile...",
+    "link": "https://www.pv-magazine.com/2026/10/26/xpanner-launches-automated-pile-driver-to-speed-up-utility-scale-solar-energy-storage-installation/",
+    "source": "pv magazine",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Shakti Pumps releases 620 W TOPCon solar module",
+    "summary": "Shakti Pumps presented its Shakti On Roof solar module range featuring 16-busbar TOPCon technology, alongside solar pumps, inverters and module mounting structures. The post Shakti Pumps releases 620 W TOPCon solar...",
+    "link": "https://www.pv-magazine.com/2026/10/26/shakti-pumps-unveils-620-wp-topcon-solar-module-at-rei-expo-2026/",
+    "source": "pv magazine",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Citicore secures $552 million for 900 MW solar, 120 MWh storage portfolio in Philippines",
+    "summary": "Bank of the Philippine Islands, Land Bank of the Philippines and Development Bank of the Philippines have provided PHP 35.014 billion ($552 million) in financing for a portfolio of five solar projects totaling 900 MW...",
+    "link": "https://www.pv-magazine.com/2026/10/26/citicore-secures-552-million-for-900-mw-solar-120-mwh-storage-portfolio-in-philippines/",
+    "source": "pv magazine",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Samsung SDI signs 1 GWh supply agreement for US-made NCA battery storage",
+    "summary": "South Korean manufacturer’s Michigan-based subsidiary will supply Alpha Omega Power with utility-scale battery storage. The supply agreement covers Samsung SDI’s containerized nickel cobalt aluminum (NCA) cell-based...",
+    "link": "https://www.pv-magazine.com/2026/10/26/samsung-sdi-signs-1-gwh-supply-agreement-for-us-made-nca-battery-storage/",
+    "source": "pv magazine",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Czech ministry proposes storage capacity auctions to 2027",
+    "summary": "The Czech government has proposed changes to its new capacity mechanism, which is open to battery storage, including moving two supplementary auctions from 2026 to 2027, a year later than prospective participants had...",
+    "link": "https://www.pv-magazine.com/2026/10/26/czech-ministry-proposes-storage-capacity-auctions-to-2027/",
+    "source": "pv magazine",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": true
+  },
+  {
+    "title": "Waaree showcases 520 W flexible mono PERC solar module with 19.69% efficiency",
+    "summary": "The Indian manufacturer has unveiled a flexible, lightweight monocrystalline PERC solar module that is reportedly about 70% lighter than conventional glass-based panels and is designed for curved rooftops and...",
+    "link": "https://www.pv-magazine.com/2026/10/26/waaree-showcases-520-wp-flexible-mono-perc-solar-module-with-19-69-efficiency/",
+    "source": "pv magazine",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": 356,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Norwegian alliance calls for increased solar support",
+    "summary": "Trade union, environmental and business organisations in Norway have signed a joint letter demanding the Norwegian government backs five measures to support the country’s solar industry. The post Norwegian alliance...",
+    "link": "https://www.pv-magazine.com/2026/10/26/norwegian-alliance-calls-for-increased-solar-support/",
+    "source": "pv magazine",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "New multi-modeling approach can predict rice yield in agrivoltaics",
+    "summary": "Researchers in Japan have developed a modeling approach to optimize rice yields and electricity generation in agrivoltaic systems. Their findings show that adjusting solar panel tilt angles can improve crop productivity...",
+    "link": "https://www.pv-magazine.com/2026/10/26/new-multi-modeling-approach-can-predict-rice-yield-in-agrivoltaics/",
+    "source": "pv magazine",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": 392,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Hungary proposes energy upgrades for single-family homes, apartments",
+    "summary": "A government program in Hungary is preparing to offer single-family homes and condominiums non-refundable subsidies and preferential loans for energy efficiency measures including solar PV and heat pump installations...",
+    "link": "https://www.pv-magazine.com/2026/10/26/hungary-proposes-energy-upgrades-for-single-family-homes-apartments/",
+    "source": "pv magazine",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
+    "summary": "V2G tech enables drivers to charge automatically when electricity is cheaper and then sell some back to the grid at times of high demand Electric cars that can be used as “power plants on wheels” could be given...",
+    "link": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
+    "source": "The Guardian",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "Invest in Solar and Earn $3,000 a Day?",
     "summary": "Driven by the rapid growth of artificial intelligence, data centers, electric vehicles, and industrial electrification, global electricity demand continues to rise, making solar power a focal point for investment in...",
     "link": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
