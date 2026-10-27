@@ -1,5 +1,126 @@
 [
   {
+    "title": "Singapore sets 4 GWp solar target for 2035",
+    "summary": "Singapore is pooling government solar demand and testing installations on facades, heritage roofs and temporary worksites to reach a higher long-term solar target. The post Singapore sets 4 GWp solar target for 2035...",
+    "link": "https://www.pv-magazine.com/2026/10/27/singapore-sets-4-gwp-solar-target-for-2035/",
+    "source": "pv magazine",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Algeria inaugurates 300 MW solar project",
+    "summary": "The 300 MW solar plant, located in the eastern province of El Oued, is Algeria's largest operational PV project to date. The post Algeria inaugurates 300 MW solar project appeared first on pv magazine Global .",
+    "link": "https://www.pv-magazine.com/2026/10/27/algeria-inaugurates-300-mw-solar-project/",
+    "source": "pv magazine",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Bangladesh moves to cut tariffs for long-delayed solar projects",
+    "summary": "Bangladesh is seeking lower tariffs on solar power purchase agreements (PPAs) signed years ago for projects that are still not generating, a move investors warn could raise contract risk across the market. The post...",
+    "link": "https://www.pv-magazine.com/2026/10/27/bangladesh-moves-to-cut-tariffs-for-long-delayed-solar-projects/",
+    "source": "pv magazine",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Australian state targets 75% renewables for main grid",
+    "summary": "Western Australia has committed to a renewable energy target of 75% by 2030-2031 for its main electricity grid as it prepares for the retirement of state-owned coal-fired power stations by the end of this decade. The...",
+    "link": "https://www.pv-magazine.com/2026/10/27/australian-state-targets-75-renewables-for-main-grid/",
+    "source": "pv magazine",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": 36,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Lula targets data center investment using Brazil’s renewable energy potential",
+    "summary": "Brazil’s newly re-elected president wants to attract data centers and develop domestic AI, linking digital infrastructure investment to renewable energy availability, grid capacity and workforce training. The post Lula...",
+    "link": "https://www.pv-magazine.com/2026/10/27/lula-targets-data-center-investment-using-brazils-renewable-energy-potential/",
+    "source": "pv magazine",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": 76,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Italian industrial group to install 43 MW of solar by year-end",
+    "summary": "Leonardo plans to complete 43 MW of solar installations across 20 sites by year-end, covering around 10% of its energy consumption in Italy through self-consumption. The post Italian industrial group to install 43 MW of...",
+    "link": "https://www.pv-magazine.com/2026/10/27/italian-industrial-group-to-install-43-mw-of-solar-by-year-end/",
+    "source": "pv magazine",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "German solar developers seek €70/MWh auction ceiling for 2027",
+    "summary": "Fifteen solar developers warn that planned changes to Germany’s renewable energy law, grid connection rules, and network charges could raise ground-mounted solar costs by up to 30%, prompting calls to increase the...",
+    "link": "https://www.pv-magazine.com/2026/10/27/german-solar-developers-seek-e70-mwh-auction-ceiling-for-2027/",
+    "source": "pv magazine",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Stellantis plans 21.56 MW of solar for Mexican auto complex",
+    "summary": "Stellantis has submitted plans for two solar plants totaling 21.56 MWp at its Saltillo industrial complex in Mexico, with annual generation of 51.68 GWh for on-site consumption. The post Stellantis plans 21.56 MW of...",
+    "link": "https://www.pv-magazine.com/2026/10/27/stellantis-plans-21-56-mw-of-solar-for-mexican-auto-complex/",
+    "source": "pv magazine",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Czech ministry proposes storage capacity auctions to 2027",
+    "summary": "The Czech government has proposed changes to its new capacity mechanism, which is open to battery storage, including moving two supplementary auctions from 2026 to 2027, a year later than prospective participants had...",
+    "link": "https://www.pv-magazine.com/2026/10/27/czech-ministry-proposes-storage-capacity-auctions-to-2027-2/",
+    "source": "pv magazine",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": true
+  },
+  {
+    "title": "Australian renewable energy investment surges to new heights",
+    "summary": "Five renewable energy projects totaling 1.4 GW of new generation capacity and 2.3 GW/7.1 GWh of battery energy storage capacity came online across Australia in the first six months of 2026. The post Australian renewable...",
+    "link": "https://www.pv-magazine.com/2026/10/27/australian-renewable-energy-investment-surges-to-new-heights/",
+    "source": "pv magazine",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": 36,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "New Whitepaper Shows How Grid Operators & Energy Regulators Can Use Solar & Storage to Secure the Grid, Boost Reliability & Reduce Energy Costs",
+    "summary": "Report Shows How to Unlock the Full Potential of Distributed Energy Resources WASHINGTON D.C. — A new report released today by the Solar Energy Industries Association (SEIA) and Current Energy Group outlines how grid...",
+    "link": "https://cleantechnica.com/2026/10/26/new-whitepaper-shows-how-grid-operators-energy-regulators-can-use-solar-storage-to-secure-the-grid-boost-reliability-reduce-energy-costs/",
+    "source": "CleanTechnica",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
     "title": "India’s grid capacity puzzle",
     "summary": "India is adding renewable energy capacity faster than transmission infrastructure can keep pace, and the consequences are now showing up in project economics, writes Vijay CS of Aurora Energy Research. The situation can...",
     "link": "https://www.pv-magazine.com/2026/10/26/indias-grid-capacity-puzzle/",
@@ -118,6 +239,17 @@
     "edition": "global",
     "region": null,
     "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Germany’s 300-Meter Wind Tower Faces a 199-Meter Competitor",
+    "summary": "Germany s GICON has completed one of the more remarkable wind-turbine construction projects in recent years. Its Schipkau prototype reached a hub height of 300 meters in September, putting the upper blade tip at a...",
+    "link": "https://cleantechnica.com/2026/10/26/germany-300-meter-wind-tower-199-meter-competitor/",
+    "source": "CleanTechnica",
+    "date": "2026-10-26",
+    "edition": "global",
+    "region": 276,
+    "category": "Wind",
     "major": false
   },
   {
