@@ -1,5 +1,126 @@
 [
   {
+    "title": "UK government approves nearly 2 GW of co-located solar in October",
+    "summary": "Four projects in nationally significant infrastructure project planning pipeline granted planning permission by secretary of state. All four projects include battery energy storage systems. The post UK government...",
+    "link": "https://www.pv-magazine.com/2026/10/28/uk-government-approves-nearly-2-gw-of-co-located-solar-in-october/",
+    "source": "pv magazine",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "European solar startups raise €82 million in January-August",
+    "summary": "Analysis by Avnet Silica says energy security remains the most significant driver of investment in European solar startups today as financing levels begin to increase after reaching an all-time low last year. The post...",
+    "link": "https://www.pv-magazine.com/2026/10/28/european-solar-startups-raise-e82-million-in-january-august/",
+    "source": "pv magazine",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Acid-free molten salt method recovers 94% of silver from solar cells",
+    "summary": "Researchers in China have recovered 94.34% of the silver from crystalline silicon solar cells using an acid-free molten salt process that detaches the silver as metal, and have identified how to control silicon loss...",
+    "link": "https://www.pv-magazine.com/2026/10/28/acid-free-molten-salt-method-recovers-94-of-silver-from-solar-cells/",
+    "source": "pv magazine",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Togo opens consultation on large-scale solar tender",
+    "summary": "Togo is inviting stakeholders to provide feedback on draft documents relating to development of a large-scale solar project, ahead of launching a competitive tender. Comments can be submitted until November 9. The post...",
+    "link": "https://www.pv-magazine.com/2026/10/28/togo-opens-consultation-on-large-scale-solar-tender/",
+    "source": "pv magazine",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "New flywheel design could eliminate power converter for grid connection",
+    "summary": "A research team has built a fixed-speed flywheel prototype that uses a wire-rope mechanism to move weights inward and outward during discharge and charge. The system briefly supplied power to the electrical supply, but...",
+    "link": "https://www.pv-magazine.com/2026/10/28/new-flywheel-design-could-eliminate-power-converter-for-grid-connection/",
+    "source": "pv magazine",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Sunkean advances copper-to-aluminum jumpers for PV DC systems",
+    "summary": "The manufacturer has developed a copper-to-aluminum jumper solution for PV DC-side applications, addressing conductor material costs, field installation efficiency, and the long-term reliability of copper-to-aluminum...",
+    "link": "https://www.pv-magazine.com/2026/10/28/sunkean-advances-copper-to-aluminum-jumpers-for-pv-dc-systems/",
+    "source": "pv magazine",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Qvantum launches 50 kW propane heat pump for residential, commercial applications",
+    "summary": "The Swedish heat pump manufacturer said its the QA50 heat pump delivers a maximum heating capacity of 50 kW and a COP of up to 3.12. The system uses propane (R290) as a refrigerant, operates at outdoor temperatures...",
+    "link": "https://www.pv-magazine.com/2026/10/28/qvantum-launches-50-kw-propane-heat-pump-for-residential-commercial-applications/",
+    "source": "pv magazine",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "New coating technology could reduce glass usage in photovoltaic modules by up to 40%",
+    "summary": "German startup Exxosqel has developed a coating technology that strengthens solar glass by targeting microscopic surface cracks. Developed in collaboration with the Fraunhofer Institute for Silicate Research, the...",
+    "link": "https://www.pv-magazine.com/2026/10/28/new-coating-technology-could-reduce-glass-usage-in-photovoltaic-modules-by-up-to-40/",
+    "source": "pv magazine",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Ricoh announces GW-scale perovskite solar cell production in Japan",
+    "summary": "Japan's Ricoh plans to begin producing perovskite solar cells by 2030, initially targeting annual capacity of several hundred megawatts. The company will use its proprietary inkjet printing technology to streamline...",
+    "link": "https://www.pv-magazine.com/2026/10/28/ricoh-announces-gw-scale-perovskite-solar-cell-production-in-japan/",
+    "source": "pv magazine",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": 392,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Itaipu studies up to 1 GW of solar to support Paraguay’s power grid",
+    "summary": "Simulations of PV plants connected at three points in Paraguay’s electricity network found that specialized controls could dampen inter-area power oscillations, while the study also recommends battery storage to improve...",
+    "link": "https://www.pv-magazine.com/2026/10/28/itaipu-studies-up-to-1-gw-of-solar-to-support-paraguays-power-grid/",
+    "source": "pv magazine",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "The Need for Maintaining Renewable Energy Directive Stability in the Post-2030 Energy Framework",
+    "summary": "NGOs, civil society and industry call on the European Commission to refrain from reopening the RED legislative framework during the negotiation of the post-2030 energy architecture. Ahead of the Energy Council of 29...",
+    "link": "https://cleantechnica.com/2026/10/28/the-need-for-maintaining-renewable-energy-directive-stability-in-the-post-2030-energy-framework/",
+    "source": "CleanTechnica",
+    "date": "2026-10-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Singapore sets 4 GWp solar target for 2035",
     "summary": "Singapore is pooling government solar demand and testing installations on facades, heritage roofs and temporary worksites to reach a higher long-term solar target. The post Singapore sets 4 GWp solar target for 2035...",
     "link": "https://www.pv-magazine.com/2026/10/27/singapore-sets-4-gwp-solar-target-for-2035/",
@@ -118,6 +239,28 @@
     "edition": "global",
     "region": null,
     "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Homes across UK to get low- or no-interest loans to fund solar panels and heat pumps",
+    "summary": "Government-backed Warm Home Loans scheme to help households cut energy bills by hundreds of pounds Households across the UK can now cut their energy bills by hundreds of pounds a year at no upfront cost by applying for...",
+    "link": "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps",
+    "source": "The Guardian",
+    "date": "2026-10-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "B.C. swings Conservative in election. What does that mean for EVs?",
+    "summary": "Premier-elect Lorne Doerkson has pledged to scrap the ZEV sales quotas along with other clean energy rollbacks, putting a decade of EV leadership in question The post B.C. swings Conservative in election. What does that...",
+    "link": "https://electricautonomy.ca/policy-regulations/2026-10-27/b-c-conservative-what-mean-for-evs/",
+    "source": "Electric Autonomy Canada",
+    "date": "2026-10-27",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
     "major": false
   },
   {
