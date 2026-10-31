@@ -1,5 +1,49 @@
 [
   {
+    "title": "Indian PV at a turning point",
+    "summary": "As module manufacturing capacity outpaces domestic demand, India’s solar industry is entering a new phase, where vertical integration, disciplined investment, higher utilization and access to new markets will be...",
+    "link": "https://www.pv-magazine.com/2026/10/31/indian-pv-at-a-turning-point/",
+    "source": "pv magazine",
+    "date": "2026-10-31",
+    "edition": "global",
+    "region": 356,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "The Share of Solar Generation with Co-located Battery Storage Is Increasing",
+    "summary": "Utility-scale solar developers are increasingly co-locating battery storage with new solar photovoltaic capacity. As of September 2026, over 16% of new utility-scale solar capacity added this year is co-located with...",
+    "link": "https://cleantechnica.com/2026/10/30/the-share-of-solar-generation-with-co-located-battery-storage-is-increasing/",
+    "source": "CleanTechnica",
+    "date": "2026-10-31",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "HomePower 1000 Plus v2: Portable Power Put To Use",
+    "summary": "I have been using the Jackery HomePower 1000 Plus v2 in a wide range of applications over the past few months around my apartment in Queens, NY. The flexibility and portability make it especially useful for people...",
+    "link": "https://cleantechnica.com/2026/10/30/homepower-1000-plus-v2-portable-power-put-to-use/",
+    "source": "CleanTechnica",
+    "date": "2026-10-31",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Healey to veto new offshore wind projects if they will not lower bills",
+    "summary": "UK chancellor’s plans add to concerns government is moving away from pro-renewables agenda John Healey has said he will veto new offshore wind projects if they will not lower bills, adding to concerns that the...",
+    "link": "https://www.theguardian.com/environment/2026/oct/31/john-healey-chancellor-offshore-wind-projects-veto",
+    "source": "The Guardian",
+    "date": "2026-10-31",
+    "edition": "global",
+    "region": null,
+    "category": "Wind",
+    "major": false
+  },
+  {
     "title": "First Solar cuts sales forecast as tariff uncertainty slows orders",
     "summary": "First Solar reported third-quarter net sales of $1.23 billion and net income of $571 million, as the US thin-film manufacturer navigated customer uncertainty over Section 232 tariffs. The post First Solar cuts sales...",
     "link": "https://www.pv-magazine.com/2026/10/30/first-solar-cuts-sales-forecast-as-tariff-uncertainty-slows-orders/",
@@ -129,6 +173,17 @@
     "edition": "global",
     "region": 826,
     "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Forecasting growth",
+    "summary": "India’s expanding utility-scale solar fleet is creating a growing need for accurate generation forecasts. Yet the country does not have one uniform specification for every project. The requirements depend on the...",
+    "link": "https://www.pv-magazine.com/2026/10/30/forecasting-growth/",
+    "source": "pv magazine",
+    "date": "2026-10-30",
+    "edition": "global",
+    "region": 356,
+    "category": "Solar",
     "major": false
   },
   {
@@ -2757,7 +2812,7 @@
     "date": "2026-10-08",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
