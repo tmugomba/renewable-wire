@@ -1,5 +1,126 @@
 [
   {
+    "title": "Equator Renewables Asia unveils 250 kW containerized PV system",
+    "summary": "Singapore-based Equator Renewables Asia has developed a modular, relocatable PV system featuring up to 250 kW of solar capacity in a 40-foot shipping container. The plug-and-play solution uses n-type TOPCon bifacial...",
+    "link": "https://www.pv-magazine.com/2026/11/02/equator-renewables-asia-unveils-250-kw-containerized-pv-system/",
+    "source": "pv magazine",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Envision claims world first with 800 V DC architecture for AI data center",
+    "summary": "Integrated system combining solid-state transformer and battery storage deployed at AI data center in China. The 800 V DC architecture allows for more computing power within the same physical footprint. The post...",
+    "link": "https://www.pv-magazine.com/2026/11/02/envision-claims-world-first-with-800-v-dc-architecture-for-ai-data-center/",
+    "source": "pv magazine",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Solar sector corporate funding increases 45% through three quarters of 2026",
+    "summary": "Total corporate funding into the solar sector, including venture capital, public market financing, and debt financing, reached $25.1 billion through three quarters of 2026, according to a report from Mercom Capital...",
+    "link": "https://www.pv-magazine.com/2026/11/02/solar-sector-corporate-funding-increases-45-through-three-quarters-of-2026/",
+    "source": "pv magazine",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Armenia introduces interest rate subsidies for storage systems",
+    "summary": "New government provisions offer businesses interest rate subsidies of 6 to 10 percentage points on loans and leases for battery storage equipment. The post Armenia introduces interest rate subsidies for storage systems...",
+    "link": "https://www.pv-magazine.com/2026/11/02/armenia-introduces-interest-rate-subsidies-for-storage-systems/",
+    "source": "pv magazine",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "The impact of dust and shading on pole-mounted PV",
+    "summary": "A year-long comparison of five PV configurations highlights how maintenance access, shading, and structural limits influence off-grid system selection. The researchers combined field measurements with analytical models...",
+    "link": "https://www.pv-magazine.com/2026/11/02/the-impact-of-dust-and-shading-on-pole-mounted-pv/",
+    "source": "pv magazine",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Japan proposes 50-metric-ton trigger for solar panel recycling plans",
+    "summary": "A Japanese government study group is weighing rules that would bring almost all conventional solar panels under a new recycling law, while leaving perovskite and flexible modules out for now. The post Japan proposes...",
+    "link": "https://www.pv-magazine.com/2026/11/02/japan-proposes-50-metric-ton-trigger-for-solar-panel-recycling-plans/",
+    "source": "pv magazine",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": 392,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Belgian spin-off Noak raises €5 million for perovskite-silicon solar cells",
+    "summary": "Noak will use the seed funding to industrialise its perovskite-silicon tandem technology, which combines a proprietary layer stack with a 3D woven back-contact foil. The post Belgian spin-off Noak raises €5 million for...",
+    "link": "https://www.pv-magazine.com/2026/11/02/belgian-spin-off-noak-raises-e5-million-for-perovskite-silicon-solar-cells/",
+    "source": "pv magazine",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Zwitterions could be much more than defect passivators in perovskite solar cells",
+    "summary": "Chinese researchers have reviewed the potential of zwitterions to improve the efficiency and stability of perovskite solar cells through defect passivation, crystallization control, and interface engineering. They found...",
+    "link": "https://www.pv-magazine.com/2026/11/02/zwitterions-could-be-much-more-than-defect-passivators-in-perovskite-solar-cells/",
+    "source": "pv magazine",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": 156,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Pakistan seeks consultant for distributed solar project",
+    "summary": "A tender is open in Pakistan searching for a consultant to verify all non-solar works that form part of a 100 MW distributed PV project in the region of Gilgit-Baltistan. The deadline for expressions of interest is...",
+    "link": "https://www.pv-magazine.com/2026/11/02/pakistan-seeks-consultant-for-distributed-solar-project/",
+    "source": "pv magazine",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Retractable photovoltaics for wastewater treatment",
+    "summary": "Germany’s largest retractable solar roof, with a capacity of 2.745 MW, is under construction at a wastewater treatment plant in Stuttgart. Scheduled for completion in 2027, the system will generate more than 2.2 GWh...",
+    "link": "https://www.pv-magazine.com/2026/11/02/retractable-photovoltaics-for-wastewater-treatment/",
+    "source": "pv magazine",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Jackery Launches Explorer 100D Portable Power Station. Maximum Capability For Carryon Compatibility",
+    "summary": "Jackery just launched the Explorer 100D portable power station. This is Jackery’s smallest battery, giving a new level of versatility to power many of the devices people rely on most. Meanwhile, it integrates the...",
+    "link": "https://cleantechnica.com/2026/11/02/jackery-launches-explorer-100d-portable-power-station/",
+    "source": "CleanTechnica",
+    "date": "2026-11-02",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
     "title": "Cranberry Bogs Were Unprofitable, Then Solar Saved The Day",
     "summary": "One of the things many people still don t realize is how much solar power and wind power help farmers to be more profitable or to become profitable. Agriculture has never been the easiest industry, but it has been...",
     "link": "https://cleantechnica.com/2026/11/01/cranberry-bogs-were-unprofitable-then-solar-saved-the-day/",
