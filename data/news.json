@@ -1,5 +1,181 @@
 [
   {
+    "title": "‘Every solar plant can be a data center’",
+    "summary": "Rune Energy’s business model is based on a simple premise: data centers need vast amounts of clean, deployable power and there are thousands of solar plants available as an underused resource. By retrofitting solar...",
+    "link": "https://www.pv-magazine.com/2026/11/04/every-solar-plant-can-be-a-data-center/",
+    "source": "pv magazine",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Shoals and Array announce merger plan in bid to create ‘one-stop shop’",
+    "summary": "Merger between electronic balance of system (EBOS) and tracker company brings a raft of products for solar and battery storage installations into a single business. Shoals shareholders are expected to own roughly 65% of...",
+    "link": "https://www.pv-magazine.com/2026/11/04/shoals-and-array-announce-merger-plan-in-bid-to-create-one-stop-shop/",
+    "source": "pv magazine",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Türkiye awards 785 MW of solar in latest YEKA tender",
+    "summary": "Türkiye has allocated 785 MW of solar power capacity across 11 projects under the YEKA GES-2026 tender. Winning developers will benefit from a 60-month free-market electricity sales period, followed by a 20-year fixed...",
+    "link": "https://www.pv-magazine.com/2026/11/04/turkiye-awards-785-mw-of-solar-in-latest-yeka-tender/",
+    "source": "pv magazine",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Danish TSO proposes limited grid access scheme",
+    "summary": "Energinet has submitted two proposals for consultation that could see electricity producers, such as solar power plants, offered quicker grid connections in exchange for accepting restrictions on production. The post...",
+    "link": "https://www.pv-magazine.com/2026/11/04/danish-tso-proposes-limited-grid-access-scheme/",
+    "source": "pv magazine",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Malaysia’s data center industry gets 500 MW solar, 1 GWh battery storage boost",
+    "summary": "A 500 MW solar project paired with a 1 GWh battery storage system is planned in Malaysia to supply renewable electricity to DayOne’s data centers. The project, backed by IOI Corporation and Tenaga Nasional Berhad, will...",
+    "link": "https://www.pv-magazine.com/2026/11/04/malaysias-data-center-industry-gets-500-mw-solar-1-gwh-battery-storage-boost/",
+    "source": "pv magazine",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Dutch grid operator reports ongoing connection bottlenecks",
+    "summary": "Insufficient capacity on the high-voltage grid within parts of eastern Netherlands means some customers will be placed on a waiting list during the first six months of next year. The post Dutch grid operator reports...",
+    "link": "https://www.pv-magazine.com/2026/11/04/dutch-grid-operator-reports-ongoing-connection-bottlenecks/",
+    "source": "pv magazine",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": 528,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Vietnam approves 452 MW floating solar project",
+    "summary": "Vietnam’s Dak Lak province has approved a $355 million floating solar project on the Ea Sup Thuong reservoir. The facility is expected to be completed by late 2028. The post Vietnam approves 452 MW floating solar...",
+    "link": "https://www.pv-magazine.com/2026/11/04/vietnam-approves-452-mw-floating-solar-project/",
+    "source": "pv magazine",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Poweroad FLEX-261 series passes dual-standard large-scale fire testing",
+    "summary": "Testing was conducted in accordance with UL 9540A and CSA C800 and provides technical evidence to support fire safety assessments for multi-cabinet C I energy storage installations. POWEROAD has received a CSA Group...",
+    "link": "https://www.pv-magazine.com/2026/11/04/poweroad-flex-261-series-passes-dual-standard-large-scale-fire-testing/",
+    "source": "pv magazine",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Lithuania moves to revive renewables growth with sweeping reforms",
+    "summary": "Lithuania has approved legislative reforms to accelerate renewable energy development, allowing project extensions of up to 48 months, halving developer guarantees and easing permitting requirements. The measures also...",
+    "link": "https://www.pv-magazine.com/2026/11/04/lithuania-moves-to-revive-renewables-growth-with-sweeping-reforms/",
+    "source": "pv magazine",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Poland launches 2026 renewables auction",
+    "summary": "The auctions for solar PV and onshore wind projects will take place on November 9–10, divided into two capacity categories: installations up to 1 MW and those above 1 MW. The post Poland launches 2026 renewables auction...",
+    "link": "https://www.pv-magazine.com/2026/11/04/poland-launches-2026-renewables-auction/",
+    "source": "pv magazine",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "Blue Wave Not Climate Related, But Critical To Clean Energy & Electric Vehicles",
+    "summary": "Democrats absolutely crushed Republicans during the US midterm elections. I saw that it was the biggest electoral win since 1974. Texas is blue! Not just one position in Texas either — the governor is now a Democrat, a...",
+    "link": "https://cleantechnica.com/2026/11/04/blue-wave-not-climate-related-but-critical-to-clean-energy-electric-vehicles/",
+    "source": "CleanTechnica",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Sierra Club Response to Midterm Election Results",
+    "summary": "Democrats must seize on this opportunity to take ambitious action for the climate and our democracy. Washington, DC — While votes are still being counted, election officials have called enough races that it’s clear that...",
+    "link": "https://cleantechnica.com/2026/11/04/sierra-club-response-to-midterm-election-results/",
+    "source": "CleanTechnica",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Singapore Reveals Five-Year Energy Plan to Feed Data Center, Semicon Progress",
+    "summary": "SINGAPORE — Singapore has launched a sweeping five-year energy infrastructure plan designed to meet surging power needs driven by data centers, semiconductor fabrication and the electrification of transit. The...",
+    "link": "https://cleantechnica.com/2026/11/04/singapore-reveals-five-year-energy-plan-to-feed-data-center-semicon-progress/",
+    "source": "CleanTechnica",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "How Does Oahu Get to an Economically Resilient, 100% Clean Energy Future?",
+    "summary": "Oahu is a unique place. It s the home of one of the largest clean tech incubators in the world, Elemental Impact, for a reason. Exorbitantly high electricity rates combined with ample natural resources make it an...",
+    "link": "https://cleantechnica.com/2026/11/03/how-does-oahu-get-to-an-economically-resilient-100-clean-energy-future/",
+    "source": "CleanTechnica",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "Rogue UK energy bosses and brokers face crackdown on mis-selling",
+    "summary": "Exclusive: Ofgem to be given powers to issue fines and rein in bonuses for executives who ‘reward themselves while customers suffer’ Energy bosses in the UK will have their bonuses curtailed when suppliers and brokers...",
+    "link": "https://www.theguardian.com/business/2026/nov/04/rogue-energy-bosses-and-brokers-face-crackdown-on-mis-selling",
+    "source": "The Guardian",
+    "date": "2026-11-04",
+    "edition": "global",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Joint Readout of the First Canada-China Ministerial Dialogue on Energy",
+    "summary": "Joint Readout of the First Canada-China Ministerial Dialogue on Energy",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/joint-readout-of-the-first-canada-china-ministerial-dialogue-on-energy.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-04",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "Hanwha Q-Cells shifts focus to research and development in Europe",
     "summary": "Hanwha Q Cells has denied rumors of a market exit but confirmed plans to focus its European operations on research and development. The restructuring will lead to job cuts in sales and business development, while the...",
     "link": "https://www.pv-magazine.com/2026/11/03/hanwha-q-cells-shifts-focus-to-research-and-development-in-europe/",
@@ -129,6 +305,17 @@
     "edition": "canada",
     "region": null,
     "category": "Research",
+    "major": false
+  },
+  {
+    "title": "If The US Department Of Defense Gets Solar Power, Why Can’t We?",
+    "summary": "White Sands Missile Range celebrated the launch of an on-site, solar-enabled microgrid last year, and the facility has already begun planning for another microgrid with solar power. The post If The US Department Of...",
+    "link": "https://cleantechnica.com/2026/11/03/us-military-solar-power-microgrid-fortress-america/",
+    "source": "CleanTechnica",
+    "date": "2026-11-03",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
     "major": false
   },
   {
@@ -1745,7 +1932,7 @@
     "date": "2026-10-20",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
