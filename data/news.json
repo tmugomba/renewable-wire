@@ -1,8 +1,217 @@
 [
   {
+    "title": "A degree in Paris, a gigawatt at the border",
+    "summary": "How French winter temperature reshapes cross-border flows, day-ahead prices and solar revenue in the markets around it. The post A degree in Paris, a gigawatt at the border appeared first on pv magazine Global .",
+    "link": "https://www.pv-magazine.com/2026/11/09/a-degree-in-paris-a-gigawatt-at-the-border/",
+    "source": "pv magazine",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Key takeaways from RE-Source 2026 in Amsterdam",
+    "summary": "Europe’s corporate renewable energy buyers and sellers have shifted their focus from price to risk allocation as negative prices erode solar-only contracts and battery-backed hybrid deals move to the center of the...",
+    "link": "https://www.pv-magazine.com/2026/11/09/key-takeaways-from-re-source-2026-in-amsterdam/",
+    "source": "pv magazine",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": null,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "CGN connects first unit of world’s highest-altitude CSP plant in Tibet",
+    "summary": "Located at an altitude of 4,300 meters, the facility combines PV-powered molten salt heating, thermal energy storage and battery storage. The post CGN connects first unit of world s highest-altitude CSP plant in Tibet...",
+    "link": "https://www.pv-magazine.com/2026/11/09/cgn-connects-first-unit-of-worlds-highest-altitude-csp-plant-in-tibet/",
+    "source": "pv magazine",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Massive solar project at Texas coal plant secures $1.8 billion green loan",
+    "summary": "The 1.2 GW Big Rooter Power solar project owned and funded by Panamint Capital will connect with the 342 MW Twin Oaks coal plant, creating a hybrid power station. The post Massive solar project at Texas coal plant...",
+    "link": "https://www.pv-magazine.com/2026/11/09/texas-sized-solar-project-at-coal-plant-supported-by-1-8-billion-green-loan/",
+    "source": "pv magazine",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Dutch residential battery market surges ahead of net metering phaseout",
+    "summary": "With the abolition of net metering just weeks away, households are increasingly turning to battery storage to protect the value of their solar energy. New figures from Sunergy Research reveal explosive growth across all...",
+    "link": "https://www.pv-magazine.com/2026/11/09/dutch-residential-battery-market-surges-ahead-of-net-metering-phaseout/",
+    "source": "pv magazine",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": 528,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Ecoprogetti presents automated line for recycling end-of-life PV modules",
+    "summary": "The industrial line features a patented technology for the high-efficiency separation of glass from the solar panel, designed to maximise silicon recovery. The post Ecoprogetti presents automated line for recycling...",
+    "link": "https://www.pv-magazine.com/2026/11/09/ecoprogetti-presents-automated-line-for-recycling-end-of-life-pv-modules/",
+    "source": "pv magazine",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Panasonic releases new residential air-to-air heat pumps",
+    "summary": "The reversible air-to-air heat pumps use R32 refrigerant and offer rated heating capacities ranging from 2.5 kW to 10.6 kW. Commercial availability in Japan is scheduled for January 2027. The post Panasonic releases new...",
+    "link": "https://www.pv-magazine.com/2026/11/09/panasonic-presents-new-residential-air-to-air-heat-pumps/",
+    "source": "pv magazine",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": 392,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Solarwatt launches bifacial TOPCon solar module for BIPV applications",
+    "summary": "German solar manufacturer Solarwatt has added a new glass-glass module to its Construct series for building-integrated photovoltaics (BIPV). The module features bifacial TOPCon cells, delivers up to 227 W/m² and has...",
+    "link": "https://www.pv-magazine.com/2026/11/09/solarwatt-launches-bifacial-topcon-solar-modules-for-bipv-applications/",
+    "source": "pv magazine",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Salt-based thermal storage supports renewable steam in Spain",
+    "summary": "A renewable steam project at Bayer’s pharmaceutical plant in Spain combines salt-based thermal storage with a 15 MW renewable power purchase agreement (PPA) and 2.5 MW of on-site solar, in an effort to replace fossil...",
+    "link": "https://www.pv-magazine.com/2026/11/09/salt-based-thermal-storage-supports-renewable-steam-in-spain/",
+    "source": "pv magazine",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": 724,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Tongwei unveils 26.03%-efficient TOPCon solar cell with high sheet resistance",
+    "summary": "The solar cell was fabricated using a low-cost photoresist-based etching process to create a selective emitter with a sheet resistance of up to 1,600 Ω/sq in non-contacted regions, reducing recombination losses while...",
+    "link": "https://www.pv-magazine.com/2026/11/09/tongwei-unveils-26-0-3-efficient-topcon-solar-cell-with-high-sheet-resistance/",
+    "source": "pv magazine",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "BAAJA Remains Fundamentally Flawed Despite Manager’s Amendment",
+    "summary": "Senate Must Allow for an Open Amendment Process Washington, DC — In the continued rush to hold a vote during the lame duck session on the “Bipartisan American Affordability and Jobs Act of 2026”, the senators crafting...",
+    "link": "https://cleantechnica.com/2026/11/09/baaja-remains-fundamentally-flawed-despite-managers-amendment/",
+    "source": "CleanTechnica",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago — Analysis",
+    "summary": "Five years on from Glasgow, EVs have proved the single most effective way to curb oil use, says T E. Battery electric vehicles (BEVs) make up about 4.2% of the global car fleet but account for a quarter of all new cars...",
+    "link": "https://cleantechnica.com/2026/11/09/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-analysis/",
+    "source": "CleanTechnica",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Senate votes on bill to speed up projects from gas pipelines to clean energy",
+    "summary": "Environmentalists torn over procedural vote to boost infrastructure projects but weaken environmental laws It’s a bill that would make it easier to build big infrastructure projects in America – everything from fossil...",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+    "source": "The Guardian",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": 840,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "There’s more than a whiff of politics to the sudden call to slash Labor’s green energy subsidies",
+    "summary": "EVs and home batteries are in Treasury’s crosshairs despite a better economic case for scaling back nuclear-powered submarines and diesel fuel rebates for miners Get our breaking news email , free app or daily news...",
+    "link": "https://www.theguardian.com/business/2026/nov/10/labor-cuts-green-energy-subsidies-inflation",
+    "source": "The Guardian",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "UK households face rush to find green energy installer to beat April VAT hike",
+    "summary": "Ministers pushed to reverse ‘policy madness’ of scrapping exemption on 5% tax rise for heat pumps, solar panels and batteries Households planning to invest in green energy upgrades, including heat pumps and solar...",
+    "link": "https://www.theguardian.com/environment/2026/nov/09/uk-households-green-energy-installer-rush-april-vat-hike",
+    "source": "The Guardian",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Rare call for more electricity supplies as wind power drops across Europe",
+    "summary": "Neso issued ‘electricity margin notice’ for gas power plants in Britain to fire up and boost generation this morning amid energy shortfall The government body tasked with keeping the lights on issued a rare call for...",
+    "link": "https://www.theguardian.com/business/2026/nov/09/rare-call-more-electricity-supplies-windpower-drops-britain-energy-shortfall",
+    "source": "The Guardian",
+    "date": "2026-11-09",
+    "edition": "global",
+    "region": 826,
+    "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "Parliamentary Secretary Corey Hogan highlights Government of Canada’s Budget 2026: Masters of our Destiny measures to make life more affordable for Calgarians",
+    "summary": "Today, Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources and Member of Parliament for Calgary Confederation, visited Lina’s Italian Market in Calgary to highlight how Budget 2026...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-corey-hogan-highlights-government-of-canadas-budget-2026-masters-of-our-destiny-measures-to-make-life-more-affordable-for-c.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-09",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "PS Hogan to highlight support for the cultural sector",
+    "summary": "Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, will highlight Budget 2026 measures to support Canadian cultural sovereignty.",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/ps-hogan-to-highlight-support-for-the-cultural-sector.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-09",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "A New $1.5 Billion Wind Farm Will Play In Peoria",
     "summary": "The global energy developer Repsol is on track to construct a 500-megawatt wind farm in Peoria County, Illinois, regardless of last year's sharp U-turn in federal energy policy. The post A New $1.5 Billion Wind Farm...",
     "link": "https://cleantechnica.com/2026/11/07/wind-farms-us-energy-policy-lawsuits-trump/",
+    "source": "CleanTechnica",
+    "date": "2026-11-08",
+    "edition": "global",
+    "region": null,
+    "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "Bigger than Godzilla!",
+    "summary": "Fortescue s plans for the Pilbara include wind turbine blades that are bigger than Godzilla. While Fortescue’s boss hobnobs with King Charles III and chats about sustainability, under the Commonwealth Nature Initiative...",
+    "link": "https://cleantechnica.com/2026/11/08/bigger-than-godzilla/",
     "source": "CleanTechnica",
     "date": "2026-11-08",
     "edition": "global",
@@ -132,8 +341,8 @@
     "major": false
   },
   {
-    "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
-    "summary": "DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energy A datacentre company that said it would power a massive AI development near Glasgow with renewable energy has admitted...",
+    "title": "Lanarkshire AI datacentre to fully rely on national grid despite renewables claim",
+    "summary": "DataVita has revised plan for Chapelhall development’s 1GW power requirement to be wholly drawn from renewable energy A datacentre company that said it would power a massive AI development near Glasgow with renewable...",
     "link": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
     "source": "The Guardian",
     "date": "2026-11-07",
@@ -1393,7 +1602,7 @@
     "date": "2026-10-29",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -1514,7 +1723,7 @@
     "date": "2026-10-28",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
