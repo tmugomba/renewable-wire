@@ -1,5 +1,170 @@
 [
   {
+    "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+    "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jails The Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for...",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+    "source": "The Guardian",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Huaneng commissions dual-flywheel frequency regulation system, claims China single-unit power record",
+    "summary": "China’s Huaneng Group connected a 5.5 MW dual-flywheel energy storage system to the grid at its Lanzhou coal-fired power plant, enhancing frequency regulation capabilities. The system reportedly delivers...",
+    "link": "https://www.pv-magazine.com/2026/11/10/huaneng-commissions-dual-flywheel-frequency-regulation-system-claims-china-single-unit-power-record/",
+    "source": "pv magazine",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Dual-oxide diffusion barrier boosts efficiency of mass-produced TOPCon solar cells by 0.07 percentage points",
+    "summary": "Chinese researchers have developed a dual silicon oxide diffusion barrier strategy that improves phosphorus distribution and reduces contact resistance and optical losses in TOPCon solar cells. The industry-compatible...",
+    "link": "https://www.pv-magazine.com/2026/11/10/dual-oxide-diffusion-barrier-boosts-efficiency-of-mass-produced-topcon-solar-cells-by-0-07-percentage-points/",
+    "source": "pv magazine",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Romania’s renewable project pipeline surpasses 114 GW",
+    "summary": "Figures released by Romania's energy regulator show 262 projects totaling 16.2 GW of approved export capacity had obtained connection contracts, building permits and establishment authorisations as of October 1. The...",
+    "link": "https://www.pv-magazine.com/2026/11/10/romanias-renewable-project-pipeline-surpasses-114-gw/",
+    "source": "pv magazine",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Japan to assess renewable, storage technologies beyond PV and wind",
+    "summary": "Japan’s state energy research agency says it is seeking renewable and energy storage options outside established areas such as solar that could suit regional conditions. The post Japan to assess renewable, storage...",
+    "link": "https://www.pv-magazine.com/2026/11/10/japan-to-assess-renewable-storage-technologies-beyond-pv-and-wind/",
+    "source": "pv magazine",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": 392,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Swelect HHV secures ingot growers for 1 GW factory in India",
+    "summary": "Raana Semiconductors will supply CZ12 silicon ingot growers to Swelect HHV Solar Photovoltaics for its 1 GW ingot and wafer manufacturing facility in India. The agreement also covers process optimization, recipe...",
+    "link": "https://www.pv-magazine.com/2026/11/10/raana-semiconductors-to-supply-cz12-ingot-growers-to-swelect-hhv-solar/",
+    "source": "pv magazine",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": 356,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Italian startup plans offshore gravity storage projects",
+    "summary": "Italian company Sizable Energy is developing a long-duration offshore energy storage system that uses deep-sea brine reservoirs to store electricity, with its first commercial projects planned for Calabria and Sicily...",
+    "link": "https://www.pv-magazine.com/2026/11/10/italian-startup-plans-offshore-gravity-storage-projects/",
+    "source": "pv magazine",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Croatia opens €30 million funding call for solar, storage in agriculture",
+    "summary": "A funding call aimed at solar and storage installations that support the agricultural sector is open in Croatia. It will remain open through Jan. 31, 2027, or until the available funding has been exhausted. The post...",
+    "link": "https://www.pv-magazine.com/2026/11/10/croatia-opens-e30-million-funding-call-for-solar-storage-in-agriculture/",
+    "source": "pv magazine",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Vietnam increases solar tariffs for 2026, maintains storage premiums",
+    "summary": "Vietnam has set 2026 electricity generation price ceilings for ground-mounted solar projects ranging from VND 1,104.32 ($0.04)/kWh in the south to VND 1,591.02/kWh in the north. For floating solar, the maximum prices...",
+    "link": "https://www.pv-magazine.com/2026/11/10/vietnam-increases-solar-tariffs-for-2026-maintains-storage-premiums/",
+    "source": "pv magazine",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Price wars emerge as biggest challenge for Philippines solar installers",
+    "summary": "The main concerns facing solar installers in the Philippines are shifting from the warehouse to point of sale, with sales most likely to fall through either because customers are choosing the cheapest quote or because...",
+    "link": "https://www.pv-magazine.com/2026/11/10/price-wars-emerge-as-biggest-challenge-for-philippines-solar-installers/",
+    "source": "pv magazine",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "DMEGC launches steel-framed solar module series",
+    "summary": "The new series of n-type bifacial solar modules features a steel frame with an S-shaped cross-section. The modules deliver 640 W to 665 W of power output and offer a bifaciality factor of up to 85%, with the new frame...",
+    "link": "https://www.pv-magazine.com/2026/11/10/dmegc-launches-steel-framed-solar-module-series/",
+    "source": "pv magazine",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "More than 300 Solar & Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs",
+    "summary": "WASHINGTON D.C. — More than 300 solar and storage companies are urging Congress to pass the Bipartisan American Affordability and Jobs Act (BAAJA), S. 5653, warning that outdated federal permitting processes and grid...",
+    "link": "https://cleantechnica.com/2026/11/09/more-than-300-solar-storage-companies-urge-congress-to-pass-bipartisan-permitting-reform-to-accelerate-clean-energy-deployment-lower-costs/",
+    "source": "CleanTechnica",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": 840,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Sierra Club Welcomes CalPERS’ $71 Billion Climate-Solutions Investment Milestone, Urges Fund to End Financing of Fossil Fuel Expansion",
+    "summary": "SACRAMENTO, CA — On Monday, the California Public Employees’ Retirement System (CalPERS) reported that the value of investments it classifies as climate solutions reached $71 billion as of June 30, 2026, up from $59.7...",
+    "link": "https://cleantechnica.com/2026/11/09/sierra-club-welcomes-calpers-71-billion-climate-solutions-investment-milestone-urges-fund-to-end-financing-of-fossil-fuel-expansion/",
+    "source": "CleanTechnica",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": true
+  },
+  {
+    "title": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+    "summary": "Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’ Cop31 live – latest updates China is leading the world in moving away from fossil fuels , and the rest of the...",
+    "link": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
+    "source": "The Guardian",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": 156,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
+    "summary": "However, authors of a comprehensive assessment to be presented at Cop31 warn talk of a global turnaround premature Cop31 live – latest updates Soaring oil and gas prices following the war in Iran have encouraged people...",
+    "link": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
+    "source": "The Guardian",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "A degree in Paris, a gigawatt at the border",
     "summary": "How French winter temperature reshapes cross-border flows, day-ahead prices and solar revenue in the markets around it. The post A degree in Paris, a gigawatt at the border appeared first on pv magazine Global .",
     "link": "https://www.pv-magazine.com/2026/11/09/a-degree-in-paris-a-gigawatt-at-the-border/",
@@ -129,17 +294,6 @@
     "edition": "global",
     "region": null,
     "category": "Storage",
-    "major": false
-  },
-  {
-    "title": "Senate votes on bill to speed up projects from gas pipelines to clean energy",
-    "summary": "Environmentalists torn over procedural vote to boost infrastructure projects but weaken environmental laws It’s a bill that would make it easier to build big infrastructure projects in America – everything from fossil...",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-    "source": "The Guardian",
-    "date": "2026-11-09",
-    "edition": "global",
-    "region": 840,
-    "category": "Research",
     "major": false
   },
   {
