@@ -1,5 +1,126 @@
 [
   {
+    "title": "Sustained demand",
+    "summary": "Since 2025, solar in the United States has faced a raft of policy changes affecting everything from procurement to final energy prices. Nonetheless, demand remains strong and the industry is finding ways to adapt, as...",
+    "link": "https://www.pv-magazine.com/2026/11/11/sustained-demand/",
+    "source": "pv magazine",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Austria’s solar and storage rebates exhausted in 29 seconds",
+    "summary": "Austria’s third and final funding round for solar and storage in 2026 attracted more than 41,000 applications, but only 7,007 received approval. Funding for the smallest PV systems was exhausted within 29 seconds of the...",
+    "link": "https://www.pv-magazine.com/2026/11/11/austrias-solar-and-storage-rebates-exhausted-in-29-seconds/",
+    "source": "pv magazine",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "German utility plans 30 MWh zinc-bromine BESS",
+    "summary": "Stadtwerke Gaggenau and Capac AG are planning a €15.2 million ($16.8 million) project featuring US manufacturer Eos’ stackable zinc-bromine battery technology, with construction due to begin in 2027 and commissioning...",
+    "link": "https://www.pv-magazine.com/2026/11/11/german-utility-plans-30-mwh-zinc-bromine-bess/",
+    "source": "pv magazine",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": 276,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Saudi Arabia launches 1.9 GW PV tender",
+    "summary": "Saudi authorities have announced a request for qualification for 1.8 GW of solar capacity across two projects in the eigth round of Saudi Arabia’s renewable energy procurement program. The post Saudi Arabia launches 1.9...",
+    "link": "https://www.pv-magazine.com/2026/11/11/saudi-arabia-launches-1-9-gw-pv-tender/",
+    "source": "pv magazine",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Advansor installs 1.2 MW of CO₂ heat pumps at Swedish retailer",
+    "summary": "Danish manufacturer Advansor said two of its plug-and-play ValueBox heat pumps, each with a heating capacity of 600 kW, will provide heating for an entire retail building. The outdoor units feature factory-assembled...",
+    "link": "https://www.pv-magazine.com/2026/11/11/advansor-installs-1-2-mw-of-co%e2%82%82-heat-pumps-at-swedish-retailer/",
+    "source": "pv magazine",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "CASC completes maiden flight of solar-powered UAV in China",
+    "summary": "China Aerospace Science and Technology Corp. (CASC) has completed the maiden flight of its Light Cavalry solar-powered unmanned aerial vehicle (UAV). The aircraft has an 8-meter wingspan and is designed to fly...",
+    "link": "https://www.pv-magazine.com/2026/11/11/casc-completes-maiden-flight-of-solar-powered-uav-in-china/",
+    "source": "pv magazine",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "The PPA market has a flexibility problem, hybrid PPAs are part of the answer",
+    "summary": "With hybrid PPAs such as solar-plus-BESS models commanding premiums, the case is obvious. But risk remains part of a complex problem for further growth in the market, writes Paolo Grossi. The post The PPA market has a...",
+    "link": "https://www.pv-magazine.com/2026/11/11/the-ppa-market-has-a-flexibility-problem-hybrid-ppas-are-part-of-the-answer/",
+    "source": "pv magazine",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Agrivoltaics can increase profitability of indoor farming agrotunnels",
+    "summary": "Researchers at Canada's Western University have found that PV-powered indoor farming agrotunnels could achieve returns on investment of up to 499%, with payback periods of less than three years. Their analysis covered...",
+    "link": "https://www.pv-magazine.com/2026/11/11/agrivoltaics-can-increase-profitability-of-indoor-farming-agrotunnels/",
+    "source": "pv magazine",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Paris leads EU capitals for rooftop solar generation potential",
+    "summary": "Research from Greece on rooftop PV potential across the EU's 27 capital cities identifies Paris, Budapest and Warsaw as having the highest annual generation potential, while highlighting cloud cover as the largest...",
+    "link": "https://www.pv-magazine.com/2026/11/11/paris-leads-eu-capitals-for-rooftop-solar-generation-potential/",
+    "source": "pv magazine",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Singulus signs SpaceX deal for heterojunction solar cell line",
+    "summary": "SpaceX is lining up heterojunction (HJT) solar cell manufacturing equipment from a German supplier to make cells for its satellites in Texas. The post Singulus signs SpaceX deal for heterojunction solar cell line...",
+    "link": "https://www.pv-magazine.com/2026/11/11/singulus-signs-spacex-deal-for-heterojunction-solar-cell-line/",
+    "source": "pv magazine",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
+    "summary": "Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfield UK politics live – latest updates Andy Burnham has hailed a record investment in offshore wind, as the...",
+    "link": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
+    "source": "The Guardian",
+    "date": "2026-11-11",
+    "edition": "global",
+    "region": null,
+    "category": "Wind",
+    "major": true
+  },
+  {
     "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
     "summary": "Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jails The Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for...",
     "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
@@ -139,7 +260,7 @@
     "date": "2026-11-10",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": true
   },
   {
@@ -160,6 +281,39 @@
     "source": "The Guardian",
     "date": "2026-11-10",
     "edition": "global",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Minister Hodgson to give keynote speech and participate in fireside chat with Southeast Alberta Chamber of Commerce",
+    "summary": "The Minister of Energy and Natural Resources, the Honourable Tim Hodgson, will deliver a keynote speech and participate in a fireside chat hosted by the Southeast Alberta Chamber of Commerce to discuss Budget 2026...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-give-keynote-speech-and-participate-in-fireside-chat-with-southeast-alberta-chamber-of-commerce.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-10",
+    "edition": "canada",
+    "region": "AB",
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Parliamentary Secretary Hogan highlights Government of Canada’s investments from Budget 2026: Masters of our destiny to support Canadian culture, strengthen creative industries and improve access to arts and heritage across the country",
+    "summary": "Today, Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources and Member of Parliament for Calgary Confederation, visited the Louise Riley Public Library in northwest Calgary to highlight...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hogan-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny-to-support-canadian-culture-stre.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-10",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Minister Hodgson to highlight federal budget investments to make life more affordable for Canadians",
+    "summary": "The Minister of Energy and Natural Resources, the Honourable Tim Hodgson, will highlight federal budget investments to make life more affordable for Canadians.",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-highlight-federal-budget-investments-to-make-life-more-affordable-for-canadians.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-10",
+    "edition": "canada",
     "region": null,
     "category": "Research",
     "major": false
@@ -282,7 +436,7 @@
     "date": "2026-11-09",
     "edition": "global",
     "region": 840,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -480,7 +634,7 @@
     "date": "2026-11-07",
     "edition": "global",
     "region": 840,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -623,7 +777,7 @@
     "date": "2026-11-06",
     "edition": "global",
     "region": 840,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -810,7 +964,7 @@
     "date": "2026-11-05",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -925,7 +1079,7 @@
   },
   {
     "title": "The Silent Gardener",
-    "summary": "When Sheldon Rideout started gardening for a living more than 35 years ago, the soundtrack was a wall of engine noise. Today, the company he founded doesn’t own a single gas-powered machine. The aptly-named Silent...",
+    "summary": "When Sheldon Ridout started gardening for a living more than 35 years ago, the soundtrack was a wall of engine noise. Today, the company he founded doesn’t own a single gas-powered machine. The aptly-named Silent...",
     "link": "https://electricautonomy.ca/clean-fleet-awards/winners-2026/2026-11-05/the-silent-gardener/",
     "source": "Electric Autonomy Canada",
     "date": "2026-11-05",
@@ -1085,7 +1239,7 @@
     "date": "2026-11-04",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -1096,7 +1250,7 @@
     "date": "2026-11-04",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -1107,7 +1261,7 @@
     "date": "2026-11-04",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
