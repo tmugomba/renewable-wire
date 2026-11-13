@@ -1,5 +1,170 @@
 [
   {
+    "title": "Shinsung E&G unveils 650 W bifacial TOPCon solar modules with 23.25% efficiency",
+    "summary": "South Korean solar manufacturer Shinsung E G has introduced new n-type TOPCon solar modules for ground-mounted, floating PV and agrivoltaic applications. The bifacial panels feature power outputs ranging from 640 W to...",
+    "link": "https://www.pv-magazine.com/2026/11/13/shinsung-eg-unveils-650-w-bifacial-topcon-solar-modules-with-23-25-efficiency/",
+    "source": "pv magazine",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany",
+    "summary": "The hydrogen will be transported through a roughly 25 km former natural gas pipeline converted to carry hydrogen, with deliveries to a TotalEnergies' refinery scheduled to begin in 2027. The post The Hydrogen Stream...",
+    "link": "https://www.pv-magazine.com/2026/11/13/the-hydrogen-stream-uniper-and-vng-produce-first-green-hydrogen-at-30-mw-facility-in-germany/",
+    "source": "pv magazine",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": 276,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Chinese PV Industry Brief: Energy China shortlists 23 module suppliers for 15 GW tender",
+    "summary": "In other news, JinkoSolar has secured certification under new Chinese PV standards and Trina Solar is expanding into AI data center energy solutions, Drinda has canceled its Oman factory project, while GCL SI has...",
+    "link": "https://www.pv-magazine.com/2026/11/13/chinese-pv-industry-brief-energy-china-shortlists-23-module-suppliers-for-15-gw-tender/",
+    "source": "pv magazine",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Malaysia extends residential solar rebates for approved applicants",
+    "summary": "Malaysia's residential solar rebate scheme has MYS 90 million ($22.1 million) remaining. Approved applicants will now be given until March 2027 to complete their PV installations and claim rebates. The post Malaysia...",
+    "link": "https://www.pv-magazine.com/2026/11/13/malaysia-extends-residential-solar-rebates-for-approved-applicants/",
+    "source": "pv magazine",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Dark clouds gather over Germany’s solar sector",
+    "summary": "Solar module prices are stagnating, while battery energy storage system prices are expected to rise for the first time. Germany’s solar market could face significant challenges if policymakers fail to push through...",
+    "link": "https://www.pv-magazine.com/2026/11/13/dark-clouds-gather-over-germanys-solar-sector/",
+    "source": "pv magazine",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": 276,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Sodium-ion batteries close gap with lithium-ion as utility-scale storage opportunities grow",
+    "summary": "Sodium-ion batteries are approaching lithium-ion performance in key areas, with commercial cells reaching energy densities of 175 Wh/kg and offering strong low-temperature performance. Silvia Bodoardo, professor at the...",
+    "link": "https://www.pv-magazine.com/2026/11/13/sodium-ion-batteries-close-gap-with-lithium-ion-as-utility-scale-storage-opportunities-grow/",
+    "source": "pv magazine",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Norway enters carbon credit agreement with Indonesia",
+    "summary": "The Norwegian government says the deal, covering 12 million tonnes of emission reductions, will help to accelerate the development of renewable energy sources in Indonesia. The post Norway enters carbon credit agreement...",
+    "link": "https://www.pv-magazine.com/2026/11/13/norway-enters-carbon-credit-agreement-with-indonesia/",
+    "source": "pv magazine",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Sodium-ion pouch cells target cold-climate industrial niche",
+    "summary": "Grepow has launched five sodium-ion pouch cells from 2 Ah to 7 Ah, aimed at industrial equipment and cold-climate applications that need high pulse power. The post Sodium-ion pouch cells target cold-climate industrial...",
+    "link": "https://www.pv-magazine.com/2026/11/13/sodium-ion-pouch-cells-target-cold-climate-industrial-niche/",
+    "source": "pv magazine",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "US firm claims 96,000-wafer-per-hour deposition line for tandem cells",
+    "summary": "NAED Energy Holding has said its new vertical deposition platform is rated at 96,000 wafers per hour and designed to make perovskite-silicon tandem cells targeting 30% efficiency. The post US firm claims...",
+    "link": "https://www.pv-magazine.com/2026/11/13/us-firm-claims-96000-wafer-per-hour-deposition-line-for-tandem-cells/",
+    "source": "pv magazine",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "China’s highways could generate 182 TWh of solar annually",
+    "summary": "Researchers at China’s Tongji University have developed a framework to assess highway PV potential based on solar irradiance, terrain and road networks. They estimate that China’s highways could generate enough solar...",
+    "link": "https://www.pv-magazine.com/2026/11/13/chinas-highways-could-generate-182-twh-of-solar-annually/",
+    "source": "pv magazine",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Managing Offshore Wind in the Face of Uncertainty",
+    "summary": "This report lays out key adaptive management principles and recommendations for regulators. Despite current headwinds from the Trump administration, offshore wind energy is essential for transitioning away from harmful...",
+    "link": "https://cleantechnica.com/2026/11/12/managing-offshore-wind-in-the-face-of-uncertainty/",
+    "source": "CleanTechnica",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": null,
+    "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It",
+    "summary": "Democrats Must Fight to Fix Draft Legislation Washington, DC — Following Monday’s vote to open debate on the legislation, a number of Senate Democrats called for an amendment process to fix the “Bipartisan American...",
+    "link": "https://cleantechnica.com/2026/11/12/senate-republicans-begin-the-process-of-jamming-baaja-while-trump-threatens-to-ignore-it/",
+    "source": "CleanTechnica",
+    "date": "2026-11-13",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Canada invests to diversify trade, create jobs and lower global emissions by expanding low-carbon LNG exports",
+    "summary": "Building on the objectives of Budget 2026, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced a $200-million investment in Woodfibre LNG.",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-diversify-trade-create-jobs-and-lower-global-emissions-by-expanding-low-carbon-lng-exports.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-13",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Parliamentary Secretary Hogan to speak at energy security forum conference",
+    "summary": "Corey Hogan, Parliamentary Secretary for Energy and Natural Resources, will deliver keynote remarks at the 2026 Energy Security Forum Conference, hosted by the Canadian Global Affairs Institute.",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hogan-to-speak-at-energy-security-forum-conference.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-13",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Watch: Power supply is the biggest hurdle for Canada’s electric freight corridors",
+    "summary": "Webinar panelists point to grid restraints, regulations and the ‘chicken-and-egg’ conundrum of installing MHDV chargers before having trucks on the road The post Watch: Power supply is the biggest hurdle for Canada’s...",
+    "link": "https://electricautonomy.ca/charging/commercial-fleet-charging/2026-11-13/watch-webinar-electric-freight-corridors/",
+    "source": "Electric Autonomy Canada",
+    "date": "2026-11-13",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "When the rules change faster than the project",
     "summary": "What happens when sudden regulatory changes throw your procurement plans into disarray? Levona Renewables CEO Fernando Queiroz traveled to China in August 2026 to qualify the main power transformer and 345 kV circuit...",
     "link": "https://www.pv-magazine.com/2026/11/12/when-the-rules-change-faster-than-the-project/",
@@ -150,6 +315,17 @@
     "date": "2026-11-12",
     "edition": "canada",
     "region": "AB",
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Minister Hodgson to make energy announcement",
+    "summary": "The Honourable Tim Hodgson, Minister of Energy and Natural Resources, will make a funding announcement for a liquefied natural gas project that will strengthen Canada’s energy sector and exports.",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-make-energy-announcement.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-12",
+    "edition": "canada",
+    "region": null,
     "category": "Research",
     "major": false
   },
