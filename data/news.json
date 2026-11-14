@@ -1,5 +1,104 @@
 [
   {
+    "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells",
+    "summary": "Researchers in China have investigated a previously overlooked degradation mechanism in copper-plated heterojunction solar cells caused by screen-printed photoresist. They found that progressive wear of the screen mesh...",
+    "link": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells/",
+    "source": "pv magazine",
+    "date": "2026-11-14",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Great Lakes irradiance surges as wet weather weighs on Southwest solar resource",
+    "summary": "In a new weekly update for pv magazine, Solcast , a DNV company, reports that North American solar irradiance was 0.8% above average in October 2026, with the Northeast and Great Lakes recording a 14% surplus and record...",
+    "link": "https://www.pv-magazine.com/2026/11/14/great-lakes-irradiance-surges-as-wet-weather-weighs-on-southwest-solar-resource/",
+    "source": "pv magazine",
+    "date": "2026-11-14",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "UNSW develops three-minute lithium-ion battery health test",
+    "summary": "Researchers at the University of New South Wales (UNSW) have developed a prototype that uses electrical pulses and statistical models to assess lithium-ion battery health in under three minutes per cell, with a...",
+    "link": "https://www.pv-magazine.com/2026/11/14/unsw-develops-three-minute-lithium-ion-battery-health-test/",
+    "source": "pv magazine",
+    "date": "2026-11-14",
+    "edition": "global",
+    "region": 826,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "‘The times I regret are the ones when I didn’t value myself enough to speak up’",
+    "summary": "This week Women in Solar+ Europe gives voice to Tracey Elliott, Director of UK-based Eden Sustainable Power. She says increasing female representation through role models, mentorship, and inclusive workplaces is...",
+    "link": "https://www.pv-magazine.com/2026/11/14/the-times-i-regret-are-the-ones-when-i-didnt-value-myself-enough-to-speak-up/",
+    "source": "pv magazine",
+    "date": "2026-11-14",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Masdar completes $950 million solar and battery storage project in California",
+    "summary": "The Abu Dhabi clean energy developer and its joint venture partner Terra-Gen have brought the Lockhart complex online, adding 365 MW of solar generation and 173.7 MW of energy storage to the California grid. The post...",
+    "link": "https://www.pv-magazine.com/2026/11/14/masdar-completes-950-million-solar-and-battery-storage-project-in-california/",
+    "source": "pv magazine",
+    "date": "2026-11-14",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Clarifying the CATL Tener Sodium, with new specifications and availability",
+    "summary": "New specs for CATL’s four-hour sodium-ion battery reveal how the company will market the product for cost benefits over LFP-based batteries. International deliveries are due to begin in summer 2027. The post Clarifying...",
+    "link": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
+    "source": "pv magazine",
+    "date": "2026-11-14",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Transparent bamboo boosts energy performance of solar PV skylights",
+    "summary": "Researchers tested 21 glazing configurations using transparent wood and PV modules with different transparency levels. Bamboo-based systems achieved the lowest heat gain and cooling operating costs. The post Transparent...",
+    "link": "https://www.pv-magazine.com/2026/11/14/transparent-bamboo-boosts-energy-performance-of-solar-pv-skylights/",
+    "source": "pv magazine",
+    "date": "2026-11-14",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Yanhe Technology launches three perovskite solar module technologies into orbit",
+    "summary": "Beijing-based Yanhe Technology has launched three perovskite-based photovoltaic modules into low Earth orbit to assess their performance under space conditions. The mission will test perovskite-silicon tandem...",
+    "link": "https://www.pv-magazine.com/2026/11/14/yanhe-technology-launches-three-perovskite-solar-module-technologies-into-orbit/",
+    "source": "pv magazine",
+    "date": "2026-11-14",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "When trackers don’t talk",
+    "summary": "Single-axis trackers rotate throughout the day, continuously reshaping the radio environment that keeps each row of modules communicating with the plant controller. Poor design of these wireless networks leaves...",
+    "link": "https://www.pv-magazine.com/2026/11/14/when-trackers-dont-talk/",
+    "source": "pv magazine",
+    "date": "2026-11-14",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Shinsung E&G unveils 650 W bifacial TOPCon solar modules with 23.25% efficiency",
     "summary": "South Korean solar manufacturer Shinsung E G has introduced new n-type TOPCon solar modules for ground-mounted, floating PV and agrivoltaic applications. The bifacial panels feature power outputs ranging from 640 W to...",
     "link": "https://www.pv-magazine.com/2026/11/13/shinsung-eg-unveils-650-w-bifacial-topcon-solar-modules-with-23-25-efficiency/",
@@ -158,6 +257,17 @@
     "summary": "Webinar panelists point to grid restraints, regulations and the ‘chicken-and-egg’ conundrum of installing MHDV chargers before having trucks on the road The post Watch: Power supply is the biggest hurdle for Canada’s...",
     "link": "https://electricautonomy.ca/charging/commercial-fleet-charging/2026-11-13/watch-webinar-electric-freight-corridors/",
     "source": "Electric Autonomy Canada",
+    "date": "2026-11-13",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Parliamentary Secretary Hanley to make a critical minerals announcement in Yukon",
+    "summary": "Brendan Hanley, Parliamentary Secretary to the Minister of Northern and Arctic Affairs, on behalf of the Honourable Tim Hodgson, Minister of Energy and Natural Resources, will make a critical minerals announcement at...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hanley-to-make-a-critical-minerals-announcement-in-yukon.html",
+    "source": "Natural Resources Canada",
     "date": "2026-11-13",
     "edition": "canada",
     "region": null,
