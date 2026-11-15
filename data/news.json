@@ -1,5 +1,49 @@
 [
   {
+    "title": "Accelerating Electrification Can Unlock the Full Benefits of Spain’s Renewables Leadership",
+    "summary": "A new IEA report finds renewables are already strengthening energy security and competitiveness while cutting fuel import costs—but faster electrification, grid modernization, and greater flexibility can extend these...",
+    "link": "https://cleantechnica.com/2026/11/15/accelerating-electrification-can-unlock-the-full-benefits-of-spains-renewables-leadership/",
+    "source": "CleanTechnica",
+    "date": "2026-11-15",
+    "edition": "global",
+    "region": 724,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "What The US Midterm Elections Mean For Climate Progress",
+    "summary": "People across the United States voted in record numbers in last week’s incredibly consequential election, which has completely changed the makeup of Congress for its new term beginning in January 2027. The success of...",
+    "link": "https://cleantechnica.com/2026/11/14/what-the-us-midterm-elections-mean-for-climate-progress/",
+    "source": "CleanTechnica",
+    "date": "2026-11-15",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Sonnen, SOLRITE, & ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets",
+    "summary": "SOLRITE Unveils Next-Gen Virtual Power Plant Node with sonnen and ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets ADAPT Energy’s control of VPP breakers will add dispatchable load...",
+    "link": "https://cleantechnica.com/2026/11/14/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home-loads-into-flexible-grid-assets/",
+    "source": "CleanTechnica",
+    "date": "2026-11-15",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "313 kW Rooftop Solar System at Virginia Elementary Will Save $581,000 in Energy Costs",
+    "summary": "Roanoke City Schools to Add 313 kW Solar Power System Staunton, VA — Secure Solar Futures, a provider of on-site clean energy to schools, local governments, and businesses, will build a 313-kilowatt solar power system...",
+    "link": "https://cleantechnica.com/2026/11/14/313-kw-solar-power-system-rooftop-system-at-virginia-elementary-will-save-581000-in-energy-costs/",
+    "source": "CleanTechnica",
+    "date": "2026-11-15",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells",
     "summary": "Researchers in China have investigated a previously overlooked degradation mechanism in copper-plated heterojunction solar cells caused by screen-printed photoresist. They found that progressive wear of the screen mesh...",
     "link": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells/",
@@ -1712,7 +1756,7 @@
     "date": "2026-11-04",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -1723,7 +1767,7 @@
     "date": "2026-11-04",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -1734,7 +1778,7 @@
     "date": "2026-11-04",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
