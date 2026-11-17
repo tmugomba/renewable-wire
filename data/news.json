@@ -1,5 +1,181 @@
 [
   {
+    "title": "The US solar manufacturing landscape in 2026",
+    "summary": "Having watched the global solar industry move from tens of megawatts annual demand to levels in excess of 500 GW by the early 2020s, the United States is finally making moves to create a silicon-based ecosystem to allow...",
+    "link": "https://www.pv-magazine.com/2026/11/17/the-us-solar-manufacturing-landscape-in-2026/",
+    "source": "pv magazine",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Poland awards 1.81 GW of solar in latest renewables auctions",
+    "summary": "Winning solar bids ranged from PLN 180 ($49)/MWh to PLN 377.77/MWh, depending on project size. The post Poland awards 1.81 GW of solar in latest renewables auctions appeared first on pv magazine Global .",
+    "link": "https://www.pv-magazine.com/2026/11/17/poland-awards-1-81-gw-of-solar-in-latest-renewables-auctions/",
+    "source": "pv magazine",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Italy surpasses 1 million renewable-linked battery storage systems",
+    "summary": "Italy had more than 1 million electrochemical storage systems integrated with renewable energy installations at the end of October, with combined capacity of 12.84 GWh and power output of 6.5 GW, according to grid...",
+    "link": "https://www.pv-magazine.com/2026/11/17/italy-surpasses-1-million-renewable-linked-battery-storage-systems/",
+    "source": "pv magazine",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Amazon to invest $7 billion in renewable energy in India by 2030",
+    "summary": "Amazon also announced four new utility-scale wind and solar projects with a combined total capacity of 934 MW in India. The projects have been secured through power purchase agreements (PPAs) and are part of Amazon’s...",
+    "link": "https://www.pv-magazine.com/2026/11/17/amazon-to-invest-7-billion-in-renewable-energy-in-india-by-2030/",
+    "source": "pv magazine",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": 356,
+    "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "German companies develop safety concept for inverter-free plug-in battery storage",
+    "summary": "The proposed system combines cell-level power electronics with real-time circuit monitoring to prevent household wiring from overheating. Each module will offer 2 kWh to 5 kWh of storage capacity, with integrated grid...",
+    "link": "https://www.pv-magazine.com/2026/11/17/german-companies-develop-safety-concept-for-inverter-free-plug-in-battery-storage/",
+    "source": "pv magazine",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": 276,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Sunkean unveils ETL-certified 2000 VDC TRUNK-T system at RE+",
+    "summary": "The manufacturer’s trunk system and factory-assembled PV wire harnesses are designed to simplify DC cable routing and reduce field wiring, offering configurable power collection options for different module arrangements...",
+    "link": "https://www.pv-magazine.com/2026/11/17/sunkean-unveils-ul-certified-2000-vdc-trunk-ttm-system-at-re/",
+    "source": "pv magazine",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Chilean PV plant hit by cyberattack remains disconnected",
+    "summary": "The 103 MW Huatacondo solar plant and its 98 MW/312 MWh battery storage system have been out of service for nearly three months. Chilean authorities are investigating the incident, while a lawmaker has requested details...",
+    "link": "https://www.pv-magazine.com/2026/11/17/chilean-pv-plant-hit-by-cyberattack-remains-disconnected/",
+    "source": "pv magazine",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Dutch researchers develop LEGO-like solar blocks combining luminescent concentrators and perovskite PV cells",
+    "summary": "The integration of perovskite PV cells will enable the colourful blocks to convert concentrated light into electricity, with expected efficiencies below 10%. Initial applications will target educational kits, with...",
+    "link": "https://www.pv-magazine.com/2026/11/17/dutch-researchers-develop-lego-like-solar-blocks-combining-luminescent-concentrators-and-perovskite-pv-cells/",
+    "source": "pv magazine",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": 528,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Satellite imagery reveals vegetation recovery at solar plant in semi-arid region of China",
+    "summary": "Satellite imagery of a 21 GW solar power complex in China's Qinghai province shows that vegetation recovered within two years of PV installation. The researchers found that vegetation density increased by an average of...",
+    "link": "https://www.pv-magazine.com/2026/11/17/satellite-imagery-reveals-vegetation-recovery-at-solar-plant-in-semi-arid-region-of-china/",
+    "source": "pv magazine",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Vietnamese provinces back floating PV projects",
+    "summary": "Vietnam’s uptake of floating solar projects continues with three provinces progressing utility-scale projects, including a groundbreaking ceremony for a 35 MW array. The post Vietnamese provinces back floating PV...",
+    "link": "https://www.pv-magazine.com/2026/11/17/vietnamese-provinces-back-floating-pv-projects/",
+    "source": "pv magazine",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Minister O’Brien Announces Completion of Over 300,000 Home Energy Upgrades with Government Support Since 2019",
+    "summary": "2 billion invested by government of Ireland to support SEAI retrofits in communities and households all over the country. Supports result in homes that are warmer, more comfortable, healthier and with lower energy...",
+    "link": "https://cleantechnica.com/2026/11/16/minister-obrien-announces-completion-of-over-300000-home-energy-upgrades-with-government-support-since-2019/",
+    "source": "CleanTechnica",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": true
+  },
+  {
+    "title": "The BLUETTI Apex 200 Expandable Portable Power Station — CleanTechnica Tested",
+    "summary": "BLUETTI continues to innovate, finding new ways to move its portable power station technology into meaningful new formats that provide owners with additional capability, portability, and utility. They recently reached...",
+    "link": "https://cleantechnica.com/2026/11/17/the-bluetti-apex-200-expandable-portable-power-station-cleantechnica-tested/",
+    "source": "CleanTechnica",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "BMW In South Carolina: A Free Trade Success Story",
+    "summary": "I recently attended BMW s “Beyond The Machine” event in South Carolina. The largest facility of the German company globally is Plant Spartanburg in Greer, South Carolina. As part of the event, I saw the opening of BMW s...",
+    "link": "https://cleantechnica.com/2026/11/17/bmw-in-south-carolina-a-free-trade-success-story/",
+    "source": "CleanTechnica",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "NAED Energy Holding Inc. Details the Rating of Its PV-1 Tandem Cell Line: 16,000 Wafers per Hour per Line, 4.6 GW from Six Lines",
+    "summary": "NAED Energy Holding Inc. (NAED) just published the rating of PV-1, its production line for T2X perovskite/silicon heterojunction tandem solar cells. Each PV-1 line is rated at 16,000 G12 half-cut wafers per hour: 400...",
+    "link": "https://cleantechnica.com/2026/11/16/naed-energy-holding-inc-details-the-rating-of-its-pv-1-tandem-cell-line-16000-wafers-per-hour-per-line-4-6-gw-from-six-lines/",
+    "source": "CleanTechnica",
+    "date": "2026-11-17",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Parliamentary Secretary Hogan to deliver remarks at Scaling Up Conference",
+    "summary": "Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, will deliver remarks and participate in a panel discussion at Scaling Up, Canada’s industrial bioeconomy business conference.",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hogan-to-deliver-remarks-at-scaling-up-conference.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-17",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Ottawa proposes raising luxury tax threshold on BEVs, FCEVs to $150,000",
+    "summary": "Finance minister says the change reflects higher upfront costs of zero-emission vehicles The post Ottawa proposes raising luxury tax threshold on BEVs, FCEVs to $150,000 appeared first on Electric Autonomy Canada .",
+    "link": "https://electricautonomy.ca/automakers/passenger-electric-vehicles/2026-11-17/ottawa-raising-luxury-tax-evs/",
+    "source": "Electric Autonomy Canada",
+    "date": "2026-11-17",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "Solar recycling 2.0",
     "summary": "Millions of solar panels will soon reach the end of their useful lives across the globe, not least in the United States where companies are in a race to deploy novel processes to capture and monetize as much material...",
     "link": "https://www.pv-magazine.com/2026/11/16/solar-recycling-2-0/",
@@ -150,6 +326,17 @@
     "date": "2026-11-16",
     "edition": "global",
     "region": 826,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Parliamentary Secretary Guay to speak at IRPP Fall Lecture",
+    "summary": "Claude Guay, Parliamentary Secretary to the Honourable Tim Hodgson, Minister of Energy and Natural Resources, will deliver remarks at the Institute for Research on Public Policy (IRPP) Fall Lecture: The race for the...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-guay-to-speak-at-irpp-fall-lecture.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-16",
+    "edition": "canada",
+    "region": null,
     "category": "Research",
     "major": false
   },
@@ -1448,7 +1635,7 @@
     "date": "2026-11-06",
     "edition": "global",
     "region": 840,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
