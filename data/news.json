@@ -1,5 +1,159 @@
 [
   {
+    "title": "States of uncertainty",
+    "summary": "Community solar in the United States has endured several big changes in the past year, not least the termination of the Solar for All program, the introduction of domestic content requirements, the removal of tax...",
+    "link": "https://www.pv-magazine.com/2026/11/18/states-of-uncertainty/",
+    "source": "pv magazine",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Perovskite solar manufacturing could generate $7.92 billion in domestic value addition over 15 years in India",
+    "summary": "A new study highlights the potential of perovskite technology to reduce India's dependence on imported solar manufacturing materials and equipment. It also points to higher energy yields, lower electricity generation...",
+    "link": "https://www.pv-magazine.com/2026/11/18/perovskite-solar-technology-could-unlock-inr-74000-crore-in-domestic-value-addition-for-india-over-15-years-isma-p3c-study/",
+    "source": "pv magazine",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": 356,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "European solar module prices face additional pressure from surplus stock, cancelled projects",
+    "summary": "In a chat with pv magazine , Bart Wansink, CEO of Netherlands-based Search4Solar, discussed how surplus modules from cancelled projects, high inventory levels and Chinese manufacturing reforms are shaping European solar...",
+    "link": "https://www.pv-magazine.com/2026/11/18/european-solar-module-prices-face-additional-pressure-from-surplus-stock-cancelled-projects/",
+    "source": "pv magazine",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Why AI data centers need storage beyond conventional backup power",
+    "summary": "As AI workloads introduce sharper power fluctuations, battery storage is moving closer to computing infrastructure. EVE Energy’s AIDC portfolio illustrates how grid-scale systems, high-rate backup cabinets, and...",
+    "link": "https://www.pv-magazine.com/2026/11/18/why-ai-data-centers-need-storage-beyond-conventional-backup-power/",
+    "source": "pv magazine",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
+    "summary": "New regulations aim to encourage battery storage integration at existing solar PV plants, improve grid flexibility, and create additional revenue opportunities for renewable energy developers. The post Taiwan introduces...",
+    "link": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+    "source": "pv magazine",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "ADB supports 1 GW solar, storage pipeline in Bangladesh",
+    "summary": "The Asian Development Bank is providing advisory services for five additional solar and battery storage projects, through a programme aiming to attract more than $1 billion in private investment. The post ADB supports 1...",
+    "link": "https://www.pv-magazine.com/2026/11/18/adb-supports-1-gw-solar-storage-pipeline-in-bangladesh/",
+    "source": "pv magazine",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "EU reaches provisional deal to accelerate renewable energy permitting",
+    "summary": "The Council of the European Union and the European Parliament have reached a provisional agreement on new rules designed to accelerate permitting and grid connections for renewable energy projects across the bloc. EU...",
+    "link": "https://www.pv-magazine.com/2026/11/18/eu-reaches-provisional-deal-to-accelerate-renewable-energy-permitting/",
+    "source": "pv magazine",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "France unveils bidding terms for 500 MW technology-neutral renewables tender",
+    "summary": "France’s energy regulator has outlined the terms for a 500 MW technology-neutral renewables tender covering solar, wind and hydropower. The proposed rules introduce an unweighted reference price, raising concerns over...",
+    "link": "https://www.pv-magazine.com/2026/11/18/france-unveils-bidding-terms-for-500-mw-technology-neutral-renewables-tender/",
+    "source": "pv magazine",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": null,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Hybrid monofacial-bifacial PV arrays boost power output under shading",
+    "summary": "Researchers tested a nine-module array combining six monofacial and three bifacial panels under 12 illumination patterns. The experiments assessed how module placement and electrical reconfiguration influence power...",
+    "link": "https://www.pv-magazine.com/2026/11/18/hybrid-monofacial-bifacial-pv-arrays-boost-power-output-under-shading/",
+    "source": "pv magazine",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Austrian company develops 1.2 kW Stirling-based heat and power system to complement solar PV in winter",
+    "summary": "Frauscher Motors has integrated a Stirling generator into a wood-pellet heating system to produce electricity during the heating season, when photovoltaic yields are typically lower. The generator can deliver up to 1.2...",
+    "link": "https://www.pv-magazine.com/2026/11/18/austrian-company-develops-1-2-kw-stirling-based-heat-and-power-system-to-complement-solar-pv-in-winter/",
+    "source": "pv magazine",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Solar Insure Launches 20-Year Commercial Battery Warranty, Expanding Protection for Solar & Storage Projects",
+    "summary": "Launching at RE+ Las Vegas, November 17–20 Visit Solar Insure at Booth C4190 Commercial property owners invest in solar and battery storage to manage energy costs and strengthen resilience. One question can shape that...",
+    "link": "https://cleantechnica.com/2026/11/18/solar-insure-launches-20-year-commercial-battery-warranty-expanding-protection-for-solar-storage-projects/",
+    "source": "CleanTechnica",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Third Pillar Constructing Largest Floating Solar Complex in New York",
+    "summary": "Crown City Solar will be North America s first floating community solar project. Phases 1 and 2 are under construction, and the three-phase, 22.5 MW DC complex is expected to be fully operational in 2027. CORTLANDVILLE...",
+    "link": "https://cleantechnica.com/2026/11/17/third-pillar-constructing-largest-floating-solar-complex-in-new-york/",
+    "source": "CleanTechnica",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": 840,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "REPORT: U.S. Exceeds 200 GWh of Energy Storage Capacity Installed to Date",
+    "summary": "Rapid Growth in Energy Storage Is Helping Stabilize Electricity Prices and Strengthen Grid Reliability; Industry Urges Congress to Pass Permitting Reform to Accelerate Deployment LAS VEGAS — The U.S. energy storage...",
+    "link": "https://cleantechnica.com/2026/11/17/report-u-s-exceeds-200-gwh-of-energy-storage-capacity-installed-to-date/",
+    "source": "CleanTechnica",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": 840,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "‘Huge experiment in biogeography’: US offshore windfarms are creating artificial reefs",
+    "summary": "Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing industry A few years ago, Tony DiLernia, a New York-based charter boat...",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
+    "source": "The Guardian",
+    "date": "2026-11-18",
+    "edition": "global",
+    "region": null,
+    "category": "Wind",
+    "major": false
+  },
+  {
     "title": "The US solar manufacturing landscape in 2026",
     "summary": "Having watched the global solar industry move from tens of megawatts annual demand to levels in excess of 500 GW by the early 2020s, the United States is finally making moves to create a silicon-based ecosystem to allow...",
     "link": "https://www.pv-magazine.com/2026/11/17/the-us-solar-manufacturing-landscape-in-2026/",
@@ -1118,7 +1272,7 @@
     "date": "2026-11-10",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": true
   },
   {
@@ -1174,6 +1328,17 @@
     "edition": "canada",
     "region": null,
     "category": "Research",
+    "major": false
+  },
+  {
+    "title": "The Man Who Turned Village Grandmothers into Solar Engineers: A Tribute to Bunker Roy",
+    "summary": "Sanjit “Bunker” Roy, who taught illiterate grandmothers to become solar engineers, passed away peacefully this morning at his home in Tilonia, Rajasthan, aged 81.[1] I first encountered his work not in India, but in the...",
+    "link": "https://cleantechnica.com/2026/11/10/a-tribute-to-bunker-roy-the-man-who-turned-village-grandmothers-into-solar-engineers/",
+    "source": "CleanTechnica",
+    "date": "2026-11-10",
+    "edition": "global",
+    "region": 356,
+    "category": "Solar",
     "major": false
   },
   {
@@ -1294,7 +1459,7 @@
     "date": "2026-11-09",
     "edition": "global",
     "region": 840,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -1492,7 +1657,7 @@
     "date": "2026-11-07",
     "edition": "global",
     "region": 840,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
