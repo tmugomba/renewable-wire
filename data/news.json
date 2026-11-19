@@ -1,5 +1,137 @@
 [
   {
+    "title": "SolarEdge debuts dual-module power optimizer",
+    "summary": "Duo cuts the number of optimizers needed in half, works with dual-tilt racking and with Arc Fault Detection, every optimizer becomes an arc sensor. The post SolarEdge debuts dual-module power optimizer appeared first on...",
+    "link": "https://www.pv-magazine.com/2026/11/19/solaredge-debuts-duo-power-optimizer-at-re/",
+    "source": "pv magazine",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module",
+    "summary": "The result was certified by the National PV Industry Measurement and Testing Center (NPVM) of China’s Fujian Metrology Institute. The post MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for...",
+    "link": "https://www.pv-magazine.com/2026/11/19/microquanta-achieves-world-record-efficiency-of-23-9-for-19-48-cm%c2%b2-perovskite-solar-module/",
+    "source": "pv magazine",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": 156,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Solyco unveils 485 W full-black residential solar module with stainless steel protection",
+    "summary": "The German manufacturer's new glass-glass solar panel features back-contact cells, a power conversion efficiency of 23.8% and a bifaciality factor of approximately 70%. It comes with a 30-year product warranty and an...",
+    "link": "https://www.pv-magazine.com/2026/11/19/solyco-unveils-485-w-full-black-residential-solar-module-with-stainless-steel-protection/",
+    "source": "pv magazine",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Jackery and Every Electric launch 4 MWh plug-in battery VPP for New York renters",
+    "summary": "Jackery has partnered with Brooklyn-based aggregator Every Electric to shift air conditioning load peaks without permitting limitations. The post Jackery and Every Electric launch 4 MWh plug-in battery VPP for New York...",
+    "link": "https://www.pv-magazine.com/2026/11/19/jackery-and-every-electric-launch-4-mwh-plug-in-battery-vpp-for-new-york-renters/",
+    "source": "pv magazine",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Tesla seeks Texas tax break for $3.1 billion polysilicon plant",
+    "summary": "Tesla says it will build a polysilicon plant in Texas only if the state cuts its property tax bill, as it seeks to produce solar’s most China-dominated material at home. The post Tesla seeks Texas tax break for $3.1...",
+    "link": "https://www.pv-magazine.com/2026/11/19/tesla-seeks-texas-tax-break-for-3-1-billion-polysilicon-plant/",
+    "source": "pv magazine",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "At COP31, Longi details its pathways to advance global green development",
+    "summary": "Floria Wang, Head of Global Branding at LONGi, delivered a keynote speech at a side event on implementation and highlighted the company’s practical achievements in advancing the global energy transition. The post At...",
+    "link": "https://www.pv-magazine.com/2026/11/19/at-cop31-longi-details-its-pathways-to-advance-global-green-development/",
+    "source": "pv magazine",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Bolivia launches EPC tender for 40 MWac solar project",
+    "summary": "Bolivia’s state-owned utility ENDE is seeking an EPC contractor for a project scheduled for completion in June 2028. The solar plant will be financed in part by a loan from German development bank KfW. The post Bolivia...",
+    "link": "https://www.pv-magazine.com/2026/11/19/bolivia-launches-epc-tender-for-40-mwac-solar-project/",
+    "source": "pv magazine",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "France’s first canal-top PV project goes online",
+    "summary": "The 299 kW installation is expected to generate 404 MWh annually. Société du Canal de Provence estimates that its canal network could accommodate more than 50 MW of solar capacity, with potential annual generation of 70...",
+    "link": "https://www.pv-magazine.com/2026/11/19/frances-first-canal-top-pv-project-goes-online/",
+    "source": "pv magazine",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "EU to launch €36 million funding call for advanced solar cell manufacturing",
+    "summary": "The initiative aims to strengthen Europe's solar manufacturing industry by supporting high-efficiency solar cells, advanced production equipment, automated manufacturing processes and industrial-scale pilot production...",
+    "link": "https://www.pv-magazine.com/2026/11/19/eu-to-launch-e36-million-funding-call-for-advanced-solar-cell-manufacturing/",
+    "source": "pv magazine",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Indonesia could reach 96.7 GW of solar by 2029 with policy reforms",
+    "summary": "IESR says Indonesia could achieve most of its 100 GW of solar by 2029 target through coordinated utility-scale procurement, rooftop PV deployment, diesel replacement and rural electrification, but warns regulatory and...",
+    "link": "https://www.pv-magazine.com/2026/11/19/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/",
+    "source": "pv magazine",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+    "summary": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China...",
+    "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+    "source": "The Guardian",
+    "date": "2026-11-19",
+    "edition": "global",
+    "region": 156,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Government of Canada invests to diversify markets and economic opportunities for Canada’s forest sector",
+    "summary": "On November 19, 2026, at the Scaling Up conference, Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, announced $2.2 million for Ecostrat’s Canada Forest Innovation and Renewable...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/government-of-canada-invests-to-diversify-markets-and-economic-opportunities-for-canadas-forest-sector.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-19",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "States of uncertainty",
     "summary": "Community solar in the United States has endured several big changes in the past year, not least the termination of the Solar for All program, the introduction of domestic content requirements, the removal of tax...",
     "link": "https://www.pv-magazine.com/2026/11/18/states-of-uncertainty/",
@@ -151,6 +283,28 @@
     "edition": "global",
     "region": null,
     "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "Backgrounder: Canada invests to drive clean energy, create jobs and spur innovation in the Atlantic",
+    "summary": "At the Marine Renewables Conference in Ottawa, Ontario, on November 18, 2026, the Honourable Sean Fraser, Minister of Justice and Attorney General of Canada and Minister responsible for the Atlantic Canada Opportunities...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/backgrounder-canada-invests-to-drive-clean-energy-create-jobs-and-spur-innovation-in-the-atlantic.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-18",
+    "edition": "canada",
+    "region": "ON",
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Canada invests to drive clean energy, create jobs and spur innovation in the Atlantic",
+    "summary": "Today, at the Marine Renewables Conference in Ottawa, the Honourable Sean Fraser, Minister of Justice and Attorney General of Canada and Minister responsible for the Atlantic Canada Opportunities Agency, announced...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-drive-clean-energy-create-jobs-and-spur-innovation-in-the-atlantic.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-18",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
     "major": false
   },
   {
