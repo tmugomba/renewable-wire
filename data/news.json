@@ -1,5 +1,115 @@
 [
   {
+    "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
+    "summary": "An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey. The post CATL, BYD, ACWA among co-initiators of storage...",
+    "link": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31/",
+    "source": "pv magazine",
+    "date": "2026-11-21",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Celebrating men, challenging stereotypes, building a stronger energy future together",
+    "summary": "On International Men's Day, and as Movember raises awareness of men's health and wellbeing, Women in Solar+ Europe (WiSEu) and Solar+ Leaders celebrate the men across the solar and wider energy transition industries who...",
+    "link": "https://www.pv-magazine.com/2026/11/21/celebrating-men-challenging-stereotypes-building-a-stronger-energy-future-together/",
+    "source": "pv magazine",
+    "date": "2026-11-21",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives",
+    "summary": "CEO Darren Tan says sodium-ion batteries can compete on safety, performance and price in key market segments. The post Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives appeared...",
+    "link": "https://www.pv-magazine.com/2026/11/21/unigrid-looks-to-fill-gaps-in-lithium-ion-storage-with-effective-sodium-ion-alternatives/",
+    "source": "pv magazine",
+    "date": "2026-11-21",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Spain approves new data center rules requiring 80% renewable electricity",
+    "summary": "The new framework introduces energy and water efficiency standards, renewable electricity procurement obligations, and grid flexibility requirements for data centers. A €17.14 billion transmission network plan will...",
+    "link": "https://www.pv-magazine.com/2026/11/21/spain-approves-new-data-center-rules-requiring-80-renewable-electricity/",
+    "source": "pv magazine",
+    "date": "2026-11-21",
+    "edition": "global",
+    "region": 724,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "The U.S. solar manufacturing landscape in 2026",
+    "summary": "Having watched the global solar industry move from tens of megawatts annual demand to levels in excess of 500 GW by the early 2020s, the United States is finally making moves to create a silicon-based ecosystem to allow...",
+    "link": "https://www.pv-magazine.com/2026/11/21/the-us-solar-manufacturing-landscape-in-2026-2/",
+    "source": "pv magazine",
+    "date": "2026-11-21",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Battery patents: Solid-state filings surpass lithium-ion to hit record high",
+    "summary": "Global solid-state battery patent filings hit a record 2,230 in 2024, up 16%, with South Korea overtaking Japan, driven by Samsung SDI’s rapid growth. Meanwhile, lithium-ion patent filings fell nearly 15% to 2,092...",
+    "link": "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high/",
+    "source": "pv magazine",
+    "date": "2026-11-21",
+    "edition": "global",
+    "region": 392,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Tariffs, taxes and a BESS price rise",
+    "summary": "Geopolitical tensions and trade policy changes in the United States, China and other markets are driving up battery prices and creating supply chain pressures, write Edward Rackley and Max Reid of CRU Group. The post...",
+    "link": "https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise/",
+    "source": "pv magazine",
+    "date": "2026-11-21",
+    "edition": "global",
+    "region": 840,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "energyRe Agreed to Sell 100% of a Portfolio of Utility-Scale Solar Projects in South Carolina to Enel Green Power North America, Totaling 317 MWdc",
+    "summary": "energyRe Will Continue as Construction Manager Through Commercial Operation; Sale Reflects Strength of the Company s South Carolina Development Platform; Transaction Expected to Close in First Quarter of 2027 energyRe...",
+    "link": "https://cleantechnica.com/2026/11/20/energyre-agreed-to-sell-100-of-a-portfolio-of-utility-scale-solar-projects-in-south-carolina-to-enel-green-power-north-america-totaling-317-mwdc/",
+    "source": "CleanTechnica",
+    "date": "2026-11-21",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "How Can Energy Improve Lives? Why Counting Connections Isn’t Enough",
+    "summary": "Global tracking of energy access should expand beyond connections to include affordability, reliability, adequacy, and development outcomes. Access to energy is a cornerstone of development—it can improve health...",
+    "link": "https://cleantechnica.com/2026/11/20/how-can-energy-improve-lives-why-counting-connections-isnt-enough/",
+    "source": "CleanTechnica",
+    "date": "2026-11-21",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "China commits to low-carbon electrification and help for others to improve",
+    "summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035 Cop31 live – latest updates China is pushing for rapid electrification of its economy using low-carbon...",
+    "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+    "source": "The Guardian",
+    "date": "2026-11-21",
+    "edition": "global",
+    "region": 156,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "China grid-connects world’s first artificial-cavern CAES plant",
     "summary": "The 300 MW/1.8 GWh project uses excavated hard-rock chambers, expanding compressed-air storage options beyond natural salt caverns. The post China grid-connects world’s first artificial-cavern CAES plant appeared first...",
     "link": "https://www.pv-magazine.com/2026/11/20/china-grid-connects-worlds-first-artificial-cavern-caes-plant/",
@@ -1261,7 +1371,7 @@
     "date": "2026-11-12",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
