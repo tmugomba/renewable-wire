@@ -1,5 +1,181 @@
 [
   {
+    "title": "Honduras starts paying solar prosumers for excess power",
+    "summary": "Honduras has begun compensating solar self-consumption customers for surplus electricity exported to the distribution grid, with the Zamorano University campus becoming the first eligible user under tariffs of...",
+    "link": "https://www.pv-magazine.com/2026/11/23/honduras-starts-paying-solar-prosumers-for-excess-power/",
+    "source": "pv magazine",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Lebanon looks to ramp up solar, storage deployments",
+    "summary": "Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage. The post Lebanon looks to...",
+    "link": "https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments/",
+    "source": "pv magazine",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Wind-driven spray system cools, cleans solar panels",
+    "summary": "Researchers have developed a water spray system that cools and cleans PV modules using a wind turbine coupled directly to a mechanical pump. In rooftop tests, the system lowered cell temperature by up to 26.7 C and...",
+    "link": "https://www.pv-magazine.com/2026/11/23/wind-driven-spray-system-cools-cleans-solar-panels/",
+    "source": "pv magazine",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Wind",
+    "major": false
+  },
+  {
+    "title": "Europe turns negative electricity prices into a flexibility signal",
+    "summary": "Negative wholesale power prices are a useful investment signal for batteries and demand response in Europe only where subsidy design and grid bottlenecks are not distorting them, says a new Eurelectric report. The post...",
+    "link": "https://www.pv-magazine.com/2026/11/23/europe-turns-negative-electricity-prices-into-a-flexibility-signal/",
+    "source": "pv magazine",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Jordan plans 200 MW solar, 100 MW/400 MWh storage projects",
+    "summary": "Investor prequalification for the solar project is expected to open in February 2027, followed by prequalification for the battery storage project a month later. The post Jordan plans 200 MW solar, 100 MW/400 MWh...",
+    "link": "https://www.pv-magazine.com/2026/11/23/jordan-plans-200-mw-solar-100-mw-400-mwh-storage-projects/",
+    "source": "pv magazine",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Hydrogen shifts summer solar to winter in Japanese apartment building",
+    "summary": "Japanese contractor Takenaka has run a hydrogen system that stores surplus summer solar power for winter use in an apartment block in central Japan for a full year and says it worked as planned, though it has published...",
+    "link": "https://www.pv-magazine.com/2026/11/23/hydrogen-shifts-summer-solar-to-winter-in-japanese-apartment-building/",
+    "source": "pv magazine",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": 392,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Saudi Arabia expands self-consumption rules to 50 MW",
+    "summary": "Saudi Arabia’s updated framework sets out new connection requirements, fees and net billing rules for renewable energy systems installed for self-consumption. The post Saudi Arabia expands self-consumption rules to 50...",
+    "link": "https://www.pv-magazine.com/2026/11/23/saudi-arabia-expands-self-consumption-rules-to-50-mw/",
+    "source": "pv magazine",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "US Senate passes permitting bill letting solar developers sue agencies",
+    "summary": "The US Senate has approved a federal permitting overhaul that would shorten court challenges to energy projects and let developers of solar, wind, and other energy projects seek damages from agencies over a pattern of...",
+    "link": "https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies/",
+    "source": "pv magazine",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Daikin launches R32 retrofit solution for existing residential heat pump series",
+    "summary": "The Japanese manufacturer claims its retrofit approach can reduce installation time by up to 22%, capital expenditure by up to 55%, and energy consumption by up to 16%. The new range comes in three capacity classes and...",
+    "link": "https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series/",
+    "source": "pv magazine",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": 392,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Ten innovative renewable energy startups give their pitch at RE+",
+    "summary": "California-based fault-detection startup Magnefy won the fifth annual RE+ Startup Pitch Competition, beating out nine other clean energy finalists tackling challenges in solar robotics, grid cybersecurity, EV charging...",
+    "link": "https://www.pv-magazine.com/2026/11/23/ten-innovative-renewable-energy-startups-give-their-pitch-at-re/",
+    "source": "pv magazine",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "The European Competitiveness Fund, the Backbone of a Modern European Investment Policy",
+    "summary": "European businesses call for a robust, well-funded European Competitiveness Fund Dear Chancellors, Prime Ministers, Presidents, Europe is losing ground in technological leadership and struggles to scale strategic...",
+    "link": "https://cleantechnica.com/2026/11/23/the-european-competitiveness-fund-the-backbone-of-a-modern-european-investment-policy/",
+    "source": "CleanTechnica",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Petrostates’ Chokehold on COP31 Underscores Need for Rapid Electrification, Says T&E",
+    "summary": "COP31 climate talks break down shows that fossil fuel interests remain a major obstacle to climate action. The lack of a final text at the end of COP31 shows how far the fossil fuel industry is willing to go to keep its...",
+    "link": "https://cleantechnica.com/2026/11/23/petrostates-chokehold-on-cop31-underscores-need-for-rapid-electrification-says-te/",
+    "source": "CleanTechnica",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Pondering The Potential Of Plug-In VPP",
+    "summary": "I recently discussed the potential of the plug-in VPP from Jackery and Every Electric to transform urban energy storage. But the current program could be just the start. The more I discussed it at RE+, the more it...",
+    "link": "https://cleantechnica.com/2026/11/23/pondering-the-potential-of-plug-in-vpp/",
+    "source": "CleanTechnica",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Three Green Hydrogen Projects Slip Through The Trump Chopper",
+    "summary": "The startup Plug Power is among the green hydrogen stakeholders carving out more space for renewable energy in the US market, despite last year's sharp U-turn in federal energy policy. The post Three Green Hydrogen...",
+    "link": "https://cleantechnica.com/2026/11/23/green-hydrogen-us-energy-policy-plug-power-powercell/",
+    "source": "CleanTechnica",
+    "date": "2026-11-23",
+    "edition": "global",
+    "region": null,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Canada invests in new mineral exploration capabilities through the Canadian Digital Core Library",
+    "summary": "Today, Claude Guay, Parliamentary Secretary to the Minister of Energy and Natural Resources, announced nearly $3 million in funding for the Northwest Territories to scan and digitize the territory’s drill core...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-in-new-mineral-exploration-capabilities-through-the-canadian-digital-core-library.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-23",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Cop31 failed but in ‘the real world’ the transition away from fossil fuels is inevitable",
+    "summary": "The summit’s failure was due to a refusal to admit we cannot confront the climate crisis without shifting to renewables The failure of Cop31 will be measured not in inches of negotiating text, or bland promises made by...",
+    "link": "https://www.theguardian.com/environment/2026/nov/22/cop31-failed-transition-away-from-fossil-fuels-inevitable",
+    "source": "The Guardian",
+    "date": "2026-11-22",
+    "edition": "global",
+    "region": 840,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
     "summary": "An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey. The post CATL, BYD, ACWA among co-initiators of storage...",
     "link": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31/",
@@ -942,7 +1118,7 @@
     "date": "2026-11-15",
     "edition": "global",
     "region": 840,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -1195,7 +1371,7 @@
     "date": "2026-11-13",
     "edition": "global",
     "region": 840,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
@@ -1360,7 +1536,7 @@
     "date": "2026-11-12",
     "edition": "global",
     "region": 840,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
