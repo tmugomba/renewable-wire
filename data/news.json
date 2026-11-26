@@ -1,5 +1,170 @@
 [
   {
+    "title": "France triples planned renewable energy auction volume to 1.5 GW",
+    "summary": "France will increase the capacity of its upcoming technology-neutral renewable energy auction from 500 MW to 1.5 GW, opening the tender to all renewable power technologies and introducing a common baseload reference...",
+    "link": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw/",
+    "source": "pv magazine",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Gambia signs four solar PPAs totalling 232 MW",
+    "summary": "The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project. The post Gambia signs four solar PPAs totalling 232...",
+    "link": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
+    "source": "pv magazine",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Norwegian IPP shifts South African solar project to corporate buyers",
+    "summary": "Norwegian independent power producer (IPP) Scatec said it plans to withdraw a 288 MW solar project from South Africa’s public renewables procurement program and sell it into the country’s growing corporate power market...",
+    "link": "https://www.pv-magazine.com/2026/11/26/norwegian-ipp-shifts-south-african-solar-project-to-corporate-buyers/",
+    "source": "pv magazine",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Rare periods of low PV generation can be managed with storage",
+    "summary": "The German Institute for Economic Research (DIW Berlin) says that batteries could help manage shortfalls in solar and wind generation, while underground storage of green hydrogen could provide backup during prolonged...",
+    "link": "https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage/",
+    "source": "pv magazine",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": 276,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge",
+    "summary": "The hybridization of solar PV plants, the evolution of arbitrage and ancillary services revenues, the future capacity market, and the financing of energy storage projects were the focus of a roundtable organized by pv...",
+    "link": "https://www.pv-magazine.com/2026/11/26/spain-could-reach-10-gw-of-batteries-by-2030-but-bankability-remains-the-major-challenge/",
+    "source": "pv magazine",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": 724,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "India adds 11.2 GW of rooftop PV capacity in first nine months of 2026",
+    "summary": "India’s residential segment accounted for more than 95% of rooftop solar additions in the third quarter of 2026, driven by the government’s PM Surya Ghar program. Cumulative installed rooftop PV capacity reached 32 GW...",
+    "link": "https://www.pv-magazine.com/2026/11/26/india-adds-11-2-gw-of-rooftop-solar-capacity-in-first-nine-months-of-2026/",
+    "source": "pv magazine",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": 356,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Estonian solar park energized with 55 MW/250 MWh battery",
+    "summary": "Project developers say the battery energy storage system, which is tied to a 77.5 MW solar farm operational from 2024, features the Baltics’ largest battery system by storage capacity to date. The post Estonian solar...",
+    "link": "https://www.pv-magazine.com/2026/11/26/estonian-hybrid-park-energized-with-55-mw-250-mwh-battery/",
+    "source": "pv magazine",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Huawei launches Luterra S2 in Europe",
+    "summary": "The Luterra S2 uses 5 and 7 kWh battery modules featuring LFP technology and calls rated at 318 Ah. The 7 kWh module weighs 57 kg and provides 6.9 kWh of usable energy, while the 5 kWh module weighs 46 kg and provides...",
+    "link": "https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe/",
+    "source": "pv magazine",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": 840,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Switzerland raises incentives for solar below 100 kW",
+    "summary": "Switzerland has increased one-time payments for PV systems below 100 kW by CHF 40 ($47.99)/kW and raised the rate for installations below 150 kW that do not consume their own electricity. The post Switzerland raises...",
+    "link": "https://www.pv-magazine.com/2026/11/26/switzerland-raises-incentives-for-solar-below-100-kw/",
+    "source": "pv magazine",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Mexico conditionally approves 621 MW solar project in Veracruz",
+    "summary": "Mexico’s environmental authority has conditionally approved the 621.17 MWp Cerro Colorado solar project in Veracruz, which is planned across the municipalities of Sayula de Alemán and Texistepec. The post Mexico...",
+    "link": "https://www.pv-magazine.com/2026/11/26/mexico-conditionally-approves-621-mw-solar-project-in-veracruz/",
+    "source": "pv magazine",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Plug-in Solar UL Certification for US Safety Regs — What UL 3700 Does & Doesn’t Say",
+    "summary": "Millions of renters, apartment residents, and condo owners can’t put solar on a roof they don’t control. Plug-in solar, also called balcony solar or plug-in PV, offers a workaround: one or more panels connected through...",
+    "link": "https://cleantechnica.com/2026/11/26/plug-in-solar-ul-certification-for-us-safety-regs-what-ul-3700-does-doesnt-say/",
+    "source": "CleanTechnica",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "DTE Energy Advances New Michigan Solar Projects to Create Jobs & Save Customers Money on Fuel Costs",
+    "summary": "The company launches a competitive bidding process for up to 150 megawatts of new Michigan solar energy. DTE Energy has announced plans to add up to 150 megawatts of new solar energy in Michigan, creating construction...",
+    "link": "https://cleantechnica.com/2026/11/25/dte-energy-advances-new-michigan-solar-projects-to-create-jobs-save-customers-money-on-fuel-costs/",
+    "source": "CleanTechnica",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
+    "summary": "Project capable of powering 300,000 homes, with Britain having offered more than £770m to rebuild energy sector Britain will add to its multimillion pound investments in rebuilding Ukraine’s energy system by funding a...",
+    "link": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
+    "source": "The Guardian",
+    "date": "2026-11-26",
+    "edition": "global",
+    "region": 826,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Parliamentary Secretary Guay to make significant forest sector announcement",
+    "summary": "Claude Guay, Parliamentary Secretary to the Minister of Energy and Natural Resources, will highlight a significant announcement regarding the future of Canada’s forest sector. Media availability will follow.",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-guay-to-make-significant-forest-sector-announcement.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-26",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "SWTCH project modernizes older MURBs with more than 400 new EV chargers",
+    "summary": "Government incentives paid up to 80 per cent for 21 buildings, where load management software eliminated the need for electrical upgrades The post SWTCH project modernizes older MURBs with more than 400 new EV chargers...",
+    "link": "https://electricautonomy.ca/charging/multi-unit-buildings/2026-11-26/swtch-modernizes-murbs-400-new-chargers/",
+    "source": "Electric Autonomy Canada",
+    "date": "2026-11-26",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "Ireland approves 1,367 MW of solar in sixth renewables auction",
     "summary": "Ireland’s sixth onshore renewables auction (RESS 6) provisionally greenlit a total of 1,367 MW of solar across 22 projects, according to provisional results published by the grid operator. The weighted average offer...",
     "link": "https://www.pv-magazine.com/2026/11/25/ress-6-provisional-results-solar-pv-ireland/",
@@ -147,6 +312,50 @@
     "summary": "Join us on December 10 to gain insights on how to make aging EV fast-charging infrastructure new again. The post Fixing outdated fast-charging sites — a fireside discussion appeared first on Electric Autonomy Canada .",
     "link": "https://electricautonomy.ca/events/2026-11-25/fixing-ev-fast-charging-sites/",
     "source": "Electric Autonomy Canada",
+    "date": "2026-11-25",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Europe’s Solar Problem Is No Longer Solar",
+    "summary": "Europe’s solar fleet is delivering. The rules, grids, and investment framework around it are struggling to keep up. By Prof Ray Wills SolarPower Europe’s September mid-year assessment describes a familiar contradiction...",
+    "link": "https://cleantechnica.com/2026/11/25/europes-solar-problem-is-no-longer-solar/",
+    "source": "CleanTechnica",
+    "date": "2026-11-25",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "SC Solar Showcases at RE+ 2026 Garner Global Attention",
+    "summary": "Covering TOPCon, XBC, HJT, and Perovskite-Silicon Tandem Technologies; Over 1,000 Automated Module Lines Delivered Globally, More Than 40 in North America RE+ 2026 was held at the Las Vegas Convention Center from...",
+    "link": "https://cleantechnica.com/2026/11/25/sc-solar-showcases-at-re-2026-garner-global-attention/",
+    "source": "CleanTechnica",
+    "date": "2026-11-25",
+    "edition": "global",
+    "region": 840,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Minister Hodgson to make significant forest sector announcement",
+    "summary": "The Honourable Tim Hodgson, Minister of Energy and Natural Resources, will make a significant announcement regarding the future of Canada’s forest sector. Media availability will follow. Prior to the Minister’s press...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-make-significant-forest-sector-announcement.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-25",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Minister Alty and Minister Hodgson to announce energy project milestone",
+    "summary": "The Minister of Crown-Indigenous Relations, the Honourable Rebecca Alty, and the Minister of Energy and Natural Resources, the Honourable Tim Hodgson, will make an announcement regarding a significant energy project...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-alty-and-minister-hodgson-to-announce-energy-project-milestone.html",
+    "source": "Natural Resources Canada",
     "date": "2026-11-25",
     "edition": "canada",
     "region": null,
@@ -1173,7 +1382,7 @@
     "date": "2026-11-17",
     "edition": "global",
     "region": null,
-    "category": "Solar",
+    "category": "Wind",
     "major": true
   },
   {
@@ -1404,7 +1613,7 @@
     "date": "2026-11-15",
     "edition": "global",
     "region": 724,
-    "category": "Solar",
+    "category": "Wind",
     "major": false
   },
   {
