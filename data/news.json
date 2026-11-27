@@ -1,5 +1,192 @@
 [
   {
+    "title": "Japan’s 30th solar auction allocates 27.7 MW of PV capacity",
+    "summary": "Japan has selected seven PV projects ranging in size from 500 kW to 20 MW in its latest procurement exercise. The lowest bid came in at JPY 5.00 ($0.031)/kWh, while the weighted average final price reached JPY 9.13/kWh...",
+    "link": "https://www.pv-magazine.com/2026/11/27/japans-30th-solar-auction-allocates-27-7-mw-of-pv-capacity/",
+    "source": "pv magazine",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": 392,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Greenhushing, PV prices, battery prices and the shifting bottleneck",
+    "summary": "Greenhushing reflects a shift towards prioritising environmental performance over public sustainability commitments, as declining solar PV and battery costs strengthen the economic case for corporate decarbonisation...",
+    "link": "https://www.pv-magazine.com/2026/11/27/greenhushing-pv-prices-battery-prices-and-the-shifting-bottleneck/",
+    "source": "pv magazine",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "The Hydrogen Stream: BP, Iberdrola start operations at Spain’s largest green hydrogen plant",
+    "summary": "In other news, Australia and Germany are exploring hydrogen-based aviation, while Envision Energy and Greensteel Australia are considering a 400 MW green hydrogen system for low-carbon steelmaking. The post The Hydrogen...",
+    "link": "https://www.pv-magazine.com/2026/11/27/the-hydrogen-stream-bp-iberdrola-start-operations-at-spains-largest-green-hydrogen-plant/",
+    "source": "pv magazine",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": 276,
+    "category": "Hydro",
+    "major": false
+  },
+  {
+    "title": "Bangladesh makes solar equipment recycling mandatory",
+    "summary": "Bangladesh’s new Special Solar Power Installation Act requires manufacturers, suppliers and service providers to implement take-back schemes for end-of-life solar equipment, marking a step toward sustainable PV waste...",
+    "link": "https://www.pv-magazine.com/2026/11/27/bangladesh-makes-solar-equipment-recycling-mandatory/",
+    "source": "pv magazine",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Elco launches propane air-to-water heat pumps for commercial applications",
+    "summary": "The new heat pump series is available in seven versions with heating capacities ranging from 40.1 kW to 84.4 kW and seasonal coefficients of performance of up to 4.70. The systems can deliver flow temperatures of up to...",
+    "link": "https://www.pv-magazine.com/2026/11/27/elco-launches-propane-air-to-water-heat-pumps-for-commercial-applications/",
+    "source": "pv magazine",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "EU restrictions on inverters could cut European solar deployment by up to 6%, says Wood Mackenzie",
+    "summary": "Wood Mackenzie expects EU funding restrictions on projects using inverters from high-risk suppliers to reduce cumulative solar and energy storage installations across the bloc by 3% between 2027 and 2030. Limited local...",
+    "link": "https://www.pv-magazine.com/2026/11/27/eu-restrictions-on-inverters-could-cut-european-solar-deployment-by-up-to-6-says-wood-mackenzie/",
+    "source": "pv magazine",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Japan battery financing adapts to inflation-linked capacity contracts",
+    "summary": "A Japanese battery storage developer has drawn its first loans for two projects totaling 90 MW after addressing what it says were financing requirements without domestic precedent, tied to price adjustments in the...",
+    "link": "https://www.pv-magazine.com/2026/11/27/japan-battery-financing-adapts-to-inflation-linked-capacity-contracts/",
+    "source": "pv magazine",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": 392,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Chinese PV Industry Brief: China hits 1.33 TW of cumulative solar capacity",
+    "summary": "In other news, Jiangsu province has unveiled its 2027 renewable energy auction framework, Trina Solar plans to increase its stake in Trina Storage, and China Huaneng has started construction of a 400 MW offshore solar...",
+    "link": "https://www.pv-magazine.com/2026/11/27/chinese-pv-industry-brief-china-hits-1-33-tw-of-cumulative-solar-capacity/",
+    "source": "pv magazine",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "New record for UK rooftop solar, more growth predicted",
+    "summary": "More than 270,000 solar installations the United Kingdom with six weeks of 2026 still to run. Industry leaders predict further growth in 2027 beyond as new policy support measures strengthen economic case for...",
+    "link": "https://www.pv-magazine.com/2026/11/27/new-record-for-uk-rooftop-solar-more-growth-predicted/",
+    "source": "pv magazine",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": 826,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Strong El Niño coincides with uneven October solar resource across South America",
+    "summary": "In a new weekly update for pv magazine , Solcast, a DNV company, reports that solar irradiance was above average across much of the northern part of South America last month, while areas in the south-east recorded...",
+    "link": "https://www.pv-magazine.com/2026/11/27/strong-el-nino-coincides-with-uneven-october-solar-resource-across-south-america/",
+    "source": "pv magazine",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": 840,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
+    "summary": "Being locked-in a race for technological leadership with China and the US, the EU lacks focus, coordination and financial firepower to transform its industry, ensure long-term prosperity while reaching its climate...",
+    "link": "https://cleantechnica.com/2026/11/26/the-european-parliament-brings-the-eu-one-step-closer-to-a-sound-investment-policy/",
+    "source": "CleanTechnica",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": 156,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Musk Space Based Data Center Idea Is A Betrayal Of Humanity",
+    "summary": "Despite copious evidence that Elon Musk is little more than a snake oil salesman and carnival barker like P. T. Barnum, the world continues to believe the man is somehow smarter than the rest of us. Few seem to realize...",
+    "link": "https://cleantechnica.com/2026/11/27/musk-space-based-data-center-idea-is-a-betrayal-of-humanity/",
+    "source": "CleanTechnica",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "The Proof Is In The Lettuce: Perovskite Makes Things Grow Better",
+    "summary": "Greenhouse lettuce thrives under natural sunlight filtered through specialized glass from the perovskite solar startup UbiQD, while conserving water resources, too. The post The Proof Is In The Lettuce: Perovskite Makes...",
+    "link": "https://cleantechnica.com/2026/11/27/perovskite-solar-quantum-dots-lettuce-water-conservation-ubiqd/",
+    "source": "CleanTechnica",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Graph of the Day: The World Now Makes 7 Solar Panels for Every TV",
+    "summary": "In 2015, the world made six solar panels a second. In 2026, it’s on track to make ten times as many. At an Australian clean-energy conference in 2015 hosted by Renew Economy Disruption and the Energy Industry...",
+    "link": "https://cleantechnica.com/2026/11/27/graph-of-the-day-the-world-now-makes-7-solar-panels-for-every-tv/",
+    "source": "CleanTechnica",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": 36,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Minister Hodgson unveils first-ever federal strategy for Canada’s forest sector",
+    "summary": "Today, the Honourable Tim Hodgson, Minister of Energy and Natural Resources Canada, announced the release of the country’s first-ever strategy for the forest sector. The Strategy is supported by a proposed investment of...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-unveils-first-ever-federal-strategy-for-canadas-forest-sector.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-27",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Minister Hodgson unveils first-ever federal strategy for Canada's forest sector",
+    "summary": "Today, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, announced the release of the country’s first-ever Forest Sector Strategy for Canada. This plan is supported by a proposed investment of $6.5...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-unveils-first-ever-federal-strategy-for-canadas-forest-sector0.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-27",
+    "edition": "canada",
+    "region": null,
+    "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Forest Sector Strategy for Canada: Investments in British Columbia",
+    "summary": "Today, the Honourable Tim Hodgson, Minister of Energy and Natural Resources Canada, announced the release of the country’s first-ever strategy for the forest sector. The Forest Sector Strategy for Canada is supported by...",
+    "link": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/forest-sector-strategy-for-canada-investments-in-british-columbia.html",
+    "source": "Natural Resources Canada",
+    "date": "2026-11-27",
+    "edition": "canada",
+    "region": "BC",
+    "category": "Research",
+    "major": false
+  },
+  {
     "title": "France triples planned renewable energy auction volume to 1.5 GW",
     "summary": "France will increase the capacity of its upcoming technology-neutral renewable energy auction from 500 MW to 1.5 GW, opening the tender to all renewable power technologies and introducing a common baseload reference...",
     "link": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw/",
@@ -162,6 +349,17 @@
     "edition": "canada",
     "region": null,
     "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Prevost unveils first battery-electric highway coach",
+    "summary": "Quebec manufacturer targets medium-distance routes and has pilot projects and full production planned for next year The post Prevost unveils first battery-electric highway coach appeared first on Electric Autonomy...",
+    "link": "https://electricautonomy.ca/automakers/electric-buses/2026-11-26/prevost-first-electric-coach/",
+    "source": "Electric Autonomy Canada",
+    "date": "2026-11-26",
+    "edition": "canada",
+    "region": "QC",
+    "category": "Storage",
     "major": false
   },
   {
