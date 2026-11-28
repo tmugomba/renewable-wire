@@ -1,5 +1,104 @@
 [
   {
+    "title": "Integrating agrivoltaics with batteries for rural energy and food security in West Africa",
+    "summary": "Agrivoltaics offers a sustainable solution to competing land-use demands by integrating solar energy generation and agriculture, enhancing food security, water efficiency and rural livelihoods. Combined with battery...",
+    "link": "https://www.pv-magazine.com/2026/11/28/integrating-agrivoltaics-with-batteries-for-rural-energy-and-food-security-in-west-africa/",
+    "source": "pv magazine",
+    "date": "2026-11-28",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "New model optimizes perovskite-silicon tandem solar cells for satellites",
+    "summary": "South Korean-led researchers have identified optimal perovskite absorber thicknesses and bandgaps for tandem solar cells operating in different satellite orbits. Their simulations indicate that bromide-rich perovskites...",
+    "link": "https://www.pv-magazine.com/2026/11/28/new-model-optimizes-perovskite-silicon-tandem-solar-cells-for-satellites/",
+    "source": "pv magazine",
+    "date": "2026-11-28",
+    "edition": "global",
+    "region": null,
+    "category": "Innovation",
+    "major": false
+  },
+  {
+    "title": "Romanian solar and storage: What gets financed and built?",
+    "summary": "Romania’s growing solar and storage market offers significant investment opportunities, but ready-to-build status alone does not guarantee bankability. Investors must assess grid connection conditions, outstanding...",
+    "link": "https://www.pv-magazine.com/2026/11/28/romanian-solar-and-storage-what-gets-financed-and-built/",
+    "source": "pv magazine",
+    "date": "2026-11-28",
+    "edition": "global",
+    "region": null,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Chinese inverter maker bundles DC-coupled storage for commercial sites",
+    "summary": "GoodWe now links up to four liquid-cooled 261 kWh battery cabinets to a hybrid inverter and static transfer switch in a DC-coupled system that gives commercial and industrial (C I) sites just over 1 MWh of storage. The...",
+    "link": "https://www.pv-magazine.com/2026/11/28/chinese-inverter-maker-bundles-dc-coupled-storage-for-commercial-sites/",
+    "source": "pv magazine",
+    "date": "2026-11-28",
+    "edition": "global",
+    "region": 156,
+    "category": "Storage",
+    "major": false
+  },
+  {
+    "title": "Leading the energy transition: stereotypes, AI and what stays human",
+    "summary": "This week, Women in Solar+ Europe (WiSEu) and Solar+ Leaders reflect on two workshops held in Madrid during Genera that examined how bias shapes everyday leadership decisions in the energy transition. The WiSEu...",
+    "link": "https://www.pv-magazine.com/2026/11/28/leading-the-energy-transition-stereotypes-ai-and-what-stays-human/",
+    "source": "pv magazine",
+    "date": "2026-11-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Peru hits 1.24 GW of installed solar capacity across 22 plants",
+    "summary": "Peru has 1,241 MW of installed PV capacity across 22 operational installations, with three southern regions accounting for 97.3% of the total. The post Peru hits 1.24 GW of installed solar capacity across 22 plants...",
+    "link": "https://www.pv-magazine.com/2026/11/28/peru-hits-1-24-gw-of-installed-solar-capacity-across-22-plants/",
+    "source": "pv magazine",
+    "date": "2026-11-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "How cellular base stations may affect solar module performance",
+    "summary": "Researchers in Burkina Faso have found that radio-frequency electromagnetic fields may alter the internal electrical parameters and power output of solar modules. Their outdoor experiments revealed nonlinear effects...",
+    "link": "https://www.pv-magazine.com/2026/11/28/how-cellular-base-stations-may-affect-solar-module-performance/",
+    "source": "pv magazine",
+    "date": "2026-11-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Germany’s solar generation tops 100 TWh in 2026",
+    "summary": "PV systems in Germany have generated more than 100 TWh of electricity in 2026, nearly tripling output over the past decade, according to data from Fraunhofer ISE. The post Germany s solar generation tops 100 TWh in 2026...",
+    "link": "https://www.pv-magazine.com/2026/11/28/germanys-solar-generation-tops-100-twh-in-2026/",
+    "source": "pv magazine",
+    "date": "2026-11-28",
+    "edition": "global",
+    "region": 276,
+    "category": "Solar",
+    "major": false
+  },
+  {
+    "title": "Walking the walk is more important than the climate talk",
+    "summary": "Nearly a quarter of countries have breached the Paris Agreement by not submitting new nationally determined contributions to the United Nations. This isn’t a one-off, or just exclusive to governments. Recent research...",
+    "link": "https://www.pv-magazine.com/2026/11/28/walking-the-walk-is-more-important-than-the-climate-talk/",
+    "source": "pv magazine",
+    "date": "2026-11-28",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
+    "major": false
+  },
+  {
     "title": "Japan’s 30th solar auction allocates 27.7 MW of PV capacity",
     "summary": "Japan has selected seven PV projects ranging in size from 500 kW to 20 MW in its latest procurement exercise. The lowest bid came in at JPY 5.00 ($0.031)/kWh, while the weighted average final price reached JPY 9.13/kWh...",
     "link": "https://www.pv-magazine.com/2026/11/27/japans-30th-solar-auction-allocates-27-7-mw-of-pv-capacity/",
@@ -184,6 +283,17 @@
     "edition": "canada",
     "region": "BC",
     "category": "Research",
+    "major": false
+  },
+  {
+    "title": "Why European Households Are Rushing to Buy Solar Panels Ahead of a Dark, Cold Winter",
+    "summary": "Changes to solar incentives and long installation processes mean European homeowners could benefit from planning now. Winter is cold, dark, and grey. Yet for many Europeans, it’s a great time to switch to solar power...",
+    "link": "https://cleantechnica.com/2026/11/27/why-european-households-are-rushing-to-buy-solar-panels-ahead-of-a-dark-cold-winter/",
+    "source": "CleanTechnica",
+    "date": "2026-11-27",
+    "edition": "global",
+    "region": null,
+    "category": "Solar",
     "major": false
   },
   {
